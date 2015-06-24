@@ -10,6 +10,15 @@
       </button>
       <a href="http://artnux.com/" target="_blank"><img src="http://i62.tinypic.com/2u47kpl.png" border="0" alt="artNUX"></a>
     </div>
+    <ul class="nav navbar-nav nav-pills">
+      <li><label>ArtNUXtche</label></li>
+    </ul>
+    <div>
+      <ul class="nav navbar-nav nav-pills">
+        <li><a href="{{'' | prepend: site.baseurl | append: page.url_no_language }}">PT-BR</a></li>
+        <li><a href="{{'/en' | prepend: site.baseurl | append: page.url_no_language }}">EN-US</a></li>
+      </ul>
+    </div>
     <div class="navbar-collapse collapse navbar-right">
       <ul class="nav navbar-nav nav-pills">
         <li {% if page.title == "Home" %}class="active"{% endif %}><a href="{{"/" | prepend: site.baseurl }}">HOME</a></li>
