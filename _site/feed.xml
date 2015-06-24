@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://artnux.com/</link>
     <atom:link href="http://artnux.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 24 Jun 2015 17:39:21 -0300</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2015 17:39:21 -0300</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2015 17:52:40 -0300</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2015 17:52:40 -0300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -55,8 +55,8 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 - Analytics and Reporting&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/en/projetos/2015/05/01/seo/</link>
-        <guid isPermaLink="true">http://artnux.com/en/projetos/2015/05/01/seo/</guid>
+        <link>http://artnux.com/en/projetos/seo</link>
+        <guid isPermaLink="true">http://artnux.com/en/projetos/seo</guid>
         
         <category>performance</category>
         
@@ -113,8 +113,8 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 - Analytics and Reporting&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/projetos/2015/05/01/seo/</link>
-        <guid isPermaLink="true">http://artnux.com/projetos/2015/05/01/seo/</guid>
+        <link>http://artnux.com/projetos/seo</link>
+        <guid isPermaLink="true">http://artnux.com/projetos/seo</guid>
         
         <category>performance</category>
         
@@ -150,8 +150,8 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 &lt;p&gt;Usamos o sistema operacional mais seguro do mundo para melhor atender você cliente.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/en/projetos/2015/05/01/openbsd/</link>
-        <guid isPermaLink="true">http://artnux.com/en/projetos/2015/05/01/openbsd/</guid>
+        <link>http://artnux.com/en/projetos/openbsd</link>
+        <guid isPermaLink="true">http://artnux.com/en/projetos/openbsd</guid>
         
         <category>back-end</category>
         
@@ -187,8 +187,8 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 &lt;p&gt;Usamos o sistema operacional mais seguro do mundo para melhor atender você cliente.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/projetos/2015/05/01/openbsd/</link>
-        <guid isPermaLink="true">http://artnux.com/projetos/2015/05/01/openbsd/</guid>
+        <link>http://artnux.com/projetos/openbsd</link>
+        <guid isPermaLink="true">http://artnux.com/projetos/openbsd</guid>
         
         <category>back-end</category>
         
@@ -208,8 +208,8 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 &lt;p&gt;Desenvolvemos e aplicamos tecnologias OpenSource.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/en/projetos/2015/05/01/open-source/</link>
-        <guid isPermaLink="true">http://artnux.com/en/projetos/2015/05/01/open-source/</guid>
+        <link>http://artnux.com/en/projetos/open-source</link>
+        <guid isPermaLink="true">http://artnux.com/en/projetos/open-source</guid>
         
         <category>front-end</category>
         
@@ -231,8 +231,8 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 &lt;p&gt;Desenvolvemos e aplicamos tecnologias OpenSource.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/projetos/2015/05/01/open-source/</link>
-        <guid isPermaLink="true">http://artnux.com/projetos/2015/05/01/open-source/</guid>
+        <link>http://artnux.com/projetos/open-source</link>
+        <guid isPermaLink="true">http://artnux.com/projetos/open-source</guid>
         
         <category>front-end</category>
         
@@ -263,8 +263,8 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 ####Consulte-nos!&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/en/projetos/2015/05/01/netbsd/</link>
-        <guid isPermaLink="true">http://artnux.com/en/projetos/2015/05/01/netbsd/</guid>
+        <link>http://artnux.com/en/projetos/netbsd</link>
+        <guid isPermaLink="true">http://artnux.com/en/projetos/netbsd</guid>
         
         <category>back-end</category>
         
@@ -293,8 +293,8 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 ####Consulte-nos!&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/projetos/2015/05/01/netbsd/</link>
-        <guid isPermaLink="true">http://artnux.com/projetos/2015/05/01/netbsd/</guid>
+        <link>http://artnux.com/projetos/netbsd</link>
+        <guid isPermaLink="true">http://artnux.com/projetos/netbsd</guid>
         
         <category>back-end</category>
         
@@ -356,8 +356,8 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/en/projetos/2015/05/01/manutencao/</link>
-        <guid isPermaLink="true">http://artnux.com/en/projetos/2015/05/01/manutencao/</guid>
+        <link>http://artnux.com/en/projetos/manutencao</link>
+        <guid isPermaLink="true">http://artnux.com/en/projetos/manutencao</guid>
         
         <category>hardware</category>
         
@@ -423,8 +423,8 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/projetos/2015/05/01/manutencao/</link>
-        <guid isPermaLink="true">http://artnux.com/projetos/2015/05/01/manutencao/</guid>
+        <link>http://artnux.com/projetos/manutencao</link>
+        <guid isPermaLink="true">http://artnux.com/projetos/manutencao</guid>
         
         <category>hardware</category>
         
