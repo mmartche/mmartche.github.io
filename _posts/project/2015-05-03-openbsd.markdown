@@ -1,0 +1,36 @@
+---
+layout: project
+title:  "OpenBSD"
+date:   2015-05-02 00:00:00
+developer: Abner 
+categories:
+- projetos
+tags:
+- back-end
+- servidor
+thumb: project_openbsd.jpg
+img: openbsd01.jpg
+carousel:
+- openbsd01.jpg
+client: Corp.
+website: http://www.openbsd.org
+---
+##OpenBSD
+The OpenBSD project produces a freely available, multi-platform 4.4BSD-based UNIX-like operating system. Our goals place emphasis on correctness, security, standardization, and portability.
+ 
+####Why might I want to use OpenBSD?
+New users frequently want to know whether OpenBSD is superior to some other free UNIX-like operating system. That question is largely unanswerable and is the subject of countless (and useless) religious debates. Do not, under any circumstances, ask such a question on an OpenBSD mailing list.
+
+Below are some reasons why we think OpenBSD is a useful operating system:
+
+- OpenBSD runs on many different hardware platforms.
+- OpenBSD is thought of by many security professionals as the most secure UNIX-like operating system, as the result of a never-ending comprehensive source code security audit.
+- OpenBSD is a full-featured UNIX-like operating system available in source form at no charge.
+- OpenBSD integrates cutting-edge security technology suitable for building firewalls and private network services in a distributed environment.
+- OpenBSD benefits from strong ongoing development in many areas, offering opportunities to work with emerging technologies with an international community of programmers and end-users.
+- OpenBSD attempts to minimize the need for customization and tweaking. For the vast majority of users, OpenBSD "Just Works" on their hardware for their application. Not only is tweaking and customizing rarely needed, it is actively discouraged.
+
+However, whether OpenBSD is right for you is a question that only you can answer.
+
+##Nosso Propósito
+Usamos o sistema operacional mais seguro do mundo para melhor atender você cliente.

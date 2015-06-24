@@ -1,0 +1,37 @@
+---
+layout: project
+title:  " Sistema de Manutenção de Conteúdos"
+date:   2015-05-02 00:00:00
+developer: Marcelo
+categories:
+- projetos
+tags:
+- performance
+- front-end
+img: host01.jpg
+thumb: project_host.jpg
+carousel:
+- host01.jpg
+client: Corp.
+website: http://www.org
+---
+####CMS – Content Management Systems
+
+So, you think it’s time your business got on the web, but you have a limited budget and don’t need a site with all the bells and whistles ? Perhaps you’re a small business and want to keep the costs down by maintaining the finished web site yourself ? A CMS – Content Management System web site is ideal for anyone wanting to administer and control the web site themselves. There are many CMS systems out there but we recommend and prefer to work with the industry leader called WordPress.
+there are at least five reasons why you should consider WordPress for your website
+
+- It’s Free
+That’s right, free. WordPress is “open source” software. Which means as long as you have a hosting platform, you can download it without paying a cent. And if you are at all technically-minded, you can probably customise it yourself as well.
+That said, I’m a big fan of sticking to your core business and paying someone else to stick to theirs. It’s false economy to think you will “save” money by doing something yourself if you don’t have the necessary skills. Most businesses come to us first and ask us to design their web site and then once finished they take control, easily update it and maintain it.
+
+- Easy to Use
+Once you have the design and initial content down pat, we can hand it over and you can update it yourself. WordPress uses a WYSIWYG (What you see is what you get) editing platform, so no need to learn HTML (Hypertext Markup Language). Which means making edits is both quicker and easier than the days when you had to go back and forth for every minor alteration.
+
+- Plugins
+There are countless “plugins” that are free to download and can customise the site even further. Popular ones include social media share buttons, or improve security or prevent spam.
+
+- Search Engine Optimisation
+Because you can customise such things as the URL and easily add tags and categories, search engines love WordPress. And you can take that love even further by downloading one of the many free SEO plugins.
+
+- Blog Integration
+Being a blogging platform originally, it is easy-peasy to include a blog (latest news section) on your WordPress site. And Google loves fresh content, which makes news / blogging a great way to improve your search engine ranking. Plus it lets your customers and clients know what’s going on with your business.

@@ -1,0 +1,60 @@
+### GENERAL SETTINGS ###
+
+# Site settings
+title: artNUX
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+analytics: #Google analytics code in the format XX-nnnnnnnn-n
+baseurl: "" #important: start with /
+url: "http://artnux.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+# permalink: /:categories/:title
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+gems: ['jekyll-multiple-languages']
+
+languages: ['pt', 'en']
+language_default: 'pt'
+
+fill_default_content: true
+
+colors:  #in hex code if not noted else
+  primary: "darkred"#"#DC143C" #"#0e5978" #"#F70031" 
+  primary_rgb: "darkred"#"255, 0, 0, 1"#"18,52,86" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+  secondary: "#020210" #"#33004D"
+  link: "#428bca"
+  link_hover: "#01b2fe"
+  footer_heading: "#ffffff"
+  footer_content: "#bfc9d3"
+  
+  
+### CONTACT SETTINGS ###
+
+# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+social:
+#  - title: dribbble
+#    url:
+#  - title: facebook
+#    url:
+  - title: twitter
+    url: http://twitter.com/artnux 
+#  - title: instagram
+#    url: 
+#  - title: tumblr
+#    url: 
+    
+# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
+address:
+  - lines:
+    - "No momento a nossa equipe está alocada remotamente."
+    - "Usamos algumas startups para locação de salas de reunião em todo o país caso necessário, assim  tornando mais flexível para a equipe técnica e o cliente."
+    - " "
+    - "email: contato@artnux.com"
+#    - "tel: 55 11 985 32 5338/55 19 997 93 252/55 11 999 09 6556"
+
+### GENERAL DATA FOR VARIOUS LOCATIONS ###
+          
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "A ArtNUX é uma empresa focada em consultoria e serviços voltados a Open Source onde existe uma comunidade apaixonada a qual seguimos a longos anos."

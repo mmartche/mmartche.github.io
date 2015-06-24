@@ -1,0 +1,15 @@
+<div id="cwrap">
+    <div class="container">
+        <div class="row centered">
+            <h3>Nossos parceiros</h3>
+            <p>Without our partners, associations and contractors we just could not do what we do! Just some of our partners are listed below:</p>
+				<div class="row centered">
+					{% for client in site.data.clients %}
+						<div class="col-sm-3 col-sm-3 col-sm-3">
+							<img src="{{ "/assets/img/clients/" | prepend: site.baseurl }}{{ client.img }}" class="img-responsive">
+						</div>
+					{% endfor %}
+				</div>
+        </div><! --/row -->
+    </div><! --/container -->
+</div><! --/cwrap -->

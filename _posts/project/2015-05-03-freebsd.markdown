@@ -1,0 +1,40 @@
+---
+layout: project
+title:  "FreeBSD"
+date:   2015-05-02 00:00:00
+developer: Abner e Gabriel
+categories:
+- projetos
+tags:
+- back-end
+- servidor
+- performance
+thumb: project_freebsd.jpg
+img: freebsd01.png
+carousel:
+- freebsd04.png
+- freebsd02.jpg
+- freebsd03.jpg
+- freebsd04.png
+client: Corp.
+website: http://www.freebsd.org
+---
+##FreeBSD
+FreeBSD is an operating system for a variety of platforms which focuses on features, speed, and stability. It is derived from BSD, the version of UNIX® developed at the University of California, Berkeley. It is developed and maintained by a large community.
+
+####Powerful Internet solutions
+FreeBSD makes an ideal Internet or Intranet server. It provides robust network services under the heaviest loads and uses memory efficiently to maintain good response times for thousands of simultaneous user processes.
+
+- Kernel Tunning
+- NFS (Network File System)
+- Servidor Proxy 
+- Servidor Web (Apache / NginX)
+- MailServer WebMail POP/SMTP
+- Configurações de roteamento e firewall
+- Serviços de autentição(LDAP)
+- Servidor de Arquivos FreeNAS
+- Jail Virtual Server 
+- Storage ZFS 
+
+####Nosso Propósito
+Implementamos a melhor solução para sua empresa. 

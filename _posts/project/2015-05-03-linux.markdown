@@ -1,0 +1,37 @@
+---
+layout: project
+title:  "Linux"
+date:   2015-05-02 00:00:00
+developer: Abner e Gabriel
+categories:
+- projetos
+tags:
+- back-end
+- servidor
+thumb: project_linux.jpg
+img: linux01.jpg
+carousel:
+- linux01.jpg
+- linux02.jpg
+client: Corp.
+website: 
+- http://www.debian.org
+- http://www.ubuntu.org
+- http://www.redhat.com
+---
+##Linux
+- Firewall Iptables, NFtables, 
+- Kernel Hardening Pax/Grsec
+- Administração LVM
+- Serviços LDAP, DNS, Samba, NFS, FTP, SMTP, PROXY
+- Virtualização KVM, Xen e QEMU
+- Web Server Apache, Nginx
+- Sistema de Cache Web
+- Monitoramento Nagios, Zabbix, Nessus 
+- HaProxy, Blud , Ldirectord, Heartbeat
+
+####Helps us solve harder problems...
+Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.
+
+####Nosso Propósito
+Consultoria Linux em sua infra estrutura e aplicações Web.

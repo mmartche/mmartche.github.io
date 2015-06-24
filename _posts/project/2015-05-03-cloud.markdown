@@ -1,0 +1,36 @@
+---
+layout: project
+title:  "Cloud"
+date:   2015-05-02 00:00:00
+developer: Abner e Gabriel
+categories:
+- projetos
+tags:
+- back-end
+- nuvem
+thumb: project_cloud.jpg
+img: cloud01.jpg
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+client: Corp.
+website: http://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_em_nuvem
+---
+####Cloud Computing
+
+- Openstack
+- Docker 
+- Jails
+- LXC 
+- Bhyve
+- Juju 
+- Project Deployment
+- Ansible
+- Puppet
+- Cfengine 
+- Chef
+- Vagrant
+
+####Nosso Propósito
+Orquestramos e implementamos sua aplicação/infra em nuvem.

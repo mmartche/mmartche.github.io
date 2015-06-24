@@ -1,0 +1,29 @@
+---
+layout: project
+title:  "Cluster"
+date:   2015-05-02 00:00:00
+developer: Abner e Gabriel
+categories:
+- projetos
+tags:
+- back-end
+- performance
+thumb: project_cluster.jpg
+img: cluster01.jpg
+carousel:
+- cluster01.jpg
+- cluster02.jpg
+- cluster03.jpg
+- cluster04.jpg
+client: NASA.
+website: 
+- https://en.wikipedia.org/wiki/Computer_cluster
+- https://en.wikipedia.org/wiki/Red_Hat_cluster_suite
+- https://en.wikipedia.org/wiki/High-availability_cluster
+- https://en.wikipedia.org/wiki/Heartbeat_network
+---
+##CLUSTER
+Um cluster, ou agregado de computadores, é formado por um conjunto de computadores, que utiliza um tipo especial de sistema operacional classificado como sistema distribuído. Muitas vezes é construído a partir de computadores convencionais (personal computers), os quais são ligados em rede e comunicam-se através do sistema, trabalhando como se fossem uma única máquina de grande porte. Há diversos tipos de cluster. Um tipo famoso é o cluster da classe Beowulf, constituído por diversos nós escravos gerenciados por um só computador.
+
+####Nosso Propósito
+Gerenciamento de Cluster e implatanção.

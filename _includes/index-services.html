@@ -1,0 +1,15 @@
+<div id="service">
+    <div class="container">
+        <div class="row centered">
+        {% for service in site.data.index-services limit:include.limit %}
+            <div class="col-md-4">
+				<br><br>
+                <i class="fa {{ service.imgClass }}"></i>
+                <h4>{{ service.title }}</h4>
+                <p align="justify">{{ service.description }}</p>
+                <p><br/><a href="{{ service.linkUrl }}" class="btn btn-theme">Mais Informações</a></p>
+            </div>
+        {% endfor %} 				
+        </div>
+    </div><! --/container -->
+</div><! --/service -->

@@ -1,0 +1,79 @@
+---
+layout: default
+---
+
+{% include wrap.html %}
+
+<div class="container mt">
+    <div class="row">
+
+        {% include carousel.html %}
+
+        <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+
+            {{ content }}
+
+        </div>
+        <div class="col-lg-4 col-lg-offset-1">
+            <div class="spacing"></div>
+            <h4>Detalhes de Projeto</h4>
+            <div class="hline"></div>
+            <p><b>Data:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
+            <p><b>Especialista:</b> <a href="{{ "/about/" | prepend: site.baseurl }}">{{ page.developer }}</a></p>
+            <p><b>Categoria:</b> {{ page.categories }}</p>
+            <p><b>Tags:</b> 
+            {% for tag in page.tags %}
+                {{ tag }},
+                {% capture fara %}
+                    {{ fara }}{{ tag }};
+                {% endcapture %}
+            {% endfor %}
+            </p>
+            <p><b>Clientes:</b> {{ page.client }}</p>
+            <p><b>Referências:</b>
+            {% for url in page.website %}
+             <br /><a target="_blank" href="{{ url }}">{{ url }}</a>
+            {% endfor %}
+            </p>
+        </div>
+    </div><! --/row -->
+    {% if page.include == "prices" %}
+        {% include prices.html title="Nossos Planos" %}
+    {% endif %}
+</div><! --/container -->
+
+<div id="portfoliowrap">
+    <div class="portfolio-centered">
+        <h3>{{ "Projetos Relacionados" | upcase }}</h3>
+        <div class="recentitems portfolio">
+            {% for project in site.categories['projetos'] limit:10 %}
+                {% assign freestyle = false %}
+                {% for t in project.tags %}
+                    {% for tag in page.tags %}
+                        {% if t == tag %}
+                            {% assign freestyle = true %}
+                            {% break %}
+                        {% else %}
+                        {% endif %}
+                    {% endfor %}
+                </p>
+                {% endfor %}
+                {% if freestyle %}
+                <div class="portfolio-item graphic-design">
+                    <div class="he-wrap tpl6">
+                    <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.thumb }}" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">{{ project.title }}</h3>
+                                <a data-rel="prettyPhoto" href="{{ "/assets/img/project/carousel/" | prepend: site.baseurl }}{{ project.img }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
+                                <a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->      
+                    </div><!-- he wrap -->
+                </div><!-- end col-12 -->
+                {% endif %}
+            {% endfor %}
+        </div><!-- portfolio -->
+    </div><!-- portfolio container -->
+</div><!--/Portfoliowrap -->
