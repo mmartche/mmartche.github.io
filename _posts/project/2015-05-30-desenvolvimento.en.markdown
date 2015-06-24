@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  " Web Development"
+title:  " Web Development yep"
 date:   2015-05-02 00:00:00
 developer: Marcelo Andrade
 categories:
@@ -17,6 +17,7 @@ carousel:
 - single03.jpg
 client: Corp.
 website: http://martche.ca
+language: en
 ---
 ####Website Development
 ArtNux is a total solutions business, there’s nothing we do not know, and nothing we cannot handle! We take your entire process on board and assess your needs, creating a total plan and then assemble all the required facets that make up the ArtNux solution.

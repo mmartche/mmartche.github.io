@@ -21,6 +21,7 @@ website:
 relacionado:
 - devops
 include: prices
+language: "en"
 ---
 ###E-commerce Stores
 These days more and more bricks-and-mortar retailers are realising that in order to survive well into the future, it is imperative to have an online store.

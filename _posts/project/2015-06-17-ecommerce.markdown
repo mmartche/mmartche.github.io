@@ -21,6 +21,7 @@ website:
 relacionado:
 - devops
 include: prices
+language: "pt"
 ---
 ####Ecommerce
 E-commerce é o plano que você precisa para vender seus produtos on-line através de uma loja virtual. Nossos planos de  e-commerce tem como objetivo tornar sua loja acessível para todos, seja empresa ou pessoa física. Escolha o plano que você se enquadra e monte hoje sua loja virtual. Atualmente contamos com alta tecnologia e muitos recursos para as lojas cadastradas em nosso portal.
