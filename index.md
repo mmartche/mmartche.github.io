@@ -11,5 +11,5 @@ permalink: /
             <p align="justify">{{ site.about }}</p>
             <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">Mais informações</a></p>
         </div>
-    </div><! --/row -->
-</div><! --/container -->
+    </div>
+</div>
