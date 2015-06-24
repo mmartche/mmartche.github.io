@@ -14,6 +14,7 @@ permalink: pretty
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 gems: ['jekyll-multiple-languages']
+gems: ['rake']
 
 languages: ['pt', 'en']
 language_default: 'pt'
