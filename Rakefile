@@ -8,7 +8,3 @@ namespace :assets do
   end
 end
 
-desc 'Remove compiled files'
-task :clean do
-  sh "rm -rf #{File.dirname(__FILE__)}/_site/*"
-end
