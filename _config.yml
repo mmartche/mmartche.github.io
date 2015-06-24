@@ -9,8 +9,8 @@ url: "http://artnux.com"
 
 # Build settings
 markdown: kramdown
-permalink: pretty
-# permalink: /:categories/:title
+# permalink: pretty
+permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 gems: ['jekyll-multiple-languages']
