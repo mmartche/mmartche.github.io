@@ -3,6 +3,7 @@
         {% if include.title %}<h3>{{ include.title | upcase }}</h3>{% endif %}
         <div class="recentitems portfolio">
             {% for project in site.categories['projetos'] %}
+                {% if project.language == page.language %}
                 <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
                     <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.thumb }}" alt="">
@@ -15,6 +16,7 @@
                         </div><!-- he view -->      
                     </div><!-- he wrap -->
                 </div><!-- end col-12 -->
+                {% endif %}
             {% endfor %}
         </div><!-- portfolio -->
     </div><!-- portfolio container -->
