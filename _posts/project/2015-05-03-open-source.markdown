@@ -17,6 +17,7 @@ carousel:
 - single03.jpg
 client: Corp.
 website: http://opensource.org
+draft: kkk
 ---
 ####OpenSource
 OpenSource não é somente uma metologia de licensa e sim também uma cultura.

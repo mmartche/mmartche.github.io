@@ -25,14 +25,14 @@ Desenvolvimento de Websites
 Possuímos todas as soluções para o seu Negócio, não ha nada que não sabemos, e nada que não consigamos controlar! Pegamos seu processo por completo e avaliamos suas necessidades, criando um plano total e, em seguida, reunir todas as facetas necessários que compõem a nossa solução.
 Sabemos que o design do site é o processo de criação de um grande site e o desenvolvimento de sites significa que não só parece bom, ele funciona também de todas as perspectivas.
 Também temos uma excelente compreensão das questões de qualidade em todas as áreas importantes, incluindo gráficos, conteúdo do site, questões de código, SEO (search engine optimization), e marketing.
-Desenvolvimento Web com o ArtNux significa que você começa uma grande vantagem em relação aos concorrentes, e o melhor de tudo é que você pode ter toda a experiência do cliente mais fácil do que você pode imaginar, lidando conosco apenas. Somos uma empresa de soluções totais! Nós gostamos de chamá-lo de uma relação de negócios de ganho mútuo.
+Desenvolvimento Web com o {{ site.title }} significa que você começa uma grande vantagem em relação aos concorrentes, e o melhor de tudo é que você pode ter toda a experiência do cliente mais fácil do que você pode imaginar, lidando conosco apenas. Somos uma empresa de soluções totais! Nós gostamos de chamá-lo de uma relação de negócios de ganho mútuo.
 
 
 ###Criação de conteúdo
 
 Ter conteúdo exclusivo é ser rei! O conteúdo é o combustível que impulsiona a internet e cria websites surpreendentes. Tendo um conteúdo de qualidade otimizado em seu web site on-line, blog de notícias e canais de mídia sociais (Facebook, Twitter etc) irá garantir que os clientes vão olhar para você, encontrá-lo e se envolver com você.
 
-Criação de conteúdo original e interessante direcionados para o seu negócio e produtos é muito demorado. É aí que a equipe da ArtNux pode ajudar. Temos mais de 15 anos de experiência na criação de conteúdo para newsletters, novos posts e artigos, comunicados de imprensa, criação de conteúdo web, vídeos online, conteúdo de imagem, mídia social criação de conteúdo, sistema de comunicação interna e controles, intranet e muito mais!
+Criação de conteúdo original e interessante direcionados para o seu negócio e produtos é muito demorado. É aí que a equipe da {{ site.title }} pode ajudar. Temos mais de 15 anos de experiência na criação de conteúdo para newsletters, novos posts e artigos, comunicados de imprensa, criação de conteúdo web, vídeos online, conteúdo de imagem, mídia social criação de conteúdo, sistema de comunicação interna e controles, intranet e muito mais!
 
 
 ###Email & Web Site Hosting

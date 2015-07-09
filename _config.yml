@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: artNUX
+title: artNUXtche
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
@@ -57,4 +57,5 @@ address:
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
           
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "A ArtNUX é uma empresa focada em consultoria e serviços voltados a Open Source onde existe uma comunidade apaixonada a qual seguimos a longos anos."
+about: "Somos uma empresa focada em consultoria e serviços voltados a Open Source onde existe uma comunidade apaixonada a qual seguimos a longos anos."
+about2: "Somos mais do que profissionais porque fazemos o que gostamos, de coração. Agindo no ponto certo onde é vital."

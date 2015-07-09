@@ -21,7 +21,7 @@ include: prices
 ####Uma hospedagem do tamanho da sua necessidade.
 Deseja hospedar seus sites por um preço incrível, mas não pode abrir mão da qualidade?  Com certeza alguns de nossos planos de hospedagem de sites, se encaixam perfeitamente no que você está procurando! Hospede seu site em nossos servidores, e use o que há de melhor  em performance, qualidade e segurança garantida.
 
-ARTNux oferece as últimas e mais inovadoras tecnologias na área de hospedagem web. Abaixo estão alguns dos destaques que fazem a Única Hosting se destacar no mercado de webhost.
+{{ site.title }} oferece as últimas e mais inovadoras tecnologias na área de hospedagem web. Abaixo estão alguns dos destaques que fazem a Única Hosting se destacar no mercado de webhost.
 
 ####Em todos os planos você conta com:
 - Programação:

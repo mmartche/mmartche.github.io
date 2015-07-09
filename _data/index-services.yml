@@ -1,7 +1,7 @@
 # Main Services Informations. Shown on index page.
 
   - title: Consultoria
-    description: A ArtNUX oferece o serviço de consultoria em sua arquitetura e infraestrutura possibilitando o aperfeiçoamento tecnológico e progressivo preparando a sua empresa para grandes negócios. Nosso objetivo maior é lidar com total transparência em toda a análise que fazemos mantendo nossa eficácia na implementação de qualquer projeto. Trabalhamos com todas as ferramentas de tracking e projetos, interação com o cliente a todo momento e suporte.
+    description: A {{ site.title }} oferece o serviço de consultoria em sua arquitetura e infraestrutura possibilitando o aperfeiçoamento tecnológico e progressivo preparando a sua empresa para grandes negócios. Nosso objetivo maior é lidar com total transparência em toda a análise que fazemos mantendo nossa eficácia na implementação de qualquer projeto. Trabalhamos com todas as ferramentas de tracking e projetos, interação com o cliente a todo momento e suporte.
     linkUrl: \#
     imgClass: fa-comments-o
 

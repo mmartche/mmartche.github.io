@@ -13,3 +13,5 @@ permalink: /
         </div>
     </div>
 </div>
+
+{% include clients-en.html %}

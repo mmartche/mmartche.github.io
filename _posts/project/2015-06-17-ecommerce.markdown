@@ -26,7 +26,7 @@ language: "pt"
 ####Ecommerce
 E-commerce é o plano que você precisa para vender seus produtos on-line através de uma loja virtual. Nossos planos de  e-commerce tem como objetivo tornar sua loja acessível para todos, seja empresa ou pessoa física. Escolha o plano que você se enquadra e monte hoje sua loja virtual. Atualmente contamos com alta tecnologia e muitos recursos para as lojas cadastradas em nosso portal.
 OpenCart é uma plataforma Inovadora, rápida, responsiva e Open Source onde possui uma tecnologia rápida, estável e segura para seu ambiente de ecommerce.
-Junto com a Artnux Services podemos oferecer o melhor que existe em segurança, loja virtual e consultoria para seu negócio.
+Junto com a {{ site.title }} Services podemos oferecer o melhor que existe em segurança, loja virtual e consultoria para seu negócio.
 
  Todas as lojas incluem:
 - Especificações PCI Compliant
