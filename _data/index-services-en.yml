@@ -1,0 +1,33 @@
+# Main Services Informations. Shown on index page.
+
+  - title: Consultoria
+    description: A {{ site.title }} oferece o serviço de consultoria em sua arquitetura e infraestrutura possibilitando o aperfeiçoamento tecnológico e progressivo preparando a sua empresa para grandes negócios. Nosso objetivo maior é lidar com total transparência em toda a análise que fazemos mantendo nossa eficácia na implementação de qualquer projeto. Trabalhamos com todas as ferramentas de tracking e projetos, interação com o cliente a todo momento e suporte.
+    linkUrl: \#
+    imgClass: fa-comments-o
+
+  - title: Segurança da Informação
+    description: Estamos preparados para trabalhar com análise de segurança e vulnerabilidades de seu ambiente, prestando serviços de TDI (Teste de Intrusão), Segurança de Aplicações Web e Desktop e Análise apurada de Segurança englobando serviços de banco de dados e Ecommerce.
+                Nossa equipe é remota e flexível podendo assim atingir a escala da sua empresa.
+                Trabalhamos com parceiros consideráveis tanto nacionais como multis no ramo as quais juntos podemos melhorar a segurança da sua empresa.
+    linkUrl: #
+    imgClass: fa-lock
+
+  - title: Open Source
+    description: A cada dia possuímos mais e mais tecnologias Open Source de excelente qualidade como plataformas e-commerce, sistemas operacionais, softwares e aplicações para gerenciamento e segurança as quais já estão envolvidas em grandes corporações (Amazon, Netflix, Google dentre outras), somos especialistas em tecnologias Open Source e prestamos serviço de suporte e consultoria para que sua empresa possa evoluir de forma rápida, escalável e com suporte.
+    linkUrl: \#
+    imgClass: fa-certificate
+
+  - title: Desenvolvimento Web
+    description: 
+    linkUrl: \#
+    imgClass: fa-comments-o
+
+  - title: Segurança
+    description: Fala um pouco do que vc vai oferecer e tal
+    linkUrl: #
+    imgClass: fa-lock
+
+  - title: Servidor
+    description: Fala um pouco do que vc vai oferecer e tal
+    linkUrl: \#
+    imgClass: fa-certificate
