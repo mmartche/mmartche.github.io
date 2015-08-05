@@ -16,6 +16,8 @@ carousel:
 - email_marketing03.jpg
 client: Corp.
 website: http://www.org
+priority: 0.6
+description: In the right hands, email marketing is an incredibly powerful tool. After all, what else gets your message straight to a targeted audience that has opted to receive it?
 ---
 ###Email Marketing
 

@@ -1,0 +1,81 @@
+# Lista com os Planos /price/
+
+  - name: 1
+    title: Plano Vira-Lata
+    description: /\ 
+    value: 'R$ 150,00 per month'
+    items:
+      - title: 1.000 Produtos
+      - title: Pedidos com notificação por e-mail ou SMS (necessário contratar plano);
+      - title: Cadastro de multiplos endereços por cliente;
+      - title: Histórico de produtos acessados pelo cliente;
+      - title: Produtos mais vendidos;
+      - title: Processo de compra simplificado;
+      - title: Sistema inteligente de acumulo de produtos e cálculo de frete;
+      - title: 'Recursos de compartilhamento em redes sociais: Facebook e Twitter;'
+      - title: 'Super Filtro: Pesquisa de produtos por faixa de preço e diversas opções via form; '
+      - title: Diversas categorias de destaques de produtos;
+      - title: Controle de estoque;
+      - title: 'Relatórios por clientes, produtos e pedidos.'
+      - title: Cadastro detalhado de produtos;
+      - title: Possibilidade de integração de estoque e preços via banco de dados;
+      - title: Desconto especial para toda a loja com percentual e data limite configurável;
+      - title: Configuração do rodapé da loja virtual;
+      - title: Configuração da página de contato;
+      - title: Controle de cadastro de clientes;
+      - title: Cadastro e relacionamento por marcas;
+      - title: Cupons de desconto;
+      - title: Metas Tags individuais por produto.
+      - title: 'Diversas opções de entrega (Correios, retirar entrega gratis);'
+      - title: 'Recursos avançados de SEO: Metatags individuais, Sitemaps e Robots gerados automaticamente;'
+      - title: 'Preço diferenciado para pagamento com boleto, transferencia online e depósito;'
+      - title: Cupom de desconto automático para usuários cadastrados em newsletter ou por valor;
+      - title: 'Diversas opções de preços: Normal, promoção e para pagamento a vista, etc;'
+      - title: Perguntas e comentários de produtos;
+      - title: Inserção de vídeos / Youtube;
+      - title: Integração com diversas plataformas para melhor divulgar seus produtos
+      - title: 'Integração com Google Webmasters Tools, Analytics e códigos de conversão;'
+      - title: Gerador de XML para integração com Shoppings Virtuais; (consulta)
+      - title: Customização de tamanho de exibição de imagens de produtos
+      - title: Desconto a partir de valor determinado com percentual e data limite configurável
+  - name: 2
+    title: Plano Pura Raça
+    description: /\ 
+    value: 'R$ 500,00 per month'
+    items:
+      - title: + O plano Vira-Lata
+      - title: 5.000 Produtos
+      - title: Ambiente protegido por SSL em áreas de acesso a dados
+      - title: Mais de 10 possibilidades de inserção de banners
+      - title: Página de perguntas e respostas frequentes
+      - title: Criação de páginas institucionais
+      - title: Mensagens personalizadas utilizadas em confirmações de e-mail
+      - title: Desconto especial para clientes em perfil diferenciado como revendedores por exemplo
+      - title: '10 possibilidades de customização do menu vertical de departamentos em 4 grupos diferenciados (Home, seções, detalhes do produto e páginas institucionais);'
+      - title: Customização de estrutura de páginas com possibilidade de exibir ou inativar Menus e banners
+      - title: Definição de ordens de departamentos e produtos
+      - title: Configuração de quantidade de produtos exibidos por página e na página principal
+  - name: 3
+    title: Plano Pedigree
+    description: /\ 
+    value: '* Consulte-nos'
+    items:
+      - title: + Plano Vira-Lata
+      - title: + Plano Pura Raça
+      - title: Sem limite de produtos
+      - title: Cliente Workflow
+      - title: Cadastro de e-mail marketing segmentado
+      - title: Recuperação de carrinho de compras e diversos níveis de notificação
+      - title: Nuvem de tags por departamento;
+      - title: Pesquisa automática de endereço por CEP.
+      - title: Múltiplos níveis de pedido com aviso de cobrança e confirmação de recebimento;
+      - title: Sistema de afiliados para parcerias
+      - title: E-mails em formato HTML com possibilidade de customizar topo e cores;
+      - title: Possibilidade de integração de estoque e atualização de preço com ERP
+      - title: Restrição de horário para o painel administrativo
+      - title: Cadastro de vendedores para seleção pelo cliente
+      - title: Integração com sistema de análise de risco FControl
+      - title: Ferramenta de bloqueio de IP
+      - title: Visualização detalhada de todos os carrinhos criados na loja virtual
+      - title: Criação de níveis de usuários com permissão de acesso controlada ao painel administrativo
+      - title: Gerenciador de design ideal para profissionais de criação personalizarem o layout da loja virtual

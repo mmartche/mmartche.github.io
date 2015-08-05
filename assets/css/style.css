@@ -5,3 +5,10 @@ layout: style
 #service .col-md-4 {
 	height: 500px;
 }
+.content-top .ct-subtitle {
+	color: #fff;
+}
+h1 {
+	padding: 0;
+	margin: 0;
+}

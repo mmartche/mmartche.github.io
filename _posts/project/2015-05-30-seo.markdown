@@ -15,47 +15,50 @@ carousel:
 - seo02.jpg
 client: Corp.
 website: http://www.org
+priority: 0.6
+description: Se você não estiver ciente, a maioria dos usuários dos sites de busca, a maioria esmagadoramente clicam nos resultados orgânicos (resultados livres) no Google e Bing, antes que eles cliquem em um patrocinador pago anúncio, por uma margem de 94 por cento a 6 por cento.
 ---
 ####SEO & SEM
-If you’re not already aware, on average search engine users overwhelmingly click on the organic results (free results) on Google and Bing, before they click on a sponsor paid ad listing, by a margin of 94 percent to 6 percent.
-Se você não estiver ciente, em média de usuários do motor de busca, clique em esmagadoramente nos resultados orgânicos (resultados livres) no Google e Bing, antes que eles cliquem em um patrocinador pago anúncio, por uma margem de 94 por cento a 6 por cento.
+Se você não estiver ciente, a maioria dos usuários dos sites de busca, a maioria esmagadoramente clicam nos resultados orgânicos (resultados livres) no Google e Bing, antes que eles cliquem em um patrocinador pago anúncio, por uma margem de 94 por cento a 6 por cento.
+
+Durante os últimos 15 anos, temos trabalhado com centenas de empresas nacionais e internacionais na área de desenvolvimento de web sites e search engine optimization (SEO) a partir de nossa base em São Paulo. Nós garantimos que nossos desenvolvimento web vai entregar mais clientes para o seu site. A maioria dos consumidores encontram sites digitando uma palavra-chave em um dos principais motores de busca. Se o seu site está devidamente otimizado para as palavras-chave adequadas, irá aparecer perto do topo dos resultados de busca. Quanto mais alto o ranking do seu site, mais visitantes ele deve receber. Melhor ainda, porque esses visitantes escolhem as palavras-chave, você sabe que eles são perspectivas ideais para o seu negócio.
+
+Para classificar sites diferentes, cada motor de pesquisa utiliza um algoritmo diferente, olhando para diferentes componentes do seu web site, incluindo título do documento, meta tags, palavras-chave na URL, palavras-chave no texto, títulos no texto, número de páginas, e links externos para o site. Muitas empresas de web design e agências de mídia vai usar o software que promove seu Web site, este não é sempre benéfico e pode afetar negativamente a sua classificação. Nós sempre otimizamos manualmente o seu site para frases relevantes e, em seguida, enviar seu site para os principais motores de busca e diretórios.
+
+####Desenvolvimento Web e Garantia de Qualidade SEO
+
+Como uma empresa web certificada, nós fazemos a satisfação do cliente uma prioridade fundamental. Desde sempre as Ferramentas de Busca estão evoluindo rapidamente, tecnicamente complexas e muitas vezes incompreendidos que tomaram a iniciativa de desenvolver com a Garantia de Qualidade. Nós garantimos explicitamente os seguintes padrões de prática em todos os projetos de otimização de mecanismo de busca que realizamos.
+
+Nós otimizamos sites para ter apenas as palavras-chave mais relevantes. Nós não usamos "técnicas de camuflagem" que mostram os motores de busca e os usuários da web de conteúdo diferente.
+
+Nós monitoramos a eficácia dos nossos serviços de otimização e fornecer todos os clientes um acompanhamento em relatório detalhando a classificação do seu site com os principais motores de busca.
+
+Nosso foco principal é melhorar a experiência de pesquisa para usuários da Internet, ajudando os motores de busca encontrar resultados relevantes. Os motores de busca mudam os algoritmos que eles usam para classificar sites com freqüência e não é possível prever com precisão futuros rankings e tráfego.
+
+No entanto, nós usamos técnicas que sabemos trabalhar em sites padrão e antecipam um aumento significativo no tráfego do site qualificado.
+
+Nós não somos apenas um serviço de registro de motor de busca. Oferecemos um programa de marketing de destino pin-point que:
+
+Trabalha com você para identificar a palavra-chave mais relevantes. Otimiza manualmente documentos-chave do seu site usando nossas tecnicas. Oferecemos comprovadas de estratégia. Garantimos a promoção da marca e o seu ranking web vai melhorar. Garantindo que o tráfego do seu site vai aumentar.
+Search engine optimization é uma parte crucial no meio de marketing, mas muitos sites não são projetados para ser amigável com motores de busca e muitas vezes faltando componentes-chave que são importantes para a obtenção de uma boa classificação.
 
 
-During the last 15 years we have worked with hundreds of Australian and international companies in the area of web site promotion and search engine optimisation (SEO) from our base in Sydney. We guarantee that our web promotion services will deliver more enquires and customers to your site. Most consumers find web sites by typing a keyword phrase into one of the major search engines. If your site is correctly optimised for the appropriate keywords it will appear near the top of the search results. The higher your site’s ranking, the more visitors it should receive. Better still, because these visitors chose your keywords themselves, you know they are ideal prospects for your business.
+####SEO em E-commerce
 
-To rank different web sites, each search engine uses a different algorithm, looking at different components of your web site including document title, meta tags, keywords in the URL, keywords in the text, headings in the text, number of pages, and external links into the site. Many web design and media agency companies will use software that promotes your web site, this is NOT always beneficial and can negatively affect your rankings. We always manually optimise your site for relevant phrases and then submit your site to the top search engines and directories.
+Como uma empresa de soluções totais nosso objetivo é ajudar nossos clientes a gerar mais visibilidade, receita e lucratividade de seu site de comércio eletrônico online.
 
-Web Promotion and SEO Quality Guarantee
+Usando nossos serviços e estratégias estabelecidas e testadas, estes podem incluir:
 
-As a certified web promotion company, we have made customer satisfaction a fundamental priority. Since Search Engine Optimisation is a rapidly evolving, technically complex and often misunderstood field we have taken the initiative of developing the Search Engine Optimisation Quality Guarantee. We explicitly guarantee the following standards of practice on all search engine optimisation projects that we undertake.
-
-We optimise web sites for relevant keywords only. We do not use ‘cloaking techniques’ that show search engines and web users different content.
-
-We monitor the effectiveness of our optimisation services and provide all clients with a follow up report detailing their site’s rankings with the major search engines.
-
-Our primary focus is to improve the search experience for web users by helping search engines find relevant results. Search engines change the algorithms they use to rank web sites frequently and it is not possible to accurately predict future rankings and traffic.
-
-However, we use techniques that we know work on standard sites and anticipate a significant increase in qualified site traffic.
-
-We are not just a search engine registration service. We offer a pin-point target marketing programme that:
-
-Works with you to identify your most relevant keyword phrases.Manually optimises your web site’s key documents using our proven techniques.Offers ongoing web promotion strategies.Guarantees your web rankings will improve.Guarantees your web site’s traffic will increase.
-Search engine optimisation is a crucial part of the marketing mix but many websites are not designed to be search engine friendly and are often missing key components that are important for gaining good rankings.
-
-####E-commerce SEO
-
-As a total solutions business our aim is to help our customers generate more leads, revenue and profitability from their online ecommerce website.
-
-Using our established and tried services and strategies, these can include:
 - SEO = Search Engine Optimization
-- PPC = Pay Per Click Management
-- Social Media Consulting and Marketing
-- ECO = Ecommerce Conversion Optimization
-- Ecommerce Website Design
+- PPC = Pay Per Click Gestão
+- Mídias Sociais e Marketing Consulting
+- ECO = Otimizar a Conversão do Ecommerce
+- Ecommerce Web Design
 
-Our SEO campaigns include:
-- Keyword Research and Analytical Review
-- SEO Analysis and DSO Recommendations
-- Site Content Optimization
+Nossas campanhas de SEO incluem:
+
+- Palavra-chave Pesquisa e auditoria analítica
+- Análise de SEO e DSO Recomendações
+- Otimização do conteúdo do site
 - Natural Link Building
-- Analytics and Reporting
+- Analytics e Relatórios

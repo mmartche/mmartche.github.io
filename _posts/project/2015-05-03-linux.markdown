@@ -18,6 +18,8 @@ website:
 - http://www.debian.org
 - http://www.ubuntu.org
 - http://www.redhat.com
+priority: 0.6
+description: Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.
 ---
 ##Linux
 - Firewall Iptables, NFtables, 

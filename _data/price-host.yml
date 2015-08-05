@@ -1,0 +1,36 @@
+# Lista com os Planos /price/
+
+  - name: 1
+    title: Plano Vira-Lata
+    # title: Plano Ninja
+    description: /\ 
+    value: 'R$ 50,00 por mês'
+    items:
+      - title: Site Institucional
+      - title: Blog
+      - title: Word Press
+      - title: S.E.O.
+      - title: Direito Autoral Próprio
+  - name: 2
+    title: Plano Pura Raça
+    # title: Plano Samurai
+    description: /\ 
+    value: 'R$ 500,00 por mês'
+    items:
+      - title: Ecommerce
+      - title: Blog
+      - title: Open Cart
+      - title: S.E.O.
+      - title: Direito Autoral Próprio
+      - title: Monetização
+  - name: 3
+    title: Plano Pedigree
+    # title: Plano Jedi
+    description: /\ 
+    value: '* Consulte-nos'
+    items:
+      - title: Open Source
+      - title: Direito Autoral Compartilhado
+      - title: Alta Performance
+      - title: Relatórios Completos
+        desc: Em tempo real e com base histórica

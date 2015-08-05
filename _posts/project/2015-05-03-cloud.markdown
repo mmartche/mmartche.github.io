@@ -16,6 +16,8 @@ carousel:
 - single03.jpg
 client: Corp.
 website: http://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_em_nuvem
+priority: 0.6
+description: Orquestramos e implementamos sua aplicação/infra em nuvem.
 ---
 ####Cloud Computing
 

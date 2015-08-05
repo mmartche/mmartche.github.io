@@ -14,6 +14,8 @@ carousel:
 - openbsd01.jpg
 client: Corp.
 website: http://www.openbsd.org
+priority: 0.6
+description: The OpenBSD project produces a freely available, multi-platform 4.4BSD-based UNIX-like operating system. Our goals place emphasis on correctness, security, standardization, and portability.
 ---
 ##OpenBSD
 The OpenBSD project produces a freely available, multi-platform 4.4BSD-based UNIX-like operating system. Our goals place emphasis on correctness, security, standardization, and portability.

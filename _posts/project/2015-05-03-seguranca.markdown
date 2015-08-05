@@ -15,6 +15,8 @@ carousel:
 client: Corp.
 website: http://artnux.com
 draft: on
+priority: 0.6
+description: Segurança é o nosso foco e você deseja o mesmo?
 ---
 ##Segurança
 - TDI - Teste de Invasão 

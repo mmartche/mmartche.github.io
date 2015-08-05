@@ -1,0 +1,14 @@
+# Lista com os Recursos do dev vira lata
+
+- title: Limite de produtos
+  check1: '1.000'
+  check2: '5.000'
+  check3: ilimitado
+- title: Espaço em disco
+  check1: 1 GB
+  check2: 5 GB
+  check3: ilimitado
+- title: Transferência / Mês
+  check1: 10 GB
+  check2: 50 GB
+  check3: ilimitado

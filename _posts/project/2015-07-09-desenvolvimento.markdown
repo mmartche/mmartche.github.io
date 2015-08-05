@@ -18,6 +18,8 @@ carousel:
 client: Corp.
 website: http://martche.ca
 language: pt
+priority: 0.7
+description: Desenvolvimento de Websites. Possuímos todas as soluções para o seu Negócio, não ha nada que não sabemos, e nada que não consigamos controlar! 
 ---
 ####Desenvolvimento de Websites
 
@@ -47,26 +49,27 @@ Se você está apenas começando seu primeiro site, vindo de outro servidor de h
 
 Se você já tem um site ou e-mail e são importantes para o seu negócio, você vai dormir melhor sabendo que você selecionou um serviço web com qualidade internacional de hospedagem. Temos vindo a acolher ambos os sites nacionais e internacionais na web para mais de vinte anos. Estamos bem conhecidos pela nosso apoio personalizado e experiência, combinados.
 
-####Desenvolvimento em linguagens 
-- AJAX
-
-- CMS Wordpress Jekyll
-
-- CSS/SaSS
+####Temos domínio total sobre as linguagens:
 
 - HTML 5
 
-- Javascript/AngularJS/React/Firebase/AngularJS/Node.js/JQuery
+- CSS / SaSS
+
+- Javascript - AngularJS / React / AngularJS / Node.js / JQuery / Mithil
+
+- AJAX
 
 - PHP/SQL
 
-- Objective-C/PhoneGap
+- CMS - Wordpress / Jekyll
 
-- Ruby/Rails 
+- Objective-C / PhoneGap
 
-- Rethink/Redis
+- Ruby / Rails 
 
-- Entre outras plataformas
+- Rethink / Redis / Firebase / MongoDB
+
+- Entre outras plataformas, 
 
 ####Nosso Propósito
 Aplicações Web e Mobile.

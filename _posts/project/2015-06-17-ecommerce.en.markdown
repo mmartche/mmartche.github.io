@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "ECOMMERCE"
+title:  "E-COMMERCE"
 date:   2015-05-02 00:00:00
 developer: Marcelo Andrade
 categories:
@@ -11,23 +11,23 @@ tags:
 - seo
 thumb: project_opencart.jpg
 img: opencart01.jpg
-carousel:
-- opencart.jpg
-- magento.jpeg 
+carousel: 
 client: Corp.
 website:  
 - http://www.opencart.com
 - http://www.magento.com
 relacionado:
 - devops
-include: prices
+include: prices-ecom
+features: ecommerce
 language: "en"
+priority: 0.6
+description: These days more and more retailers are realising that in order to survive well into the future, it is imperative to have an online store.
 ---
-###E-commerce Stores
-These days more and more bricks-and-mortar retailers are realising that in order to survive well into the future, it is imperative to have an online store.
+These days more and more retailers are realising that in order to survive well into the future, it is imperative to have an online store.
 Moving online is an essential part of the sales funnel, it also increases brand exposure and allows even the smallest operator to punch above their weight, but with so many options out there – how does a small retailer decide what will work best for them, before investing thousands of dollars?
 
-####Firstly!
+###Firstly
 
 It pays to know the basics, such as the various pre-packaged options available
 (Magento, PrestaShop, Zen cart, osCommerce, VirtueMart, OpenCart and many other e-commerce engines). You can either look at a full e-commerce solution, or simply add a shopping cart to your WordPress (or other content management system), existing web site or even your facebook page site.
@@ -50,33 +50,31 @@ You also need to think about what sort of payment options you might offer. The m
 
 Set up and monitor your analytics, so you can determine what parts of your conversion funnel are working, and can tweak when necessary.
 
-Direct Sites Online specialises in helping bricks-and-mortar stores get online.
 
- Todas as lojas incluem:
-- Especificações PCI Compliant
-- Multi Línguas
-- Integração com Gateways de Pagamento (Pagseguro, Paypal, Bitcoins)
-- Api integrada com Google, Mercado Livre entre outros.
-- Responsivo Mobile, Tablet, Desktop
-- Limite de Itens
-- Controle de Page Views
-- Controle total sobre Relatórios
-- Controle Estoque Local
-- Chat
-- Histórico do cliente
-- Gerenciamento de Pedidos
-- Cliente Workflow
-- Carrinho Abandonado
-- Cálculo de Frete
-- Mapas
-- Venda Casada
-- Cupom de desconto
-- Review de Produtos
-- 99.9% Uptime Garantido. Não saia do ar!
-- Preço Justo
-- Painel administrativo em português
+####Consult us!
 
-####Nosso Propósito
-Deseja uma loja virtual ou você que pensa em uma plataforma a nível Black Friday.
+Along with the {{ site.co_name }}, we can offer the best safely, shop and consulting for your business.
+{{ site.co_name }} specializes in developing online stores.
+We use an innovative platform, fast, responsive, which has a fast, stable and secure technology for its e-commerce environment.
 
-####Consulte-nos!
+We have the plan for you sell your products through an online store. Our e-commerce plans aims to make its accessible store for everyone, whether a company or individual. Choose the plan that fits you and mount your virtual store today. Currently we have high technology and many resources for stores registered on our portal.
+
+- Specifications PCI Compliant
+- Multi Languages
+- Integration with Payment Gateways (PagSeguro, Paypal, Bitcoins)
+- Integrated with Google Api, Free Market among others.
+- Responsive Mobile, Tablet, Desktop
+- Full control over report
+- Local Inventory Control
+- Chat*
+- Customer History
+- Order Management
+- Client Workflow
+- Shipping Calculation
+- Maps
+- Tying Sell
+- Discount coupon
+- Review of Products
+- Uptime Guaranteed. Do not offline!
+- Fair Price
+- Administrative Panel Multi Language

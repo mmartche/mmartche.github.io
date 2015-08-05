@@ -118,11 +118,11 @@ a:focus {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: darkred;
+	color: darkgreen;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: darkred;
+	color: darkgreen;
 	background-color: transparent;
 }
 
@@ -153,8 +153,8 @@ a:focus {
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
   color: #fff;
-  background-color: darkred;
-  border-color: darkred;
+  background-color: darkgreen;
+  border-color: darkgreen;
 }
 
 .dmbutton:hover,
@@ -216,7 +216,7 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: darkred;
+	background-color: darkgreen;
 	min-height: 0px;
 	padding-top: 100px;
 	padding-bottom: 50px;
@@ -244,7 +244,7 @@ a:focus {
 }
 
 #service i {
-	color: darkred;
+	color: darkgreen;
 	font-size: 60px;
 	padding: 15px;
 }
@@ -292,15 +292,15 @@ a:focus {
 {
 	height:100%;
 	width:100%;
-	background-color:darkred;
-	background-color:rgba(darkred,.9);
+	background-color:darkgreen;
+	background-color:rgba(darkgreen,.9);
 	text-align:center;
 }
 
 /* Testimonials Wrap */
 #twrapback {
-    background-color: darkred;
-    background-color:rgba(darkred,.8);
+    background-color: darkgreen;
+    background-color:rgba(darkgreen,.8);
     position: absolute;
     top: 0;
     left: 0;
@@ -376,7 +376,7 @@ a:focus {
 }
 
 #footerwrap i:hover {
-	color: darkred
+	color: darkgreen
 }
 
 /*	################################################################
@@ -385,7 +385,7 @@ a:focus {
 /* General Tweaks */
 
 #blue {
-	background: darkred;
+	background: darkgreen;
 	margin-top: 60px;
 	margin-bottom: 60px;
 	padding-top: 25px;
@@ -420,7 +420,7 @@ a:focus {
 }
 
 .ctitle {
-	color: darkred;
+	color: darkgreen;
 	font-weight: 700;
 	margin-bottom: 15px;
 }
@@ -436,7 +436,7 @@ csmall {
 }
 
 .badge-theme {
-	background: darkred;
+	background: darkgreen;
 }
 
 /* Contact Page */
@@ -509,4 +509,11 @@ a.anchor{
 
 #service .col-md-4 {
 	height: 500px;
+}
+.content-top .ct-subtitle {
+	color: #fff;
+}
+h1 {
+	padding: 0;
+	margin: 0;
 }

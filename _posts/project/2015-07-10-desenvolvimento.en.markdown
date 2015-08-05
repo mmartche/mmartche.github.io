@@ -18,6 +18,8 @@ carousel:
 client: Corp.
 website: http://martche.ca
 language: en
+priority: 0.7
+description: Website Development in total solutions business, there’s nothing we do not know, and nothing we cannot handle! 
 ---
 ####Website Development
 {{ site.title }} is a total solutions business, there’s nothing we do not know, and nothing we cannot handle! We take your entire process on board and assess your needs, creating a total plan and then assemble all the required facets that make up the {{ site.title }} solution.
@@ -38,26 +40,27 @@ Whether you’re just starting your first site, moving from another host, alread
 If you already have a website and email is important to your business, you’ll sleep easier knowing you’ve selected a quality Holland and International web hosting service. We have been hosting both Holland and International web sites for voer ten years. We are well known for our personalised support and experience, combined with our.
 
 
-####Desenvolvimento em linguagens 
-- AJAX
-
-- CMS Wordpress Jekyll
-
-- CSS/SaSS
+####Temos domínio total sobre as linguagens:
 
 - HTML 5
 
-- Javascript/AngularJS/React/Firebase/AngularJS/Node.js/JQuery
+- CSS / SaSS
+
+- Javascript - AngularJS / React / AngularJS / Node.js / JQuery / Mithil
+
+- AJAX
 
 - PHP/SQL
 
-- Objective-C/PhoneGap
+- CMS - Wordpress / Jekyll
 
-- Ruby/Rails 
+- Objective-C / PhoneGap
 
-- Rethink/Redis
+- Ruby / Rails 
 
-- Velocity MCP(Microsoft Certified)
+- Rethink / Redis / Firebase / MongoDB
+
+- Entre outras plataformas, 
 
 ####Nosso Propósito
 Aplicações Web e Mobile.

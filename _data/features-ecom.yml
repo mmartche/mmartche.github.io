@@ -1,0 +1,852 @@
+# Lista com os Recursos do Ecommerce
+
+- title: Limite de produtos
+  check1: '1.000'
+  check2: '5.000'
+  check3: ilimitado
+- title: Espaço em disco
+  check1: 1 GB
+  check2: 5 GB
+  check3: ilimitado
+- title: Transferência / Mês
+  check1: 10 GB
+  check2: 50 GB
+  check3: ilimitado
+- title: Domínio Próprio
+  check1: x
+  check2: x
+  check3: x
+- title: Especificações PCI Compliant
+  check1: x
+  check2: x
+  check3: x
+- title: Multi Línguas
+  check1: x
+  check2: x
+  check3: x
+- title: 'Integração com Gateways de Pagamento (Pagseguro, Paypal, Bitcoins)'
+  check1: x
+  check2: x
+  check3: x
+- title: 'Layout Responsivo para Mobile, Tablet, Desktop'
+  check1: x
+  check2: x
+  check3: x
+- title: Relatórios de Page Views
+  check1: x
+  check2: x
+  check3: x
+- title: Controle total sobre Relatórios
+  check1: x
+  check2: x
+  check3: x
+- title: Uptime Garantido. Não saia do ar!
+  check1: '99.9%'
+  check2: '99.99%'
+  check3: '99.999%'
+- title: Painel administrativo em português
+  check1: x
+  check2: x
+  check3: x
+- title: Pedidos com notificação por e-mail ou SMS (necessário contratar plano);
+  check1: x
+  check2: x
+  check3: x
+- title: Cadastro de multiplos endereços por cliente;
+  check1: x
+  check2: x
+  check3: x
+- title: Histórico de produtos acessados pelo cliente;
+  check1: x
+  check2: x
+  check3: x
+- title: Produtos mais vendidos;
+  check1: x
+  check2: x
+  check3: x
+- title: Processo de compra simplificado;
+  check1: x
+  check2: x
+  check3: x
+- title: Sistema inteligente de acumulo de produtos e cálculo de frete;
+  check1: x
+  check2: x
+  check3: x
+- title: 'Recursos de compartilhamento em redes sociais: Facebook e Twitter;'
+  check1: x
+  check2: x
+  check3: x
+- title: 'Super Filtro: Pesquisa de produtos por faixa de preço e diversas opções via form; '
+  check1: x
+  check2: x
+  check3: x
+- title: Diversas categorias de destaques de produtos;
+  check1: x
+  check2: x
+  check3: x
+- title: Controle de estoque;
+  check1: x
+  check2: x
+  check3: x
+- title: 'Relatórios por clientes, produtos e pedidos.'
+  check1: x
+  check2: x
+  check3: x
+- title: Cadastro detalhado de produtos;
+  check1: x
+  check2: x
+  check3: x
+- title: Desconto especial para toda a loja com percentual e data limite configurável;
+  check1: x
+  check2: x
+  check3: x
+- title: Configuração do rodapé da loja virtual;
+  check1: x
+  check2: x
+  check3: x
+- title: Configuração da página de contato;
+  check1: x
+  check2: x
+  check3: x
+- title: Controle de cadastro de clientes;
+  check1: x
+  check2: x
+  check3: x
+- title: Cadastro e relacionamento por marcas;
+  check1: x
+  check2: x
+  check3: x
+- title: Cupons de desconto;
+  check1: x
+  check2: x
+  check3: x
+- title: Metas Tags individuais por produto.
+  check1: x
+  check2: x
+  check3: x
+- title: 'Diversas opções de entrega (Correios, retirar entrega gratis);'
+  check1: x
+  check2: x
+  check3: x
+- title: 'Recursos avançados de SEO: Metatags individuais, Sitemaps e Robots gerados automaticamente;'
+  check1: x
+  check2: x
+  check3: x
+- title: 'Preço diferenciado para pagamento com boleto, transferencia online e depósito;'
+  check1: x
+  check2: x
+  check3: x
+- title: Cupom de desconto automático para usuários cadastrados em newsletter ou por valor;
+  check1: x
+  check2: x
+  check3: x
+- title: 'Diversas opções de preços: Normal, promoção e para pagamento a vista, etc;'
+  check1: x
+  check2: x
+  check3: x
+- title: Perguntas e comentários de produtos;
+  check1: x
+  check2: x
+  check3: x
+- title: Inserção de vídeos / Youtube;
+  check1: x
+  check2: x
+  check3: x
+- title: Desconto a partir de valor determinado com percentual e data limite configurável
+  check1: x
+  check2: x
+  check3: x
+- title: Gerenciamento / Vendas
+  check1: 
+  check2: 
+  check3:
+- title: Configuração de regras para cancelamento de pedidos
+  desc: Com esse recurso você estabelece o prazo para cancelamento automático de pedidos não pagos.
+  check1: x
+  check2: x
+  check3: x
+- title: E-mails de cobrança automáticos para pedidos não pagos
+  desc: 'Em caso de pagamentos pendentes, é disparado um email para que o cliente acesse o pedido e realize o pagamento, aumentando as chances de recuperar a venda.'
+  check1: x
+  check2: x
+  check3: x
+- title: Envio de e-mails nas alterações de status dos pedidos
+  desc: 'O cliente é informado via email a cada passo no processo de aprovação do pedido e envio do produto, sentindo-se seguro.'
+  check1: x
+  check2: x
+  check3: x
+- title: Rastreamento de pedido
+  desc: 'Após a confirmação do pagamento o passo seguinte é enviar o produto para o seu cliente. Por meio de um código o cliente faz o rastreio do pedido e acompanha a localização do produto. Para as formas de envio dos Correios, o sistema dispara um e-mail diariamente até a entrega do pedido.'
+  check1: x
+  check2: x
+  check3: x
+- title: Atualização de status de pedido em lote
+  desc: 'Para atualizar o status de vários pedidos de uma só vez (por lote), basta acessar a área onde deverão ser selecionados os itens cujos status serão alterados para executar uma ação. A atualização de status de pedidos cujas formas de pagamento são cartão de crédito, transferência online e facilitadores são automáticas. Para pedidos pagos via boleto ou depósito a atualização é manual.'
+  check1: x
+  check2: x
+  check3: x
+- title: Gestão de carrinhos abandonados
+  desc: 'Através da função Carrinho Abandonado, o usuário pode visualizar todos os processos de compra iniciados e não finalizados na loja virtual, verificando se o cliente fez o cadastro e se calculou o frete ao abandonar o carrinho. Para recuperar a venda, você pode enviar emails automáticos para os clientes que fizeram login e não concluíram a compra, oferecendo, por exemplo, um cupom de desconto.'
+  check1: x
+  check2: x
+  check3: x
+- title: Histórico de Vendas
+  desc: 'Na aba "visitas" você identifica a origem de entrada e toda a navegação, podendo também verificar se a visita veio de alguma campanha. Ao analisar a navegação dos clientes, você pode mapear e classificar os seus clientes para envio de emails marketing ou realização de promoções.'
+  check1: x
+  check2: x
+  check3: x
+- title: Criação de status de pedido personalizados
+  desc: 'Este recurso permite a criação de novos status de acordo com o fluxo e a necessidade da loja. Por exemplo, se a loja adota a prática de oferecer um desconto ligando para os clientes cujas vendas não foram finalizadas, o status "entrar em contato" pode ser criado.'
+  check1: x
+  check2: x
+  check3: x
+- title: Inclusão manual de vendas
+  desc: 'Pelo backoffice da sua loja você pode incluir manualmente uma venda feita por telefone ou email. <br> Também tem a oportunidade de complementar uma venda realizada pela loja virtual, aumentando, desta forma, seu ticket médio.'
+  check1: x
+  check2: x
+  check3: x
+- title: Gestão de comissões por vendedor
+  desc: 'Em contato com o cliente, o vendedor pode oferecer uma vantagem e vender mais produtos, incluindo-os no pedido existente. O sistema permite que essa venda seja incluída manualmente no pedido e uma comissão seja atribuída ao vendedor.'
+  check1: x
+  check2: x
+  check3: x
+- title: Gestão automática de comissões para sites parceiros
+  desc: 'Os parceiros via XML são cadastrados automaticamente, mas você também pode cadastrar um parceiro específico como blogs ou outros sites, divulgando assim a sua loja e seus produtos por meio da inclusão de banners e links em sites de terceiros e se quiser, pagar uma comissão pelas vendas realizadas. O sistema gera automaticamente as comissões de acordo com o percentual configurado.'
+  check1: x
+  check2: x
+  check3: x
+- title: Compre junto
+  desc: 'Elabore promoções e ações de venda diferenciadas para sua loja virtual. Com esse recurso, é possível configurar a venda conjunta de dois ou mais produtos diferentes, oferecendo aos consumidores descontos, brindes, frete grátis, entre outros. Com isso, você pode montar combinações estratégicas e aumentar seu ticket médio, ao mesmo tempo em que proporciona vantagens ao seu cliente. <br> Aumente a conversão e o ticket médio da sua loja através de combinações ilimitadas de produtos (kit) com vantagens especiais. Você pode também nomear cada kit de produtos como quiser.'
+  check1: x
+  check2: x
+  check3: x
+- title: Envio de código único para produtos virtuais
+  desc: 'Para lojas que trabalham com venda de produtos virtuais para download, este recurso possibilita o envio automático da URL do produto virtual e seu código de acesso por email para que o comprador realize o download, automatizando a entrega após a identificação do pagamento.'
+  check1: x
+  check2: x
+  check3: x
+- title: Limitação de compra (produtos)
+  desc: 'Você pode estipular uma quantidade mínima de produtos para que sua loja possa gerar um pedido. O recurso permite que você configure parâmetros específicos para a realização de vendas na sua loja, tornando possível, por exemplo, estipular um valor mínimo para venda de determinado produto.'
+  check1: x
+  check2: x
+  check3: x
+- title: Limitação de compra (forma de pagamento)
+  desc: Você pode restringir o número de itens a serem vendidos para determinada forma de pagamento.
+  check1: x
+  check2: x
+  check3: x
+- title: Personalização de produto com texto
+  desc: 'Esse recurso permite que, durante a compra, o consumidor insira informações, ou escolha opções que personalizem no produto comprado, atendendo necessidades especiais dos seus clientes. A personalização de produto eleva o ticket médio, visto que para cada informação ou opção adicional você poderá cobrar valores à parte. Exemplo: inserir nome em uma camiseta.'
+  check1: x
+  check2: x
+  check3: x
+- title: 'Visual da loja'
+- title: Temas personalizáveis
+  desc: O sistema oferece layouts padrões que poderão ser utilizados pela sua loja. São mais de 8 temas e várias paletas de cores para você escolher o que melhor se adequa ao seu segmento de atuação e a seu público alvo.
+  check1: 
+  check2: x
+  check3: x
+- title: Personalização dos botões da loja
+  desc: 'O sistema permite que você crie e cadastre botões personalizados, de acordo com as funcionalidades disponíveis e as necessidades da sua loja.'
+  check1: 
+  check2: x
+  check3: x
+- title: Personalização de páginas com conteúdo estático
+  desc: 'Através de uma ferramenta completa de edição de conteúdo que pode ser utilizada em formato convencional ou HTML, o lojista pode escrever textos e inserir imagens de maneira simples e prática.'
+  check1: 
+  check2: x
+  check3: x
+- title: 'Experiência do cliente na loja virtual'
+- title: Atualização de dados cadastrais na central do cliente
+  desc: Seu cliente pode atualizar os dados cadastrais de maneira rápida e fácil na Central do Cliente.
+  check1: x
+  check2: x
+  check3: x
+- title: Acompanhamento de pedidos na central do cliente
+  desc: O cliente pode acompanhar o andamento de seu pedido dentro da Central do Cliente.
+  check1: x
+  check2: x
+  check3: x
+- title: Zoom na foto do produto
+  desc: 'Ao realizar compras em uma loja virtual, o consumidor não está frente-a-frente com o produto. Em decorrência disso, é necessário empregar toda a tecnologia disponível para que, mesmo em uma experiência de compra virtual, o consumidor possa “sentir” o produto. <br> Com esse recurso, passando o mouse sobre as imagens, o consumidor poderá visualizar detalhes do produto em alta resolução, o que traz segurança para finalizar a transação.'
+  check1: 
+  check2: x
+  check3: x
+- title: Visualização de produtos na loja virtual após login
+  desc: 'Esta funcionalidade restringe a visualização de seus produtos apenas para usuários cadastrados. <br> Recurso muito útil para lojas que oferecem produtos para revendedores, parceiros, associados etc'
+  check1: x
+  check2: x
+  check3: x
+- title: Seletor de cor
+  desc: 'Este recurso permite que você apresente as cores disponíveis do seu produto, dando opções de escolha para seu cliente.'
+  check1: x
+  check2: x
+  check3: x
+- title: Comparador de produtos “lado a lado”
+  desc: 'Permite que o cliente selecione produtos e faça uma comparação entre eles. O cliente pode visualizar lado a lado os produtos que ele planeja comprar, comparando suas características e tirando suas dúvidas, facilitando sua decisão.'
+  check1: x
+  check2: x
+  check3: x
+- title: Personalização de abas do produto
+  desc: 'Você pode criar abas personalizadas que ficam ao lado das abas de informações para complementar a apresentação dos seus produtos. Exemplo: dicas de armazenagem, limpeza e conservação.'
+  check1: x
+  check2: x
+  check3: x
+- title: Histórico de compras
+  desc: Seu cliente pode acessar o histórico de pedidos já realizados.
+  check1: x
+  check2: x
+  check3: x
+- title: Multiendereço
+  desc: 'O cliente pode cadastrar mais de um endereço para entrega de seus pedidos, como por exemplo endereço residencial, do trabalho, da casa dos pais etc. No momento da compra, o cliente decide onde deseja receber o seu pedido.'
+  check1: x
+  check2: x
+  check3: x
+- title: 'Atendimento'
+- title: Exibição de formulário de dúvida sobre produto
+  desc: 'Clicando no botão “Tire suas dúvidas”, o cliente acessa um formulário para tirar suas dúvidas sobre o produto, que são encaminhadas para o email da loja.'
+  check1: x
+  check2: x
+  check3: x
+- title: Exibição de formulário de contato na loja virtual
+  desc: 'O cliente tem à disposição um canal para entrar em contato com a loja, por meio de um formulário.'
+  check1: x
+  check2: x
+  check3: x
+- title: Configuração do horário e dados de atendimento
+  desc: 'No backoffice você pode deixar registrado o horário de atendimento, números de telefone e endereços de email da sua loja para orientar o cliente.'
+  check1: x
+  check2: x
+  check3: x
+- title: Histórico de produtos e categorias visitadas
+  desc: 'Apresenta no final da página os produtos visitados recentemente pelo cliente, facilitando a localização dos produtos pelos quais se interessou.'
+  check1: x
+  check2: x
+  check3: x
+- title: Personalização dos destinatários dos formulários
+  desc: 'Você pode configurar um email de atendimento para cada área da empresa. Desta forma, as solicitações são encaminhadas diretamente ao setor responsável.'
+  check1: x
+  check2: x
+  check3: x
+- title: Histórico de atendimento ao cliente
+  desc: 'Este recurso permite que sua loja tenha os registros dos atendimentos para que possam ser consultados individualmente ou por meio de relatórios que contribuem para um melhor controle do relacionamento com o cliente. O atendimento ao cliente feito de maneira correta e eficiente é fundamental para o ecommerce.'
+  check1: x
+  check2: x
+  check3: x
+- title: 'Marketing / Promoções'
+- title: Desconto específico por cliente
+  desc: 'Você pode atribuir um desconto específico para um cliente especial ou revendedor. Toda vez que este cliente comprar na sua loja, o desconto atribuído será automaticamente calculado.'
+  check1: x
+  check2: x
+  check3: x
+- title: Cadastro simplificado de cliente para email marketing
+  desc: 'Qualquer pessoa que queira receber por email seus comunicados e promoções pode se cadastrar de maneira muito simples, fornecendo apenas nome e email. Desta forma você cria um banco de dados que poderá ser usado para ações de email marketing.'
+  check1: x
+  check2: x
+  check3: x
+- title: Cupons de desconto para categorias ou produtos específicos
+  desc: 'Você pode gerar um código para enviar ao cliente dando desconto na compra de um determinado produto ou categoria.'
+  check1: x
+  check2: x
+  check3: x
+- title: Promoções
+  desc: 'De R$X por R$Y para categorias ou produtos específicos com o selo de exibição na apresentação. O cliente visualiza o preço real e o preço com desconto, podendo comparar o valor do desconto.'
+  check1: x
+  check2: x
+  check3: x
+- title: Demonstração de botões de redes sociais
+  desc: 'Possibilita que seus clientes e visitantes ao acessarem sua loja compartilhem as páginas de seus produtos em suas redes sociais preferidas. Assim, você cria uma relação mais humanizada com os usuários e tem um crescimento significativo no tráfego da loja em decorrência do uso sistemático dessas redes, aumentando as possibilidades de vendas dos seus produtos e serviços.'
+  check1: x
+  check2: x
+  check3: x
+- title: Descontos progressivos por produtos específicos
+  desc: 'O sistema permitirá que você cadastre varias faixas de desconto em sua loja, com base no valor do pedido, estado e categorias. Os descontos serão em percentual ou real sobre o valor dos produtos ou sobre o frete.'
+  check1: x
+  check2: x
+  check3: x
+- title: Descontos progressivos por estado
+  desc: 'Você pode limitar os descontos com base no envio para determinados estados brasileiros que você atender ou restringir.'
+  check1: x
+  check2: x
+  check3: x
+- title: Cupom de desconto via URL
+  desc: 'O uso de cupons de desconto tem alavancado muito as vendas de lojas on line. <br> Esse recurso permite que você gere seus cupons de descontos e encaminhe para seus clientes, que ao acessarem a página automaticamente visualizam o preço com o desconto atribuído.'
+  check1: x
+  check2: x
+  check3: x
+- title: Cadastro de banners específicos por marca e categoria
+  desc: 'Sua loja pode ter banners específicos por marca ou por categoria de produtos. Basta cadastrar os banners em seu backoffice.'
+  check1: x
+  check2: x
+  check3: x
+- title: Banner JS
+  desc: 'Crie seu banner em JavaScript, utilizando inúmeros efeitos pelo backoffice de forma muito simples. O JavaScript é uma linguagem que permite visualização em iPhone, diferentemente do Flash.'
+  check1: x
+  check2: x
+  check3: x
+- title: Depoimentos de clientes
+  desc: 'Diante da grande quantidade de lojas virtuais, é comum o e-consumidor optar por aquelas que são indicadas e comentadas pelos que já efetuaram alguma compra na loja. Depoimentos exibidos são grandes influenciadores das vendas online. Com esse recurso sua loja permitirá que seus clientes deixem seus comentários e notas, proporcionando ganho de credibilidade e aumento da conversão.'
+  check1: x
+  check2: x
+  check3: x
+- title: Programa de fidelização
+  desc: 'Com o programa de fidelização seus clientes podem ganhar pontos a cada compra feita na sua loja. <br> Esses pontos podem ser utilizados em novas compras para obter descontos especiais. Assim, devido as vantagens que receberão, seus clientes decidirão continuar comprando na sua loja. Esta é uma ótima maneira para reter clientes e trazer melhores resultados para a empresa.'
+  check1: x
+  check2: x
+  check3: x
+- title: Lista de Desejo ou Casamento
+  desc: 'Com este recurso você pode disponibilizar diversas listas de presentes em sua loja, tais como Lista de <br> Desejos, Lista de Casamento, Lista de Chá de Bebê entre outras. <br> O recurso permite que você adicione quantos e quais campos considerar importantes para cada tipo de lista, como campo para inserir o nome dos noivos, campo para inserir local da festa, e assim por diante. <br> Desta forma o cliente pode criar na sua loja lista dos produtos que deseja ganhar, podendo nomeá-las como quiser e compartilhar suas aspirações de consumo entre seus contatos sociais. <br> Entre as vantagens de usar este recurso, está o aumento do volume de vendas tornando mais fácil ao econsumidor presentear o amigo e a opção de habilitar comissões aos clientes donos das listas, visando incentivar a divulgação consistente da sua loja.'
+  check1: x
+  check2: x
+  check3: x
+- title: Características de Clientes
+  desc: 'Além dos campos normais do cadastro de cliente, você poderá adicionar mais campos para coletar informações relevantes dos seus clientes, permitindo que você conheça bem seu público-alvo e segmente suas estratégias de marketing. Os resultados serão otimizados e os clientes mais fidelizados. <br> Se você tem uma base extensa, que apresenta perfis diferentes, a segmentação pode e deve ser sempre o caminho. Por exemplo, em um e-commerce de material esportivo, não adianta mandar ofertas de camisas do time A se o consumidor é fã do time B.'
+  check1: x
+  check2: x
+  check3: x
+- title: Sistema de Notícias
+  desc: 'Mais do que procurar por produtos e serviços, os internautas estão a todo tempo à procura de conteúdo. <br>  Eles, por muitas vezes, são “pescados” por conteúdos interessantes. O recurso permite que sua loja publique informações relacionadas com seu segmento de atuação e sejam de interesse do seu público, melhorando a visibilidade e convertendo visitantes em clientes.'
+  check1: 
+  check2: x
+  check3: x
+- title: 'Relatórios'
+- title: Resultado econômico mensal
+  desc: 'O backoffice da loja mostra seus lucros por período, considerando os custos de produto e frete.'
+  check1: x
+  check2: x
+  check3: x
+- title: Recebimentos do dia
+  desc: Exibe o faturamento do dia.
+  check1: x
+  check2: x
+  check3: x
+- title: Estatísticas de acessos da loja
+  desc: 'Saiba quais são os produtos e as categorias mais visitadas da sua loja com este relatório que mostra todos os acessos à sua loja, visita a visita.'
+  check1: 
+  check2: x
+  check3: x
+- title: Estatísticas de produtos comprados por cliente
+  desc: O relatório mostra os produtos que cada cliente comprou. Com estes dados você pode planejar ações de marketing.
+  check1: x
+  check2: x
+  check3: x
+- title: Cupons de desconto
+  desc: 'Esse relatório demonstra para o usuário todos os cupons de desconto fornecidos dentro de um determinado período. A listagem obtida informa o código e data do pedido no qual o cupom foi utilizado, o nome do consumidor final beneficiado, o valor total da compra, o nome atribuído ao cupom de desconto e o valor do abatimento proporcionado pelo cupom. É uma importante ferramenta para mensuração e análise do retorno e eficácia das promoções com cupom e verificação de clientes sensíveis a esta estratégia.'
+  check1: x
+  check2: x
+  check3: x
+- title: Produtos cadastrados
+  desc: 'Exibe relatório de todos os produtos da sua loja, permitindo que você escolha vários filtros, como disponibilidade, destaque, novidade ou promoção.'
+  check1: x
+  check2: x
+  check3: x
+- title: Projeção de vendas com base em dados históricos
+  desc: 'Você pode gerar relatórios de vendas passadas com o objetivo de projetar vendas futuras, verificando produtos com mais ou menos giro e auxiliar no controle de compras e estoque.'
+  check1: x
+  check2: x
+  check3: x
+- title: Vendas por local
+  desc: 'Fornece relatório de vendas por quantidade ou por volume de cada canal. Com ele você consegue mensurar vendas geradas pela sua loja, Tray Shopping, Mercado Livre, Extra e Walmart.'
+  check1: x
+  check2: x
+  check3: x
+- title: Produtos não finalizados
+  desc: Fornece um relatório dos produtos abandonados no carrinho. Este recurso permite analisar qual o problema dos produtos abandonados no carrinho e realizar mudanças com o objetivo de normalizar as vendas.
+  check1: x
+  check2: x
+  check3: x
+- title: 'Integração com o Mercado Livre'
+- title: Gestão de vendas
+  desc: 'A integração permite que você faça toda a gestão de anúncios do Mercado Livre pelo backoffice da sua loja, proporcionando: integração de vendas, gerenciamento de anúncios, gerenciamento de qualificações e gestão de perguntas e r]espostas. A integração é realizada sob a opção de API.'
+  check1: x
+  check2: x
+  check3: x
+- title: 'Importação, criação e sincronização de anúncios'
+  desc: 'Com a integração, é muito fácil anunciar os seus produtos no MercadoLivre. Selecione o produto já cadastrado em sua loja e automaticamente será criado um anúncio. Você não precisa cadastrar o produto duas vezes. Imagens, descrição, preço, peso e estoque são integrados. Visualize e gerencie todos os seus anúncios através do painel da sua loja.'
+  check1: x
+  check2: x
+  check3: x
+- title: Criação de Template
+  desc: 'O template serve para fazer a descrição do anúncio com fotos e informações, de maneira simples e organizada.'
+  check1: 
+  check2: x
+  check3: x
+- title: Gestão de anúncios
+  desc: 'Quando a loja está integrada ao Mercado Livre, toda alteração de produto feita em seu backoffice é atualizada no Mercado Livre.'
+  check1: x
+  check2: x
+  check3: x
+- title: Integração de estoque
+  desc: A integração de estoque automático contabiliza juntos os estoques da loja e do Mercado Livre. A integração proporciona praticidade e segurança nos seus registros de estoque.
+  check1: x
+  check2: x
+  check3: x
+- title: Gestão de perguntas e respostas
+  desc: Pelo seu backoffice você recebe e responde as perguntas dos clientes feitas pelo Mercado Livre.
+  check1: x
+  check2: x
+  check3: x
+- title: Qualificação via painel
+  desc: Pelo backoffice você pode qualificar seus clientes e receber qualificações.
+  check1: x
+  check2: x
+  check3: x
+- title: Responda Rápido
+  desc: 'Com o Responda Rápido você tem várias funcionalidades para responder às perguntas dos clientes com agilidade e praticidade: relatórios completos, respostas pré-cadastradas e múltiplos atendentes.'
+  check1: x
+  check2: x
+  check3: x
+- title: 'Integrações com marketplaces e comparadores(Mais de 63). Entre eles:'
+- title: Buscapé
+  desc: 'Após contratar os serviços do Buscapé, você poderá integrar seus produtos de forma automática através de um arquivo xml.'
+  check1: 
+  check2: x
+  check3: x
+- title: Google Shopping
+  desc: 'Após contratar os serviços do Google Shopping, você poderá integrar seus produtos de forma automática através de um arquivo xml.'
+  check1: 
+  check2: x
+  check3: x
+- title: Shopping UOL
+  desc: 'Após contratar os serviços do Shopping UOL, você poderá integrar seus produtos de forma automática através de um arquivo xml.'
+  check1: 
+  check2: x
+  check3: x
+- title: Integração com outros comparadores de preços via xml
+  desc: 'Após contratar a integração, a loja poderá integrar seus produtos de forma automática através de um arquivo xml.'
+  check1: 
+  check2: x
+  check3: x
+- title: Outras integrações de sistemas
+- title: Integração com Google Analytics
+  desc: 'O Google Analytics é um serviço gratuito oferecido pela Google. Ao ativar o serviço você recebe um código para cadastrar em seu backoffice e a partir disso a cada exibição, estatísticas de visitação são enviadas ao sistema e apresentadas a você.'
+  check1: x
+  check2: x
+  check3: x
+- title: 'Integração com E-bit'
+  desc: 'A integração com o E-bit transmite confiabilidade para o cliente, que pode usar a classificação no E-bit como critério para comprar na sua loja.'
+  check1: 
+  check2: x
+  check3: x
+- title: Integração FTP com arquivos de texto
+  desc: 'A integração FTP é uma ferramenta que permite a integração da plataforma Tray com sistemas ERP que usam integração offline, através de arquivo de texto.'
+  check1: x
+  check2: x
+  check3: x
+- title: Integração com Clearsale
+  desc: 'A análise de fraude da Clearsale realiza uma classificação para transações utilizando o cruzamento de cerca de 70 dados, tornando a operação confiável.'
+  check1: 
+  check2: x
+  check3: x
+- title: Integração com Fcontrol
+  desc: 'Sua tecnologia permite mapear e otimizar as vendas online realizadas com cartão de crédito, reduzindo os golpes virtuais e protegendo o consumidor.'
+  check1: 
+  check2: x
+  check3: x
+- title: Integração com Ebehavior
+  desc: 'O sistema oferece recomendação e sugestões de compras de acordo com o perfil do cliente, facilitando a realização de campanhas de marketing especializadas.'
+  check1: 
+  check2: x
+  check3: x
+- title: Integração WebService
+  desc: 'O WebService permite conectar diferentes sistemas às lojas virtuais, como ERP, Back-Office e outros softwares utilizados paralelamente na gestão do negócio, permitindo a troca de dados (envio e recebimento automático de dados em um arquivo XML) de maneira segura e eficiente, em “real time”, com precisão das transações realizadas, visando centralizar todas as informações no sistema de gestão. <br> Proporciona o gerenciamento de maneira adequada do imenso fluxo de dados e informações que envolvem uma operação de comércio eletrônico, especialmente em grandes projetos. Possibilita o crescimento sólido e sustentável, pela otimização obtida através da integração das lojas virtuais a outros sistemas de ERP. <br> Obs.: Este recurso depende de contratação e implica em custos adicionais.'
+  check1: 
+  check2: 
+  check3: x
+- title: 'Ferramentas de busca'
+- title: Busca de produtos com base no título e descrição
+  desc: A busca de produtos realizada pelo cliente vai considerar o nome e a descrição que você registrou no backoffice da loja ao cadastrar o seu produto.
+  check1: x
+  check2: x
+  check3: x
+- title: Menu lateral com filtro inteligente
+  desc: 'O menu com filtro inteligente possibilita ao consumidor uma navegação diferenciada, através de filtros específicos, que vão desde a marca dos produtos, até uma determinada faixa de preços ou tamanhos. <br> Dessa forma, o cliente clica no filtro localizado na parte esquerda da loja e localiza rapidamente os produtos com as características desejadas, sem ter que visualizar várias páginas de produtos até encontrá-los, facilitando a conversão. <br> ATENÇÃO: Esse recurso não é compatível com o tema. Para utilizá-lo é preciso contratar layout personalizado.'
+  check1: x
+  check2: x
+  check3: x
+- title: 'Produtos'
+- title: Categoria de produto com até 3 níveis
+  desc: 'O lojista poderá categorizar os produtos em até três níveis. Por exemplo: Maquiagem > Rosto > Sombras'
+  check1: x
+  check2: x
+  check3: x
+- title: Cadastro de produto em mais de uma categoria
+  desc: 'Você pode cadastrar produtos em mais de uma categoria para que o cliente encontre com facilidade aquilo que procura. Por exemplo, sandálias Havaianas podem estar em calçados masculinos e femininos.'
+  check1: x
+  check2: x
+  check3: x
+- title: Comentários de produtos com publicação automática
+  desc: 'Seu cliente pode escrever uma resenha sobre o produto que comprou, compartilhando suas impressões sobre o mesmo. Você pode configurar para que seja automática ou manual a liberação do comentário.'
+  check1: x
+  check2: x
+  check3: x
+- title: Produtos complementares e relacionados
+  desc: 'O recurso permite fazer sugestões aos usuários de outros produtos que podem ser interessantes, de acordo com a navegação atual. Os produtos relacionados são definidos através da ferramenta administrativa da loja virtual e podem ser editados a qualquer momento, a critério do lojista.'
+  check1: x
+  check2: x
+  check3: x
+- title: Variação de produtos
+  desc: 'Este recurso permite que a loja apresente variações de seus produtos, como por exemplo cor, tamanho e voltagem, dando ao cliente opções de escolha.'
+  check1: x
+  check2: x
+  check3: x
+- title: Gestão de marcas
+  desc: Cadastre a marca de cada produto no backoffice para que o cliente possa pesquisar e visualizar os produtos da marca que ele deseja comprar em sua loja.
+  check1: x
+  check2: x
+  check3: x
+- title: Produto com preço sob consulta
+  desc: 'Você pode optar por não apresentar o preço de um determinado produto na loja, enviando o valor apenas a quem solicitá-lo para garantir sigilo em casos de catálogo ou valor muito alto.'
+  check1: x
+  check2: x
+  check3: x
+- title: Atualização de produtos em lote
+  desc: 'Atualize todos os produtos selecionados de uma só vez: promoções, preços, descontos etc.'
+  check1: x
+  check2: x
+  check3: x
+- title: Exibição de vídeo na página do produto
+  desc: 'Sua loja permite que a apresentação dos produtos seja feita com vídeos, além das fotos. Basta postar os vídeos no Youtube e copiar o link na sua página de produto. Com o vídeo, é possível mostrar a utilização, o funcionamento e dimensão dos produtos, apresentando características que dificilmente seriam expressas por fotos e descrição.'
+  check1: x
+  check2: x
+  check3: x
+- title: Fotos específicas para cada variação
+  desc: 'Possibilita uma exibição privilegiada das variações dos produtos como: cor, tamanho, voltagem e outras. <br> No caso das variações de cor, é possível utilizar pequenas imagens simbolizando as cores nas quais o produto está disponível, ao invés de exibir o nome de cada cor. Para as voltagens e tamanhos, é possível exibir todas as opções de maneira aberta ao consumidor, sem a necessidade de caixas de seleção, que exigem cliques adicionais para exibição. Este recurso aumenta a qualidade visual da loja e consequentemente a conversão.'
+  check1: x
+  check2: x
+  check3: x
+- title: Regras de pagamento específicas por produto
+  desc: 'Configure regras de pagamento para um produto específico, cujas condições são diferentes dos demais produtos da sua loja.'
+  check1: x
+  check2: x
+  check3: x
+- title: 'Estoque'
+- title: Retorno automático do estoque para pedidos não pagos
+  desc: 'Quando um pedido não é pago, automaticamente o produto retorna para o estoque, ficando disponível para venda.'
+  check1: x
+  check2: x
+  check3: x
+- title: Avise-me quando chegar
+  desc: 'Ao tentar comprar um produto com status Indisponível (estoque zerado) na loja virtual, o consumidor final encontra um campo para inserção de seu email solicitando que, assim que o produto esteja novamente disponível na loja virtual, ele seja imediatamente avisado por uma mensagem de email.'
+  check1: x
+  check2: x
+  check3: x
+- title: Venda de produtos sem estoque
+  desc: 'Sua loja pode vender produtos no formato pré-venda, no qual o cliente adquire um produto que não consta no estoque, mas que tem data para entrar, aguardando um prazo maior pela entrega.'
+  check1: x
+  check2: x
+  check3: x
+- title: Regras específicas de baixa de estoque
+  desc: 'Você determina quando deve ser dada a baixa no estoque: na compra, no pagamento ou no envio do produto.'
+  check1: x
+  check2: x
+  check3: x
+- title: Baixa automática de estoque para produtos vendidos
+  desc: 'Realiza automaticamente a baixa no estoque obedecendo a regra pré-estabelecida por você.'
+  check1: x
+  check2: x
+  check3: x
+- title: '##Frete'
+- title: Ordenação de frete
+  desc: 'Você define a ordem em que as opções de frete são apresentadas na sua loja, levando em consideração a classificação por preferência, ordem alfabética, preço crescente ou o critério que você preferir.'
+  check1: x
+  check2: x
+  check3: x
+- title: Cadastro de tabela própria de frete
+  desc: 'Além dos Correios, você pode cadastrar sua própria tabela de frete a partir do contrato com transportadoras ou utilizando veículo próprio.'
+  check1: x
+  check2: x
+  check3: x
+- title: Cálculo para envio nacional via Correios – tabelas gerais ou com contrato
+  desc: 'Com este recurso, a tabela calcula valores diferenciados com base no contrato da sua loja.'
+  check1: x
+  check2: x
+  check3: x
+- title: Cadastro de regras para retirada no local
+  desc: 'Você pode cadastrar as regras para o cliente fazer a retirada do pedido sua loja, geralmente sem custo.'
+  check1: x
+  check2: x
+  check3: x
+- title: Cálculo para envio internacional – Fedex e Exporta Fácil
+  desc: 'A loja disponibiliza formas de envio para endereços no exterior.'
+  check1: x
+  check2: x
+  check3: x
+- title: Tabela de frete por CEP
+  desc: 'O frete tem um poder de influência muito grande na decisão de compra. Por isso é imprescindível tratar esse assunto como um dos principais planejamentos de suas operações no e-commerce. <br> O recurso Tabela de Frete permite que você configure um valor de entrega diferente para cada localidade, considerando as faixas de CEP, além de habilitar o recurso padrão do sistema que se refere ao frete baseado em Interior-Capital/ Interior-Interior/ Capital-Interior.'
+  check1: x
+  check2: x
+  check3: x
+- title: '##Otimização para buscadores – SEO'
+- title: 'Utilização de micro formatos – “rich snippets”'
+  desc: 'Sua loja dispõe de marcadores para melhorar a indexação dos sistemas dos buscadores, com isso otimizando o desempenho de sua página. Os micro formatos aprimoram os resultados das buscas, na medida em que melhoram a precisão dos dados.'
+  check1: x
+  check2: x
+  check3: x
+- title: 'Urls amigáveis e otimizadas – “friendly urls”'
+  desc: 'As URLs amigáveis auxiliam na otimização e no melhor rankeamento da loja junto aos robôs de busca da web, tornando as páginas mais legíveis para o cliente e mais fáceis de serem encontradas através desses sites. O cliente lembrará facilmente o endereço da loja, facilitando uma próxima visita. Isso, muito provavelmente, não aconteceria se a URL não fosse amigável pois ela seria composta por códigos bastante complexos e pouco compreensíveis aos consumidores.'
+  check1: x
+  check2: x
+  check3: x
+- title: Personalização de títulos de páginas
+  desc: 'Você pode configurar o titulo da aba de acordo com o produto nela apresentado. Em meio a tantas abas abertas no navegador do cliente, a aba personalizada ajuda que ele localize rapidamente a sua loja e facilita a identificação da página pelos buscadores.'
+  check1: x
+  check2: x
+  check3: x
+- title: Personalização de meta tags
+  desc: 'As meta tags são linhas de código HTML ou "etiquetas" que, entre outras coisas, descrevem o conteúdo do seu site para os buscadores como o Google, Yahoo, Bing, UOL, entre outros. Um texto vendedor contendo descrição simplificada do produto, é o ideal para ser exibido na página de resultados de busca.'
+  check1: x
+  check2: x
+  check3: x
+- title: Personalização de robots.txt para buscadores
+  desc: 'Defina regras para buscadores, indexando o site inteiro com a opção de excetuar determinadas páginas que você não deseja que retornem resultados nas buscas.'
+  check1: x
+  check2: x
+  check3: x
+- title: Geração de sitemap para google e outros buscadores
+  desc: 'O sitemap consiste na geração de um mapa de todas as páginas online para os mecanismos de busca. <br> Seu formato é em arquivo XML e auxilia na indexação do site.'
+  check1: x
+  check2: x
+  check3: x
+- title: 'Exportação para Excel'
+- title: Produtos
+  desc: No seu backoffice você pode gerar planilhas dos seus produtos em Excel.
+  check1: 
+  check2: 
+  check3: x
+- title: Clientes
+  desc: No seu backoffice você pode gerar planilhas dos seus clientes em Excel.
+  check1: 
+  check2:
+  check3: x
+- title: Pedidos
+  desc: No seu backoffice você pode gerar planilhas dos seus pedidos em Excel.
+  check1: 
+  check2: 
+  check3: x
+- title: 'Importação'
+- title: Importação de produto via Excel
+  desc: 'Cadastrar produto a produto na loja virtual pode ser muito cansativo ou impossível dependendo do volume de cadastros e demanda. As planilhas de dados podem facilitar muito essa tarefa, oferecendo agilidade no gerenciamento da loja através da importação dos dados de todos seus produtos.'
+  check1: 
+  check2: 
+  check3: x
+- title: 'Impostos'
+- title: Personalização de tributos por estado
+  desc: 'Configure impostos por estado, de acordo com a alíquota vigente. Normalmente utilizado em B2B.'
+  check1: x
+  check2: x
+  check3: x
+- title: Personalização da fórmula de imposto
+  desc: Crie você mesmo as fórmulas para cálculo de imposto.
+  check1: x
+  check2: x
+  check3: x
+- title: 'Configurações Avançadas'
+- title: Venda para pessoa física ou jurídica
+  desc: O sistema alterna a solicitação dos dados cadastrais de acordo com o perfil do cliente.
+  check1: x
+  check2: x
+  check3: x
+- title: Configuração de idade mínima
+  desc: Você pode exigir que o cliente tenha uma idade mínima para se cadastrar na sua loja.
+  check1: x
+  check2: x
+  check3: x
+- title: Configuração de termo de aceite para compra
+  desc: 'Para esclarecer aos seus clientes as condições técnicas ou comerciais de compra de produtos e requerer seu aceite online você pode utilizar este recurso, permitindo apresentar aos seus clientes um Termo de Aceite por Produto ou por Categoria de Produtos, além de poder habilitar também o recurso padrão do sistema que se refere ao Termo de Aceite Geral da Loja. Desta forma você garante que as vendas de determinados produtos ocorram somente com o aceite do cliente, e assim resguarda a loja de possíveis exposições negativas.'
+  check1: x
+  check2: x
+  check3: x
+- title: Workflow de status e disparo de e-mails personalizáveis
+  desc: 'Você configura os disparos de email para o cliente conforme o status de seu pedido e pode criar fluxos de status personalizados criando engajamento com o cliente. Exemplo: email de agradecimento pela compra enviando um cupom de desconto.'
+  check1: 
+  check2: x
+  check3: x
+- title: 'Gestão de usuários administrativos'
+- title: Expiração automática da senha de acesso
+  desc: 'Para sua segurança, a cada 45 dias sua senha de acesso expira e precisa ser trocada.'
+  check1: x
+  check2: x
+  check3: x
+- title: Bloqueio automático de usuário sem acesso
+  desc: 'Após 45 dias sem acesso, o sistema bloqueia automaticamente o usuário, sendo necessário solicitar a liberação ao usuário principal do site.'
+  check1: 
+  check2: x
+  check3: x
+- title: Permissões específicas por usuário e por funcionalidade
+  desc: 'Você define a permissão de determinadas funções para cada usuário. Para a sua segurança, você pode permitir ou restringir determinadas funções para cada usuário, evitando qualquer tipo de transtorno. <br> Importante: Alguns recursos exibidos neste documento dependem de contratação. Entre em contato com nossa equipe comercial e confira as condições.'
+  check1: x
+  check2: x
+  check3: x
+- title: Ambiente protegido por SSL em áreas de acesso a dados
+  check1: 
+  check2: x
+  check3: x
+- title: Página de perguntas e respostas frequentes
+  check1: 
+  check2: x
+  check3: x
+- title: Criação de páginas institucionais
+  check1: 
+  check2: x
+  check3: x
+- title: Configuração de quantidade de produtos exibidos por página e na página principal
+  check1: 
+  check2: x
+  check3: x
+- title: Nuvem de tags por departamento;
+  check1: 
+  check2: x
+  check3: x
+- title: Client Workflow
+  check1: 
+  check2: 
+  check3: x
+- title: Cadastro de e-mail marketing segmentado
+  check1: 
+  check2: 
+  check3: x
+- title: Recuperação de carrinho de compras e diversos níveis de notificação
+  check1: 
+  check2: 
+  check3: x
+- title: Pesquisa automática de endereço por CEP.
+  check1: 
+  check2: 
+  check3: x
+- title: Múltiplos níveis de pedido com aviso de cobrança e confirmação de recebimento;
+  check1: 
+  check2: 
+  check3: x
+- title: Sistema de afiliados para parcerias
+  check1: 
+  check2: 
+  check3: x
+- title: E-mails em formato HTML com possibilidade de customizar topo e cores;
+  check1: 
+  check2: 
+  check3: x
+- title: Possibilidade de integração de estoque e atualização de preço com ERP
+  check1: 
+  check2: 
+  check3: x
+- title: Restrição de horário para o painel administrativo
+  check1: 
+  check2: 
+  check3: x
+- title: Cadastro de vendedores para seleção pelo cliente
+  check1: 
+  check2: 
+  check3: x
+- title: Ferramenta de bloqueio de IP
+  check1: 
+  check2: 
+  check3: x
+- title: Criação de níveis de usuários com permissão de acesso controlada ao painel administrativo
+  check1: 
+  check2: 
+  check3: x
+- title: Gerenciador de design ideal para profissionais de criação personalizarem o layout da loja virtual
+  check1: 
+  check2: 
+  check3: x

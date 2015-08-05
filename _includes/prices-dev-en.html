@@ -1,0 +1,26 @@
+<div id="prices">
+    <div class="container">
+        <div class="row centered">
+        {% if include.title %}<h3>{{ include.title | upcase }}</h3>{% endif %}
+        {% for prices in site.data.price-host %}
+            <div class="col-md-4">
+                <div class="panel panel-danger">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">{{ prices.title }}</h3>
+                        <h3 class="panel-title">{{ prices.title2 }}</h3>
+                    </div>
+                    <ul class="panel-body">
+                        {% for item in prices.items %}
+                        <li>{{ item.title }}</li>
+                        {% endfor %}
+                    </ul>
+                    <div class="panel-footer">
+                        {{ prices.value }}
+                    </div>
+                    <p><br/><a href="{{ prices.linkUrl }}" class="btn btn-theme">Compare all resources</a></p>
+                </div>
+            </div>
+        {% endfor %}
+        </div>
+    </div>
+</div>

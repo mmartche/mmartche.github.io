@@ -2,11 +2,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="{{ page.description }} - {{ site.about }}">
+    <meta name="author" content="{{ site.title }}">
     <link rel="shortcut icon" href="{{ "/assets/ico/favicon.ico" | prepend: site.baseurl }}">
 
-    <title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
+    <meta name="google-site-verification" content="{{ site.google-site-verification }}" />
+
+    <title itemprop="name">{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
 
     <!-- Bootstrap core CSS -->
     <link href="{{ "/assets/css/bootstrap.css" | prepend: site.baseurl }}" rel="stylesheet">
@@ -27,6 +29,7 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/{{ site.url }}\/","name":"{{ site.title }}","potentialAction":{"@type":"SearchAction","target":"http:\/\/{{ site.url }}\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 
     <script src="{{ "/assets/js/modernizr.js" | prepend: site.baseurl }}"></script>
 </head>

@@ -2,61 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Martche House</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://artnux.com/</link>
-    <atom:link href="http://artnux.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 09 Jul 2015 19:46:11 -0300</pubDate>
-    <lastBuildDate>Thu, 09 Jul 2015 19:46:11 -0300</lastBuildDate>
+    <description></description>
+    <link>http://mmartche.ca/</link>
+    <atom:link href="http://mmartche.ca/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 04 Aug 2015 21:04:49 -0300</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2015 21:04:49 -0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Projetos:  SEO &amp; SEM</title>
         <description>&lt;h4 id=&quot;seo--sem&quot;&gt;SEO &amp;amp; SEM&lt;/h4&gt;
-&lt;p&gt;If you’re not already aware, on average search engine users overwhelmingly click on the organic results (free results) on Google and Bing, before they click on a sponsor paid ad listing, by a margin of 94 percent to 6 percent.
-Se você não estiver ciente, em média de usuários do motor de busca, clique em esmagadoramente nos resultados orgânicos (resultados livres) no Google e Bing, antes que eles cliquem em um patrocinador pago anúncio, por uma margem de 94 por cento a 6 por cento.&lt;/p&gt;
+&lt;p&gt;Se você não estiver ciente, a maioria dos usuários dos sites de busca, a maioria esmagadoramente clicam nos resultados orgânicos (resultados livres) no Google e Bing, antes que eles cliquem em um patrocinador pago anúncio, por uma margem de 94 por cento a 6 por cento.&lt;/p&gt;
 
-&lt;p&gt;During the last 15 years we have worked with hundreds of Australian and international companies in the area of web site promotion and search engine optimisation (SEO) from our base in Sydney. We guarantee that our web promotion services will deliver more enquires and customers to your site. Most consumers find web sites by typing a keyword phrase into one of the major search engines. If your site is correctly optimised for the appropriate keywords it will appear near the top of the search results. The higher your site’s ranking, the more visitors it should receive. Better still, because these visitors chose your keywords themselves, you know they are ideal prospects for your business.&lt;/p&gt;
+&lt;p&gt;Durante os últimos 15 anos, temos trabalhado com centenas de empresas nacionais e internacionais na área de desenvolvimento de web sites e search engine optimization (SEO) a partir de nossa base em São Paulo. Nós garantimos que nossos desenvolvimento web vai entregar mais clientes para o seu site. A maioria dos consumidores encontram sites digitando uma palavra-chave em um dos principais motores de busca. Se o seu site está devidamente otimizado para as palavras-chave adequadas, irá aparecer perto do topo dos resultados de busca. Quanto mais alto o ranking do seu site, mais visitantes ele deve receber. Melhor ainda, porque esses visitantes escolhem as palavras-chave, você sabe que eles são perspectivas ideais para o seu negócio.&lt;/p&gt;
 
-&lt;p&gt;To rank different web sites, each search engine uses a different algorithm, looking at different components of your web site including document title, meta tags, keywords in the URL, keywords in the text, headings in the text, number of pages, and external links into the site. Many web design and media agency companies will use software that promotes your web site, this is NOT always beneficial and can negatively affect your rankings. We always manually optimise your site for relevant phrases and then submit your site to the top search engines and directories.&lt;/p&gt;
+&lt;p&gt;Para classificar sites diferentes, cada motor de pesquisa utiliza um algoritmo diferente, olhando para diferentes componentes do seu web site, incluindo título do documento, meta tags, palavras-chave na URL, palavras-chave no texto, títulos no texto, número de páginas, e links externos para o site. Muitas empresas de web design e agências de mídia vai usar o software que promove seu Web site, este não é sempre benéfico e pode afetar negativamente a sua classificação. Nós sempre otimizamos manualmente o seu site para frases relevantes e, em seguida, enviar seu site para os principais motores de busca e diretórios.&lt;/p&gt;
 
-&lt;p&gt;Web Promotion and SEO Quality Guarantee&lt;/p&gt;
+&lt;h4 id=&quot;desenvolvimento-web-e-garantia-de-qualidade-seo&quot;&gt;Desenvolvimento Web e Garantia de Qualidade SEO&lt;/h4&gt;
 
-&lt;p&gt;As a certified web promotion company, we have made customer satisfaction a fundamental priority. Since Search Engine Optimisation is a rapidly evolving, technically complex and often misunderstood field we have taken the initiative of developing the Search Engine Optimisation Quality Guarantee. We explicitly guarantee the following standards of practice on all search engine optimisation projects that we undertake.&lt;/p&gt;
+&lt;p&gt;Como uma empresa web certificada, nós fazemos a satisfação do cliente uma prioridade fundamental. Desde sempre as Ferramentas de Busca estão evoluindo rapidamente, tecnicamente complexas e muitas vezes incompreendidos que tomaram a iniciativa de desenvolver com a Garantia de Qualidade. Nós garantimos explicitamente os seguintes padrões de prática em todos os projetos de otimização de mecanismo de busca que realizamos.&lt;/p&gt;
 
-&lt;p&gt;We optimise web sites for relevant keywords only. We do not use ‘cloaking techniques’ that show search engines and web users different content.&lt;/p&gt;
+&lt;p&gt;Nós otimizamos sites para ter apenas as palavras-chave mais relevantes. Nós não usamos “técnicas de camuflagem” que mostram os motores de busca e os usuários da web de conteúdo diferente.&lt;/p&gt;
 
-&lt;p&gt;We monitor the effectiveness of our optimisation services and provide all clients with a follow up report detailing their site’s rankings with the major search engines.&lt;/p&gt;
+&lt;p&gt;Nós monitoramos a eficácia dos nossos serviços de otimização e fornecer todos os clientes um acompanhamento em relatório detalhando a classificação do seu site com os principais motores de busca.&lt;/p&gt;
 
-&lt;p&gt;Our primary focus is to improve the search experience for web users by helping search engines find relevant results. Search engines change the algorithms they use to rank web sites frequently and it is not possible to accurately predict future rankings and traffic.&lt;/p&gt;
+&lt;p&gt;Nosso foco principal é melhorar a experiência de pesquisa para usuários da Internet, ajudando os motores de busca encontrar resultados relevantes. Os motores de busca mudam os algoritmos que eles usam para classificar sites com freqüência e não é possível prever com precisão futuros rankings e tráfego.&lt;/p&gt;
 
-&lt;p&gt;However, we use techniques that we know work on standard sites and anticipate a significant increase in qualified site traffic.&lt;/p&gt;
+&lt;p&gt;No entanto, nós usamos técnicas que sabemos trabalhar em sites padrão e antecipam um aumento significativo no tráfego do site qualificado.&lt;/p&gt;
 
-&lt;p&gt;We are not just a search engine registration service. We offer a pin-point target marketing programme that:&lt;/p&gt;
+&lt;p&gt;Nós não somos apenas um serviço de registro de motor de busca. Oferecemos um programa de marketing de destino pin-point que:&lt;/p&gt;
 
-&lt;p&gt;Works with you to identify your most relevant keyword phrases.Manually optimises your web site’s key documents using our proven techniques.Offers ongoing web promotion strategies.Guarantees your web rankings will improve.Guarantees your web site’s traffic will increase.
-Search engine optimisation is a crucial part of the marketing mix but many websites are not designed to be search engine friendly and are often missing key components that are important for gaining good rankings.&lt;/p&gt;
+&lt;p&gt;Trabalha com você para identificar a palavra-chave mais relevantes. Otimiza manualmente documentos-chave do seu site usando nossas tecnicas. Oferecemos comprovadas de estratégia. Garantimos a promoção da marca e o seu ranking web vai melhorar. Garantindo que o tráfego do seu site vai aumentar.
+Search engine optimization é uma parte crucial no meio de marketing, mas muitos sites não são projetados para ser amigável com motores de busca e muitas vezes faltando componentes-chave que são importantes para a obtenção de uma boa classificação.&lt;/p&gt;
 
-&lt;h4 id=&quot;e-commerce-seo&quot;&gt;E-commerce SEO&lt;/h4&gt;
+&lt;h4 id=&quot;seo-em-e-commerce&quot;&gt;SEO em E-commerce&lt;/h4&gt;
 
-&lt;p&gt;As a total solutions business our aim is to help our customers generate more leads, revenue and profitability from their online ecommerce website.&lt;/p&gt;
+&lt;p&gt;Como uma empresa de soluções totais nosso objetivo é ajudar nossos clientes a gerar mais visibilidade, receita e lucratividade de seu site de comércio eletrônico online.&lt;/p&gt;
 
-&lt;p&gt;Using our established and tried services and strategies, these can include:
-- SEO = Search Engine Optimization
-- PPC = Pay Per Click Management
-- Social Media Consulting and Marketing
-- ECO = Ecommerce Conversion Optimization
-- Ecommerce Website Design&lt;/p&gt;
+&lt;p&gt;Usando nossos serviços e estratégias estabelecidas e testadas, estes podem incluir:&lt;/p&gt;
 
-&lt;p&gt;Our SEO campaigns include:
-- Keyword Research and Analytical Review
-- SEO Analysis and DSO Recommendations
-- Site Content Optimization
-- Natural Link Building
-- Analytics and Reporting&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;SEO = Search Engine Optimization&lt;/li&gt;
+  &lt;li&gt;PPC = Pay Per Click Gestão&lt;/li&gt;
+  &lt;li&gt;Mídias Sociais e Marketing Consulting&lt;/li&gt;
+  &lt;li&gt;ECO = Otimizar a Conversão do Ecommerce&lt;/li&gt;
+  &lt;li&gt;Ecommerce Web Design&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nossas campanhas de SEO incluem:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Palavra-chave Pesquisa e auditoria analítica&lt;/li&gt;
+  &lt;li&gt;Análise de SEO e DSO Recomendações&lt;/li&gt;
+  &lt;li&gt;Otimização do conteúdo do site&lt;/li&gt;
+  &lt;li&gt;Natural Link Building&lt;/li&gt;
+  &lt;li&gt;Analytics e Relatórios&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/en/projetos/seo</link>
-        <guid isPermaLink="true">http://artnux.com/en/projetos/seo</guid>
+        <link>http://mmartche.ca/projetos/seo</link>
+        <guid isPermaLink="true">http://mmartche.ca/projetos/seo</guid>
         
         <category>performance</category>
         
@@ -70,14 +75,13 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
       <item>
         <title>Projetos:  SEO &amp; SEM</title>
         <description>&lt;h4 id=&quot;seo--sem&quot;&gt;SEO &amp;amp; SEM&lt;/h4&gt;
-&lt;p&gt;If you’re not already aware, on average search engine users overwhelmingly click on the organic results (free results) on Google and Bing, before they click on a sponsor paid ad listing, by a margin of 94 percent to 6 percent.
-Se você não estiver ciente, em média de usuários do motor de busca, clique em esmagadoramente nos resultados orgânicos (resultados livres) no Google e Bing, antes que eles cliquem em um patrocinador pago anúncio, por uma margem de 94 por cento a 6 por cento.&lt;/p&gt;
+&lt;p&gt;If you’re not already aware, on average search engine users overwhelmingly click on the organic results (free results) on Google and Bing, before they click on a sponsor paid ad listing, by a margin of 94 percent to 6 percent.&lt;/p&gt;
 
-&lt;p&gt;During the last 15 years we have worked with hundreds of Australian and international companies in the area of web site promotion and search engine optimisation (SEO) from our base in Sydney. We guarantee that our web promotion services will deliver more enquires and customers to your site. Most consumers find web sites by typing a keyword phrase into one of the major search engines. If your site is correctly optimised for the appropriate keywords it will appear near the top of the search results. The higher your site’s ranking, the more visitors it should receive. Better still, because these visitors chose your keywords themselves, you know they are ideal prospects for your business.&lt;/p&gt;
+&lt;p&gt;During the last 15 years we have worked with hundreds of Brazilian and international companies in the area of web site promotion and search engine optimisation (SEO) from our base in São Paulo. We guarantee that our web promotion services will deliver more enquires and customers to your site. Most consumers find web sites by typing a keyword phrase into one of the major search engines. If your site is correctly optimised for the appropriate keywords it will appear near the top of the search results. The higher your site’s ranking, the more visitors it should receive. Better still, because these visitors chose your keywords themselves, you know they are ideal prospects for your business.&lt;/p&gt;
 
 &lt;p&gt;To rank different web sites, each search engine uses a different algorithm, looking at different components of your web site including document title, meta tags, keywords in the URL, keywords in the text, headings in the text, number of pages, and external links into the site. Many web design and media agency companies will use software that promotes your web site, this is NOT always beneficial and can negatively affect your rankings. We always manually optimise your site for relevant phrases and then submit your site to the top search engines and directories.&lt;/p&gt;
 
-&lt;p&gt;Web Promotion and SEO Quality Guarantee&lt;/p&gt;
+&lt;h4 id=&quot;web-promotion-and-seo-quality-guarantee&quot;&gt;Web Promotion and SEO Quality Guarantee&lt;/h4&gt;
 
 &lt;p&gt;As a certified web promotion company, we have made customer satisfaction a fundamental priority. Since Search Engine Optimisation is a rapidly evolving, technically complex and often misunderstood field we have taken the initiative of developing the Search Engine Optimisation Quality Guarantee. We explicitly guarantee the following standards of practice on all search engine optimisation projects that we undertake.&lt;/p&gt;
 
@@ -113,8 +117,8 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 - Analytics and Reporting&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/projetos/seo</link>
-        <guid isPermaLink="true">http://artnux.com/projetos/seo</guid>
+        <link>http://mmartche.ca/en/projetos/seo</link>
+        <guid isPermaLink="true">http://mmartche.ca/en/projetos/seo</guid>
         
         <category>performance</category>
         
@@ -126,6 +130,62 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
       </item>
     
       <item>
+        <title>Projetos: SEGURANÇA</title>
+        <description>&lt;h2 id=&quot;segurana&quot;&gt;Segurança&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;TDI - Teste de Invasão&lt;/li&gt;
+  &lt;li&gt;Soluções para Segurança da Informação&lt;/li&gt;
+  &lt;li&gt;Segurança de Aplicações Web&lt;/li&gt;
+  &lt;li&gt;Hardening&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
+&lt;p&gt;Segurança é o nosso foco e você deseja o mesmo?&lt;/p&gt;
+
+&lt;h4 id=&quot;consulte-nos&quot;&gt;Consulte-nos!&lt;/h4&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
+        <link>http://mmartche.ca/en/projetos/seguranca</link>
+        <guid isPermaLink="true">http://mmartche.ca/en/projetos/seguranca</guid>
+        
+        <category>back-end</category>
+        
+        <category>segurança</category>
+        
+        
+        <category>projetos</category>
+        
+      </item>
+    
+      <item>
+        <title>Projetos: SEGURANÇA</title>
+        <description>&lt;h2 id=&quot;segurana&quot;&gt;Segurança&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;TDI - Teste de Invasão&lt;/li&gt;
+  &lt;li&gt;Soluções para Segurança da Informação&lt;/li&gt;
+  &lt;li&gt;Segurança de Aplicações Web&lt;/li&gt;
+  &lt;li&gt;Hardening&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;nosso-propsito&quot;&gt;Nosso Propósito&lt;/h4&gt;
+&lt;p&gt;Segurança é o nosso foco e você deseja o mesmo?&lt;/p&gt;
+
+&lt;h4 id=&quot;consulte-nos&quot;&gt;Consulte-nos!&lt;/h4&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
+        <link>http://mmartche.ca/projetos/seguranca</link>
+        <guid isPermaLink="true">http://mmartche.ca/projetos/seguranca</guid>
+        
+        <category>back-end</category>
+        
+        <category>segurança</category>
+        
+        
+        <category>projetos</category>
+        
+      </item>
+    
+      <item>
         <title>Projetos: OpenBSD</title>
         <description>&lt;h2 id=&quot;openbsd&quot;&gt;OpenBSD&lt;/h2&gt;
 &lt;p&gt;The OpenBSD project produces a freely available, multi-platform 4.4BSD-based UNIX-like operating system. Our goals place emphasis on correctness, security, standardization, and portability.&lt;/p&gt;
@@ -150,8 +210,8 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 &lt;p&gt;Usamos o sistema operacional mais seguro do mundo para melhor atender você cliente.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/en/projetos/openbsd</link>
-        <guid isPermaLink="true">http://artnux.com/en/projetos/openbsd</guid>
+        <link>http://mmartche.ca/projetos/openbsd</link>
+        <guid isPermaLink="true">http://mmartche.ca/projetos/openbsd</guid>
         
         <category>back-end</category>
         
@@ -187,8 +247,8 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 &lt;p&gt;Usamos o sistema operacional mais seguro do mundo para melhor atender você cliente.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/projetos/openbsd</link>
-        <guid isPermaLink="true">http://artnux.com/projetos/openbsd</guid>
+        <link>http://mmartche.ca/en/projetos/openbsd</link>
+        <guid isPermaLink="true">http://mmartche.ca/en/projetos/openbsd</guid>
         
         <category>back-end</category>
         
@@ -208,8 +268,8 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 &lt;p&gt;Desenvolvemos e aplicamos tecnologias OpenSource.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/en/projetos/open-source</link>
-        <guid isPermaLink="true">http://artnux.com/en/projetos/open-source</guid>
+        <link>http://mmartche.ca/en/projetos/open-source</link>
+        <guid isPermaLink="true">http://mmartche.ca/en/projetos/open-source</guid>
         
         <category>front-end</category>
         
@@ -231,8 +291,8 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 &lt;p&gt;Desenvolvemos e aplicamos tecnologias OpenSource.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/projetos/open-source</link>
-        <guid isPermaLink="true">http://artnux.com/projetos/open-source</guid>
+        <link>http://mmartche.ca/projetos/open-source</link>
+        <guid isPermaLink="true">http://mmartche.ca/projetos/open-source</guid>
         
         <category>front-end</category>
         
@@ -263,8 +323,8 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 ####Consulte-nos!&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/en/projetos/netbsd</link>
-        <guid isPermaLink="true">http://artnux.com/en/projetos/netbsd</guid>
+        <link>http://mmartche.ca/en/projetos/netbsd</link>
+        <guid isPermaLink="true">http://mmartche.ca/en/projetos/netbsd</guid>
         
         <category>back-end</category>
         
@@ -293,144 +353,10 @@ Search engine optimisation is a crucial part of the marketing mix but many websi
 ####Consulte-nos!&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/projetos/netbsd</link>
-        <guid isPermaLink="true">http://artnux.com/projetos/netbsd</guid>
+        <link>http://mmartche.ca/projetos/netbsd</link>
+        <guid isPermaLink="true">http://mmartche.ca/projetos/netbsd</guid>
         
         <category>back-end</category>
-        
-        <category>servidor</category>
-        
-        
-        <category>projetos</category>
-        
-      </item>
-    
-      <item>
-        <title>Projetos:  Manutenção e Suporte mensal</title>
-        <description>&lt;h4 id=&quot;maintenance-support&quot;&gt;Maintenance Support&lt;/h4&gt;
-&lt;p&gt;These days most businesses, big and small are time poor. Some customers prefer to maintain their own web sites, whilst others prefer not to. Either way our DSO maintenance and website support services can provide your business with ongoing, reliable and affordable website solutions, delivered in a timely and professional manner.&lt;/p&gt;
-
-&lt;p&gt;Our maintenance support packages start from just $10 per month and can used to simply update and add content to a news blog, or for adding text and updated changes to your web site. We prefer to tailor make a support maintenance package for you to ensure we cover all areas of your requirements.&lt;/p&gt;
-
-&lt;p&gt;Whether you’re a small, home-based business or a large scale, corporate or government organisation, we can work with you and agree on a tailored made maintenance support package that’s just right for you.&lt;/p&gt;
-
-&lt;p&gt;Before selecting a plan, we suggest you take a look at your web site and forecast how often you will need to make changes and or add new pages on average per month and or need support and help.&lt;/p&gt;
-
-&lt;p&gt;DSO Budget Maintenance Plan – $15 per month + gst – Payable annually upfront.&lt;/p&gt;
-
-&lt;p&gt;Giving you piece of mind that your website is being regularly updated, checked for problems, and small issues are covered; without a hitch and amortised over the year.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;2 hours website maintenance per month to be applied to simple content and functionality changes, advice, and general support. Does NOT include new graphic design, new pages or programming.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Guaranteed 8 business hours response time on all change and support requests provided as part of this plan.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;DSO Business Maintenance Plan – $55 per month + gst – Payable annually upfront.&lt;/p&gt;
-
-&lt;p&gt;When pro-actively engaging with your customers is paramount for your business, this plan will ensure that you are communicating outwardly each and every month and ensuring your web site is updated and maintained with urgency.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;5 hours website maintenance per month to be applied to simple content and functionality changes, advice, and general support. Includes up to one new page with matching web site graphic design and programming per month.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Guaranteed 8 business hours response time on all change and support requests provided as part of this plan.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;DSO Lite Maintenance Plan – $25 per month + gst – Payable annually upfront.&lt;/p&gt;
-
-&lt;p&gt;Your business evolves and changes as the market changes and customer demands change. The Lite plan ensures that your website evolves with your business, and continues to present you in an up-to-date and professional manner.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;3 hours website maintenance per month to be applied to simple content and functionality changes, advice, and general support. Does NOT include new graphic design, new pages or programming.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Guaranteed 8 business hours response time on all change and support requests provided as part of this plan.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/projetos/manutencao</link>
-        <guid isPermaLink="true">http://artnux.com/projetos/manutencao</guid>
-        
-        <category>hardware</category>
-        
-        <category>software</category>
-        
-        <category>manutenção</category>
-        
-        <category>servidor</category>
-        
-        
-        <category>projetos</category>
-        
-      </item>
-    
-      <item>
-        <title>Projetos:  Manutenção e Suporte mensal</title>
-        <description>&lt;h4 id=&quot;maintenance-support&quot;&gt;Maintenance Support&lt;/h4&gt;
-&lt;p&gt;These days most businesses, big and small are time poor. Some customers prefer to maintain their own web sites, whilst others prefer not to. Either way our DSO maintenance and website support services can provide your business with ongoing, reliable and affordable website solutions, delivered in a timely and professional manner.&lt;/p&gt;
-
-&lt;p&gt;Our maintenance support packages start from just $10 per month and can used to simply update and add content to a news blog, or for adding text and updated changes to your web site. We prefer to tailor make a support maintenance package for you to ensure we cover all areas of your requirements.&lt;/p&gt;
-
-&lt;p&gt;Whether you’re a small, home-based business or a large scale, corporate or government organisation, we can work with you and agree on a tailored made maintenance support package that’s just right for you.&lt;/p&gt;
-
-&lt;p&gt;Before selecting a plan, we suggest you take a look at your web site and forecast how often you will need to make changes and or add new pages on average per month and or need support and help.&lt;/p&gt;
-
-&lt;p&gt;DSO Budget Maintenance Plan – $15 per month + gst – Payable annually upfront.&lt;/p&gt;
-
-&lt;p&gt;Giving you piece of mind that your website is being regularly updated, checked for problems, and small issues are covered; without a hitch and amortised over the year.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;2 hours website maintenance per month to be applied to simple content and functionality changes, advice, and general support. Does NOT include new graphic design, new pages or programming.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Guaranteed 8 business hours response time on all change and support requests provided as part of this plan.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;DSO Business Maintenance Plan – $55 per month + gst – Payable annually upfront.&lt;/p&gt;
-
-&lt;p&gt;When pro-actively engaging with your customers is paramount for your business, this plan will ensure that you are communicating outwardly each and every month and ensuring your web site is updated and maintained with urgency.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;5 hours website maintenance per month to be applied to simple content and functionality changes, advice, and general support. Includes up to one new page with matching web site graphic design and programming per month.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Guaranteed 8 business hours response time on all change and support requests provided as part of this plan.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;DSO Lite Maintenance Plan – $25 per month + gst – Payable annually upfront.&lt;/p&gt;
-
-&lt;p&gt;Your business evolves and changes as the market changes and customer demands change. The Lite plan ensures that your website evolves with your business, and continues to present you in an up-to-date and professional manner.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;3 hours website maintenance per month to be applied to simple content and functionality changes, advice, and general support. Does NOT include new graphic design, new pages or programming.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Guaranteed 8 business hours response time on all change and support requests provided as part of this plan.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 01 May 2015 21:00:00 -0300</pubDate>
-        <link>http://artnux.com/en/projetos/manutencao</link>
-        <guid isPermaLink="true">http://artnux.com/en/projetos/manutencao</guid>
-        
-        <category>hardware</category>
-        
-        <category>software</category>
-        
-        <category>manutenção</category>
         
         <category>servidor</category>
         

@@ -2,6 +2,8 @@
 layout: about
 title: About Us
 permalink: /about/
+description: We bring together a team of graphic, developers, SEO experts, Servers Engenieers & Security experts for each project, ensuring you get the best mixture of talent and experience.
+priority: 0.9
 ---
 
 <div class="container mtb">

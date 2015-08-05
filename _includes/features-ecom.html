@@ -1,0 +1,25 @@
+<div id="features">
+    <div class="container">
+        {% if include.title %}<h3>{{ include.title | upcase }}</h3>{% endif %}
+        <ul class="list-group">
+        	<li class="list-group-item list-group-item-success">
+				<div class="row show-grid">
+					<div class="col-xs-6"><a name="features"></a></div>
+					<div class="col-xs-2 centered">Plano Vire-Lata</div>
+					<div class="col-xs-2 centered">Plano Raça Pura</div>
+					<div class="col-xs-2 centered">Plano Pedigree</div>
+				</div>
+			</li>
+        {% for features in site.data.features-ecom %}
+			<li class="list-group-item">
+				<div class="row show-grid">
+					<div class="col-xs-6">{{ features.title }}</div>
+					<div class="col-xs-2 centered">{{ features.check1 }}</div>
+					<div class="col-xs-2 centered">{{ features.check2 }}</div>
+					<div class="col-xs-2 centered">{{ features.check3 }}</div>
+				</div>
+			</li>
+		{% endfor %}
+		</ul>
+    </div>
+</div>

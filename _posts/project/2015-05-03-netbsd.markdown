@@ -14,6 +14,8 @@ carousel:
 - netbsd01.png
 client: Corp.
 website: http://www.netbsd.org
+priority: 0.6
+description: The NetBSD Project is an international collaborative effort of a large group of people, to produce a freely available and redistributable UNIX-like operating system, NetBSD. 
 ---
 ##NetBSD
 The NetBSD Project is an international collaborative effort of a large group of people, to produce a freely available and redistributable UNIX-like operating system, NetBSD. In addition to our own work, NetBSD contains a variety of other free software, including 4.4BSD Lite from the University of California, Berkeley.

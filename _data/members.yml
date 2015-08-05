@@ -1,8 +1,8 @@
 # Members information. Shown on About page.
 
   - name: Abner Rosa da Trindade 
-    position: CEO
-    text: /\ 
+    position: Analista de Infraestrutura
+    text: COO
     img: team01.jpg
     social:
       - title: envelope #use for email address
@@ -10,8 +10,8 @@
       - title: twitter
         url: http://twitter.com/jascoman
   - name: Gabriel Murilo Lanzi
-    position: Security Engineer
-    text: ... 
+    position: Engenheiro em Segurança
+    text: CSO
     img: team02.jpg
     social:
       - title: envelope #use for email address
@@ -19,14 +19,22 @@
       - title: twitter
         url: http://twitter.com/gl4nz1
   - name: Marcelo Martche
-    position: Desenvolvedor cabra.macho da peste
-    text: _
+    position: Desenvolvedor Web
+    text: CTO
     img: team03.jpg
     social:
-      - title: envelope #use for email address
+      - title: email
+        icon: pied-piper-alt
         url: mailto:marcelo@artnux.com
       - title: linkedin
-        url: http://br.linkedin.com/in/marcelomartche
+        icon: linkedin
+        url: http://br.linkedin.com/in/marcelomandrade
+      - title: Resume
+        icon: graduation-cap
+        url: /assets/resume/marcelo/
+      - title: Print
+        icon: print
+        url: /assets/resume/marcelo/resume.pdf
 #  - name: Nome 4
 #    position: Marketing
 #    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.

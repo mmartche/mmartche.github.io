@@ -2,12 +2,12 @@
     <div class="container">
         <div class="row centered">
         {% if include.title %}<h3>{{ include.title | upcase }}</h3>{% endif %}
-        {% for prices in site.data.prices %}
+        {% for prices in site.data.price-host %}
             <div class="col-md-4">
                 <div class="panel panel-danger">
                     <div class="panel-heading">
                         <h3 class="panel-title">{{ prices.title }}</h3>
-                        <h3 class="panel-title">{{ prices.title2 }}</h3>
+                        <h3 class="panel-title">{{ page.language }}</h3>
                     </div>
                     <ul class="panel-body">
                         {% for item in prices.items %}
@@ -17,10 +17,10 @@
                     <div class="panel-footer">
                         {{ prices.value }}
                     </div>
-                    <p><br/><a href="{{ prices.linkUrl }}" class="btn btn-theme">Mais Informações</a></p>
+                    <p><br/><a href="{{ prices.linkUrl }}" class="btn btn-theme">Compare todos os recursos</a></p>
                 </div>
             </div>
-        {% endfor %} 				
+        {% endfor %}
         </div>
-    </div><! --/container -->
-</div><! --/prices -->
+    </div>
+</div>

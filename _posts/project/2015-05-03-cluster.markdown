@@ -21,6 +21,8 @@ website:
 - https://en.wikipedia.org/wiki/Red_Hat_cluster_suite
 - https://en.wikipedia.org/wiki/High-availability_cluster
 - https://en.wikipedia.org/wiki/Heartbeat_network
+priority: 0.6
+description: Um cluster, ou agregado de computadores, é formado por um conjunto de computadores, que utiliza um tipo especial de sistema operacional classificado como sistema distribuído. 
 ---
 ##CLUSTER
 Um cluster, ou agregado de computadores, é formado por um conjunto de computadores, que utiliza um tipo especial de sistema operacional classificado como sistema distribuído. Muitas vezes é construído a partir de computadores convencionais (personal computers), os quais são ligados em rede e comunicam-se através do sistema, trabalhando como se fossem uma única máquina de grande porte. Há diversos tipos de cluster. Um tipo famoso é o cluster da classe Beowulf, constituído por diversos nós escravos gerenciados por um só computador.

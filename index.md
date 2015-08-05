@@ -2,6 +2,8 @@
 layout: index
 title: Home
 permalink: /
+priority: 1
+description: Somos uma empresa focada em consultoria e serviços voltados a Open Source.
 ---
 
 <div class="container mtb">

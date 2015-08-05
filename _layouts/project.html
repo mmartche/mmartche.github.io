@@ -37,11 +37,26 @@ layout: default
             {% endfor %}
             </p>
         </div>
-    </div><! --/row -->
-    {% if page.include == "prices" %}
-        {% include prices.html title="Nossos Planos" %}
+    </div>
+    {% if page.include == "prices-host" %}
+        {% if page.language == "pt" %}
+            {% include prices-host.html title="Nossos Planos" %}
+        {% endif %}
+        {% if page.language == "en" %}
+            {% include prices-host-en.html title="Our Plans" %}
+        {% endif %}
     {% endif %}
-</div><! --/container -->
+    {% if page.include == "prices-ecom" %}
+        {% if page.language == "pt" %}
+            {% include prices-ecom.html title="Nossos Planos" %}
+            {% include features-ecom.html title="Todos os recursos" %}
+        {% endif %}
+        {% if page.language == "en" %}
+            {% include prices-ecom.html title="Our Plans" %}
+            {% include features-ecom.html title="All Features" %}
+        {% endif %}
+    {% endif %}
+</div>
 
 <div id="portfoliowrap">
     <div class="portfolio-centered">
@@ -68,13 +83,13 @@ layout: default
                                     <h3 class="a1" data-animate="fadeInDown">{{ project.title }}</h3>
                                     <a data-rel="prettyPhoto" href="{{ "/assets/img/project/carousel/" | prepend: site.baseurl }}{{ project.img }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
                                     <a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                                </div><!-- he bg -->
-                            </div><!-- he view -->      
-                        </div><!-- he wrap -->
-                    </div><!-- end col-12 -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     {% endif %}
                 {% endif %}
             {% endfor %}
-        </div><!-- portfolio -->
-    </div><!-- portfolio container -->
-</div><!--/Portfoliowrap -->
+        </div>
+    </div>
+</div>

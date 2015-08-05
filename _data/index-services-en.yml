@@ -12,22 +12,7 @@
     linkUrl: #
     imgClass: fa-lock
 
-  - title: Open Source
-    description: A cada dia possuímos mais e mais tecnologias Open Source de excelente qualidade como plataformas e-commerce, sistemas operacionais, softwares e aplicações para gerenciamento e segurança as quais já estão envolvidas em grandes corporações (Amazon, Netflix, Google dentre outras), somos especialistas em tecnologias Open Source e prestamos serviço de suporte e consultoria para que sua empresa possa evoluir de forma rápida, escalável e com suporte.
-    linkUrl: \#
-    imgClass: fa-certificate
-
   - title: Desenvolvimento Web
-    description: 
-    linkUrl: \#
-    imgClass: fa-comments-o
-
-  - title: Segurança
-    description: Fala um pouco do que vc vai oferecer e tal
-    linkUrl: #
-    imgClass: fa-lock
-
-  - title: Servidor
-    description: Fala um pouco do que vc vai oferecer e tal
+    description: A cada dia possuímos mais e mais tecnologias Open Source de excelente qualidade como plataformas e-commerce, sistemas operacionais, softwares e aplicações para gerenciamento e segurança as quais já estão envolvidas em grandes corporações (Amazon, Netflix, Google dentre outras), somos especialistas em tecnologias Open Source e prestamos serviço de suporte e consultoria para que sua empresa possa evoluir de forma rápida, escalável e com suporte.
     linkUrl: \#
     imgClass: fa-certificate

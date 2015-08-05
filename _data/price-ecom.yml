@@ -1,0 +1,35 @@
+# Lista com os Planos /price/
+
+  - name: 1
+    title: Plano Vira-Lata
+    description: /\ 
+    value: 'R$ 150,00 por mês'
+    items:
+      - title: 1.000 Produtos
+      - title: 'Recursos de compartilhamento em redes sociais: Facebook e Twitter'
+      - title: 'Super Filtro: Pesquisa de produtos por faixa de preço e diversas opções via form'
+      - title: Controle de estoque
+      - title: Desconto a partir de valor determinado com percentual e data limite configurável
+  - name: 2
+    title: Plano Pura Raça
+    description: /\ 
+    value: 'R$ 500,00 por mês'
+    items:
+      - title: + O plano Vira-Lata
+      - title: 5.000 Produtos
+      - title: Ambiente protegido por SSL em áreas de acesso a dados
+      - title: Criação de páginas institucionais
+      - title: Desconto especial para clientes em perfil diferenciado como revendedores por exemplo
+  - name: 3
+    title: Plano Pedigree
+    description: /\ 
+    value: '* Consulte-nos'
+    items:
+      - title: + Plano Vira-Lata
+      - title: + Plano Pura Raça
+      - title: Sem limite de produtos
+      - title: Cadastro de e-mail marketing segmentado
+      - title: Sistema de afiliados para parcerias
+      - title: Integração com sistema de análise de risco FControl
+      - title: Ferramenta de bloqueio de IP
+      - title: Gerenciador de design ideal para profissionais de criação personalizarem o layout da loja virtual

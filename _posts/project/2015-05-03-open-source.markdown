@@ -18,6 +18,8 @@ carousel:
 client: Corp.
 website: http://opensource.org
 draft: kkk
+priority: 0.6
+description: OpenSource não é somente uma metologia de licensa e sim também uma cultura.
 ---
 ####OpenSource
 OpenSource não é somente uma metologia de licensa e sim também uma cultura.
