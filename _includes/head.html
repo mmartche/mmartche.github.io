@@ -4,21 +4,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ page.description }} - {{ site.about }}">
     <meta name="author" content="{{ site.title }}">
-    <link rel="shortcut icon" href="{{ "/assets/ico/favicon.ico" | prepend: site.baseurl }}">
+    <link rel="shortcut icon" href="{{ "/assets/logo.ico" | prepend: site.baseurl_root_root  }}">
 
     <meta name="google-site-verification" content="{{ site.google-site-verification }}" />
 
     <title itemprop="name">{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="{{ "/assets/css/bootstrap.css" | prepend: site.baseurl }}" rel="stylesheet">
+    <link href="{{ "/assets/css/bootstrap.css" | prepend: site.baseurl_root_root  }}" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="{{ "/assets/css/style.css" | prepend: site.baseurl }}" rel="stylesheet">
-    <link href="{{ "/assets/css/font-awesome.min.css" | prepend: site.baseurl }}" rel="stylesheet">
+    <link href="{{ "/assets/css/style.css" | prepend: site.baseurl_root_root  }}" rel="stylesheet">
+    <link href="{{ "/assets/css/font-awesome.min.css" | prepend: site.baseurl_root_root  }}" rel="stylesheet">
     
     <!-- Custom CSS -->
-    <!-- <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}"> -->
+    <!-- <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl_root_root  }}"> -->
 
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
@@ -31,5 +31,6 @@
     <![endif]-->
     <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/{{ site.url }}\/","name":"{{ site.title }}","potentialAction":{"@type":"SearchAction","target":"http:\/\/{{ site.url }}\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 
-    <script src="{{ "/assets/js/modernizr.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/assets/js/modernizr.js" | prepend: site.baseurl_root_root  }}"></script>
+    <script src="{{ "/assets/js/toogleLanguage.js" | prepend: site.baseurl_root_root  }}"></script>
 </head>

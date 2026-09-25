@@ -22,7 +22,6 @@
 	} 
 
 body { 
-	background: #ffffff; 
 	margin: 0; 
 	height: 100%; 
 	color: #020210;
@@ -114,15 +113,15 @@ a:focus {
 .navbar-default .navbar-nav > li > a {
 	color: white;
 	font-weight: 700;
-	font-size: 12px;
+	font-size: 14px;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: darkgreen;
+	color: darkslategray;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: darkgreen;
+	color: darkslategray;
 	background-color: transparent;
 }
 
@@ -153,8 +152,8 @@ a:focus {
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
   color: #fff;
-  background-color: darkgreen;
-  border-color: darkgreen;
+  background-color: darkslategray;
+  border-color: darkslategray;
 }
 
 .dmbutton:hover,
@@ -216,7 +215,7 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: darkgreen;
+	background-color: darkslategray;
 	min-height: 0px;
 	padding-top: 100px;
 	padding-bottom: 50px;
@@ -244,7 +243,7 @@ a:focus {
 }
 
 #service i {
-	color: darkgreen;
+	color: darkslategray;
 	font-size: 60px;
 	padding: 15px;
 }
@@ -292,15 +291,15 @@ a:focus {
 {
 	height:100%;
 	width:100%;
-	background-color:darkgreen;
-	background-color:rgba(darkgreen,.9);
+	background-color:darkslategray;
+	background-color:rgba(0,100,0,.9);
 	text-align:center;
 }
 
 /* Testimonials Wrap */
 #twrapback {
-    background-color: darkgreen;
-    background-color:rgba(darkgreen,.8);
+    background-color: darkslategray;
+    background-color:rgba(0,100,0,.8);
     position: absolute;
     top: 0;
     left: 0;
@@ -376,7 +375,7 @@ a:focus {
 }
 
 #footerwrap i:hover {
-	color: darkgreen
+	color: darkslategray
 }
 
 /*	################################################################
@@ -385,7 +384,7 @@ a:focus {
 /* General Tweaks */
 
 #blue {
-	background: darkgreen;
+	background: darkslategray;
 	margin-top: 60px;
 	margin-bottom: 60px;
 	padding-top: 25px;
@@ -420,7 +419,7 @@ a:focus {
 }
 
 .ctitle {
-	color: darkgreen;
+	color: darkslategray;
 	font-weight: 700;
 	margin-bottom: 15px;
 }
@@ -436,7 +435,7 @@ csmall {
 }
 
 .badge-theme {
-	background: darkgreen;
+	background: darkslategray;
 }
 
 /* Contact Page */
@@ -505,7 +504,95 @@ a.anchor{
     top: -80px; 
     visibility: hidden;
 }
+.language-selector {
+  position: relative;
+  float: right;
+  margin: 0 1em;
+}
 
+.language-current {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  padding: 8px 12px;
+
+  border: 1px solid #ddd;
+  border-radius: 6px;
+
+  background: #fff;
+  color: #333;
+
+  cursor: pointer;
+}
+
+.language-current:hover {
+  background: #f5f5f5;
+}
+
+.flag {
+  font-size: 18px;
+}
+
+.language-arrow {
+  font-size: 10px;
+  margin-left: 4px;
+}
+
+.language-options {
+  display: none;
+
+  position: absolute;
+  top: calc(100% + 5px);
+  right: 0;
+
+  min-width: 130px;
+
+  background: #fff;
+
+  border: 1px solid #ddd;
+  border-radius: 6px;
+
+  overflow: hidden;
+
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+
+  z-index: 1000;
+}
+
+.language-options.show {
+  display: block;
+}
+
+.language-options a {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  padding: 10px 12px;
+
+  color: #333;
+  text-decoration: none;
+}
+
+.language-options a:hover {
+  background: #f5f5f5;
+}
+
+.lang-link {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+}
+
+.lang-link img,
+.lang-link svg {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
 
 #service .col-md-4 {
 	height: 500px;

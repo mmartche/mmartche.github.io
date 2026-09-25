@@ -17,11 +17,10 @@ layout: default
         </div>
         <div class="col-lg-4 col-lg-offset-1">
             <div class="spacing"></div>
-            <h4>Detalhes de Projeto</h4>
+            <h4>{% t project.title %}</h4>
             <div class="hline"></div>
-            <p><b>Data:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
-            <p><b>Especialista:</b> <a href="{{ "/about/" | prepend: site.baseurl }}">{{ page.developer }}</a></p>
-            <p><b>Categoria:</b> {{ page.categories }}</p>
+            <p><b>{% t project.specialist %}:</b> <a href="{{ "/about/" | prepend: site.baseurl_root }}">{{ page.developer }}</a></p>
+            <p><b>{% t project.category %}:</b> {{ page.categories }}</p>
             <p><b>Tags:</b> 
             {% for tag in page.tags %}
                 {{ tag }},
@@ -30,8 +29,8 @@ layout: default
                 {% endcapture %}
             {% endfor %}
             </p>
-            <p><b>Clientes:</b> {{ page.client }}</p>
-            <p><b>Referências:</b>
+            <p><b>{% t project.client %}:</b> {{ page.client }}</p>
+            <p><b>{% t project.reference %}:</b>
             {% for url in page.website %}
              <br /><a target="_blank" href="{{ url }}">{{ url }}</a>
             {% endfor %}
@@ -60,9 +59,12 @@ layout: default
 
 <div id="portfoliowrap">
     <div class="portfolio-centered">
-        <h3>{{ "Projetos Relacionados" | upcase }}</h3>
+        {% capture related_title %}
+            {% t project.title_related %}
+        {% endcapture %}
+        <h3>{{ related_title | strip | upcase }}</h3>
         <div class="recentitems portfolio">
-            {% for project in site.categories['projetos'] limit:10 %}
+            {% for project in site.categories['projects'] limit:10 %}
                 {% if project.language == page.language %}
                     {% assign freestyle = false %}
                     {% for t in project.tags %}
@@ -77,12 +79,10 @@ layout: default
                     {% if freestyle %}
                     <div class="portfolio-item graphic-design">
                         <div class="he-wrap tpl6">
-                        <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.thumb }}" alt="">
+                        <img src="{{ "/assets/img/project/" | prepend: site.baseurl_root }}{{ project.thumb }}" alt="">
                             <div class="he-view">
                                 <div class="bg a0" data-animate="fadeIn">
-                                    <h3 class="a1" data-animate="fadeInDown">{{ project.title }}</h3>
-                                    <a data-rel="prettyPhoto" href="{{ "/assets/img/project/carousel/" | prepend: site.baseurl }}{{ project.img }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                    <a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                                    <h3 class="a1" data-animate="fadeInDown"><a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp">{{ project.title }}</a></h3>
                                 </div>
                             </div>
                         </div>

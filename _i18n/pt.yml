@@ -1,0 +1,144 @@
+site:
+  title: "Martche House"
+  about_title: Sobre Nos
+  about_us: "Somos uma empresa focada em consultoria e serviços voltados a Open Source."
+  about_remote: "No momento a nossa equipe está alocada remotamente."
+  about_like: "Somos mais do que profissionais porque fazemos o que gostamos, de coração. Agindo no ponto certo onde é vital."
+  about_room: "Usamos algumas startups para locação de salas de reunião em todo o país caso necessário, assim tornando mais flexível para a equipe técnica e o cliente."
+
+header:
+  nav:
+    - label: Solucoes
+      children:
+      - label: Para o seu Site
+        url: /projetos/hospedagem/
+        post_ref: hosting
+
+      - label: Para a sua Loja
+        url: /projetos/ecommerce/
+        post_ref: ecommerce
+
+      - label: Para Iniciar na Internet
+        url: /projetos/desenvolvimento/
+        post_ref: development
+
+      - label: Para Consolidar sua Marca
+        url: /projetos/seo/
+        post_ref: seo
+
+      - label: Melhorar a Performance
+        url: /projetos/cloud/
+        post_ref: cloud
+
+      - label: Aumentar a Segurança
+        url: /projetos/seguranca/
+        post_ref: security
+    
+    - label: Nosso Time
+      url: /about
+      post_ref: about_us
+    
+    - label: Contato
+      url: /contact
+      post_ref: contact_us
+
+home:
+  title: "Bem-vindo"
+  subtitle: "Criamos soluções digitais."
+  info: "Disponibilidade, segurança e qualidade de serviço."
+  sub_info: "Sua informação em mãos seguras."
+  sub_sub_info: "Consultoria em tecnologias Open Source e Cloud Computing."
+  about_us: "Sobre nós"
+  more_about_us: "Somos uma empresa focada em consultoria e serviços voltados a Open Source."
+  more_about_us_2: "Somos mais do que profissionais porque fazemos o que gostamos, de coração. Agindo no ponto certo onde é vital."
+buttons:
+  more_information: "Leia mais"
+portfolio:
+  title: "SOLUÇÕES"
+services:
+  - title: Consultoria
+    description: Oferecemos o serviço de consultoria em sua arquitetura e infraestrutura possibilitando o aperfeiçoamento tecnológico e progressivo preparando a sua empresa para grandes negócios. Nosso objetivo maior é lidar com total transparência em toda a análise que fazemos mantendo nossa eficácia na implementação de qualquer projeto. Trabalhamos com todas as ferramentas de tracking e projetos, interação com o cliente a todo momento e suporte.
+    linkUrl: \#
+    imgClass: fa-comments-o
+
+  - title: Segurança da Informação
+    description: Estamos preparados para trabalhar com análise de segurança e vulnerabilidades de seu ambiente, prestando serviços de TDI (Teste de Intrusão), Segurança de Aplicações Web e Desktop e Análise apurada de Segurança englobando serviços de banco de dados e Ecommerce.
+                Nossa equipe é remota e flexível podendo assim atingir a escala da sua empresa.
+                Trabalhamos com parceiros consideráveis tanto nacionais como multis no ramo as quais juntos podemos melhorar a segurança da sua empresa.
+    linkUrl: #
+    imgClass: fa-lock
+
+  - title: Desenvolvimento Web
+    description: A cada dia possuímos mais e mais tecnologias Open Source de excelente qualidade como plataformas e-commerce, sistemas operacionais, softwares e aplicações para gerenciamento e segurança as quais já estão envolvidas em grandes corporações (Amazon, Netflix, Google dentre outras), somos especialistas em tecnologias Open Source e prestamos serviço de suporte e consultoria para que sua empresa possa evoluir de forma rápida, escalável e com suporte.
+    linkUrl: \#
+    imgClass: fa-certificate
+
+contact:
+  title: Contate-nos!
+  description: No momento a nossa equipe está alocada remotamente. Usamos algumas startups para locação de salas de reunião em todo o país caso necessário, assim tornando mais flexível para a equipe técnica e o cliente.
+  name: Seu nome
+  email: Endereço de email
+  message: Mensagem
+  send: Enviar
+
+about:
+  title: Nosso Time
+  description: Reúnimos uma equipe de designers, desenvolvedores web e apps, especialistas em SEO, Engenheiros & Seguranças em Servidores para cada projeto, garantindo-lhe obter a melhor mistura de talento e especialistas experientes.
+  info:
+    - Martche House reúne uma equipe de designers, desenvolvedores web e apps, especialistas em SEO, Engenheiros & Seguranças em Servidores para cada projeto, garantindo-lhe obter a melhor mistura de talento e especialistas experientes.
+    - A equipe Martche House têm trabalhado juntos com grandes empresas há mais de 15 anos. Acreditamos que ajuda e apoio é vital ao desenvolvimento orientado, no mundo não humano. Gostamos de pensar que somos inteligentes e social e isso reflete em nosso espírito de equipe.
+    - Nós amamos projetos desafiadores para ajudar nas tarefas de apoio mais humildes! Gostar de ajudar é parte da nossa forma de trabalhar com os clientes.
+    - A Martche House é uma empresa focada em consultoria e serviços voltados ao Open Source, onde existe uma comunidade apaixonada a qual seguimos a longos anos.
+    - Pensamos e desenvolvemos técnicas para enfrentar os maiores desafios de nossos clientes, procuramos buscar as melhores tecnologias do mercado na comunidade Open Source para que possamos atender os que buscam uma solução de qualidade.
+    - Nossa maior preocupação é suportar o cliente através de tecnologias que cumprem essa necessidade.
+
+team:
+  title: Nosso Time
+  contact_me: Fale comigo
+
+members:
+  - name: Abner Rosa da Trindade 
+    position: Analista de Infraestrutura
+    text: COO
+    img: team01.jpg
+    social:
+      - title: envelope
+        icon: envelope
+        url: mailto:abner@artnux.com
+  - name: Gabriel Murilo Lanzi
+    position: Engenheiro em Segurança
+    text: CSO
+    img: team02.jpg
+    social:
+      - title: envelope
+        icon: envelope
+        url: mailto:gabriel@artnux.com
+  - name: Marcelo Martche
+    position: Desenvolvedor Web
+    text: CTO
+    img: team03.jpg
+    social:
+      - title: email
+        icon: envelope
+        url: mailto:mmartche@hotmail.com
+      - title: linkedin
+        icon: linkedin
+        url: http://linkedin.com/in/marcelomandrade
+      - title: Resume
+        icon: graduation-cap
+        url: /assets/resume/marcelo/
+      - title: Print
+        icon: print
+        url: /assets/resume/marcelo/resume.pdf
+
+project:
+  title: Detalhes de Projeto
+  specialist: Especialista
+  category: Categoria
+  client: Clientes
+  reference: Referências
+  title_related: projetos relacionados
+
+general:
+  more_info: Mais Informação
+  our_address: Nosso endereço

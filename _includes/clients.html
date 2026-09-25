@@ -6,7 +6,7 @@
 				<div class="row centered">
 					{% for client in site.data.clients %}
 						<div class="col-sm-3 col-sm-3 col-sm-3">
-							<img src="{{ "/assets/img/clients/" | prepend: site.baseurl }}{{ client.img }}" class="img-responsive">
+							<img src="{{ "/assets/img/clients/" | prepend: site.baseurl_root  }}{{ client.img }}" class="img-responsive">
 						</div>
 					{% endfor %}
 				</div>

@@ -1,39 +1,132 @@
 <!-- Fixed navbar -->
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container">
-	      <div class="navbar-header">
+    <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <h1><a href="http://artnux.com/" target="_blank"><img src="http://lojadafumaca.com/image/logo-madruga-lojadafumaca.png" width="150px" border="0" alt="{{ site.title }} logo"></a>{{ site.title }}</h1>
-    </div>
-    <div>
-      <ul class="nav navbar-nav nav-pills">
-        <li><a href="{{'' | prepend: site.baseurl | append: page.url_no_language }}">PT-BR</a></li>
-        <li><a href="{{'/en' | prepend: site.baseurl | append: page.url_no_language }}">EN-US</a></li>
-      </ul>
+      <h1><a href="{{'/' | prepend: site.baseurl  }}"><img src="/assets/img/site-name.png" width="200px" border="0"
+            alt="{{ site.title }} logo"></a></h1>
     </div>
     <div class="navbar-collapse collapse navbar-right">
+      {% assign nav_items = site.translations[site.lang].header.nav %}
+      {% assign nav_items = site.translations[site.lang].header.nav %}
+
       <ul class="nav navbar-nav nav-pills">
-        <li {% if page.title == "Home" %}class="active"{% endif %}><a href="{{"/" | prepend: site.baseurl }}">HOME</a></li>
-        <li role="presentation" class="dropdown" {% if page.title == "Portfolio" %} class="active" {% endif %}>
-          <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">
-          SOLUÇÕES<span class="caret"></span></a>
-          <ul class="dropdown-menu" role="menu">
-            <li><a href="{{"/projetos/hospedagem/" | prepend: site.baseurl }}">Para o seu Site</a></li>
-            <li><a href="{{"/projetos/ecommerce/" | prepend: site.baseurl }}">Para a sua Loja</a></li>
-            <li><a href="{{"/projetos/desenvolvimento/" | prepend: site.baseurl }}">Para Iniciar na Internet</a></li>
-            <li><a href="{{"/projetos/seo/" | prepend: site.baseurl }}">Para Consolidar sua Marca</a></li>
-            <li><a href="{{"/projetos/cloud/" | prepend: site.baseurl }}">Melhorar a Performance</a></li>
-            <li><a href="{{"/projetos/seguranca/" | prepend: site.baseurl }}">Aumentar a Segurança</a></li>
-          </ul>
-        </li>
-        <li {% if page.title == "About" %}class="active"{% endif %}><a href="{{"/about/" | prepend: site.baseurl }}">NOSSO TIME</a></li>
-        <li {% if page.title == "Contact" %}class="active"{% endif %}><a href="{{"/contact/" | prepend: site.baseurl }}">CONTATO</a></li>
+
+        {% for item in nav_items %}
+
+          {% if item.children %}
+
+            <li class="dropdown{% if page.title == item.active_title %} active{% endif %}">
+
+              <a
+                class="dropdown-toggle"
+                data-toggle="dropdown"
+                href="#"
+                role="button"
+                aria-expanded="false"
+              >
+                {{ item.label }}
+                <span class="caret"></span>
+              </a>
+
+              <ul class="dropdown-menu" role="menu">
+
+                {% for child in item.children %}
+
+                  {% assign target_post = site.posts | where: "ref", child.post_ref | first %}
+
+                  {% if target_post %}
+                    <li>
+                      <a href="{{ target_post.url | prepend: site.baseurl }}">
+                        {{ child.label }}
+                      </a>
+                    </li>
+                  {% endif %}
+
+                {% endfor %}
+
+              </ul>
+
+            </li>
+
+          {% else %}
+
+            {% if item.post_ref %}
+              {% assign target_post = site.posts | where: "ref", item.post_ref | first %}
+            {% endif %}
+
+            <li{% if target_post and page.url == target_post.url %} class="active"{% endif %}>
+
+              {% if target_post %}
+                <a href="{{ target_post.url | prepend: site.baseurl }}">
+                  {{ item.label }}
+                </a>
+              {% else %}
+                <a href="{{ item.url | prepend: site.baseurl }}">
+                  {{ item.label }}
+                </a>
+              {% endif %}
+
+            </li>
+
+          {% endif %}
+
+        {% endfor %}
+
+
+          <div class="language-selector">
+            <button class="language-current" type="button" onclick="toggleLanguages()">
+
+              {% if site.lang == "en" %}
+                <span class="flag">
+                  <img
+                    src="{{ '/assets/flags/england.gif' | prepend: site.baseurl_root }}"
+                    alt="English"
+                    width="20"
+                  >
+                </span>
+                <span>EN</span>
+              {% else %}
+                <span class="flag">
+                  <img
+                    src="{{ '/assets/flags/portugal.png' | prepend: site.baseurl_root }}"
+                    alt="Português"
+                    width="20"
+                  >
+                </span>
+                <span>PT</span>
+              {% endif %}
+
+              <span class="language-arrow">▼</span>
+            </button>
+
+            <div class="language-options" id="languageOptions">
+
+              <a href="{{ page.translations.pt | prepend: site.baseurl_root }}">
+                <img
+                  src="{{ '/assets/flags/portugal.png' | prepend: site.baseurl_root }}"
+                  alt="Português"
+                >
+                <span>PT</span>
+              </a>
+
+              <a href="{{ '/en' | append: page.translations.en | prepend: site.baseurl_root }}">
+                <img
+                  src="{{ '/assets/flags/england.gif' | prepend: site.baseurl_root }}"
+                  alt="English"
+                >
+                <span>EN</span>
+              </a>
+
+            </div>
+          </div>
       </ul>
-    </div><!--/.nav-collapse -->
+
+    </div>
   </div>
 </div>

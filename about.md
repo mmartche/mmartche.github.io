@@ -1,7 +1,11 @@
 ---
 layout: about
 title: Sobre Nós
+ref: about_us
 permalink: /about/
+translations:
+  pt: /about/
+  en: /about/
 description: Reúnimos uma equipe de designers, desenvolvedores web e apps, especialistas em SEO, Engenheiros & Seguranças em Servidores para cada projeto, garantindo-lhe obter a melhor mistura de talento e especialistas experientes.
 priority: 0.9
 ---
@@ -9,16 +13,16 @@ priority: 0.9
 <div class="container mtb">
     <div class="row">
         <div class="col-lg-6">
-            <img class="img-responsive" src="{{ "/assets/img/about.jpg" | prepend: site.baseurl }}" alt="">
+            <img class="img-responsive" src="{{ "/assets/img/about.jpg" | prepend: site.baseurl_root }}" alt="">
         </div>
         <div class="col-lg-6">
-            <p>{{ site.title }} reúne uma equipe de designers, desenvolvedores web e apps, especialistas em SEO, Engenheiros & Seguranças em Servidores para cada projeto, garantindo-lhe obter a melhor mistura de talento e especialistas experientes.</p>
-            <p>A equipe {{ site.title }} têm trabalhado juntos com grandes empresas há mais de 15 anos. Acreditamos que ajuda e apoio é vital ao desenvolvimento orientado, no mundo não humano. Gostamos de pensar que somos inteligentes e social e isso reflete em nosso espírito de equipe.</p>
-            <p>Nós amamos projetos desafiadores para ajudar nas tarefas de apoio mais humildes! Gostar de ajudar é parte da nossa forma de trabalhar com os clientes.</p>
-            <p>A {{ site.title }} é uma empresa focada em consultoria e serviços voltados ao Open Source, onde existe uma comunidade apaixonada a qual seguimos a longos anos.</p>
-            <p>Pensamos e desenvolvemos técnicas para enfrentar os maiores desafios de nossos clientes, procuramos buscar as melhores tecnologias do mercado na comunidade Open Source para que possamos atender os que buscam uma solução de qualidade.</p>
-            <p>Nossa maior preocupação é suportar o cliente através de tecnologias que cumprem essa necessidade.</p>
-            <p><br/><a href="/contact/" class="btn btn-theme">Contate-nos</a></p>
+            {% assign about = site.translations[site.lang].about %}
+            {% for paragraph in about.info %}
+                <p>
+                    {{ paragraph }}
+                </p>
+            {% endfor %}
+            <p><br/><a href="/contact/" class="btn btn-theme">{% t contact.title %}</a></p>
         </div>
     </div>
 </div>

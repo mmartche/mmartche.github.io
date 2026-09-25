@@ -4,7 +4,7 @@
             <div class="col-lg-4">
                 <h4>Sobre</h4>
                 <div class="hline-w"></div>
-                <p>{{ site.about }}</p>
+                <p>{% t site.about_us %}</p>
             </div>
             <div class="col-lg-4">
                 <h4>Links sociais</h4>
@@ -18,10 +18,10 @@
             <div class="col-lg-4">
                 <h4>Nosso contato</h4>
                 <div class="hline-w"></div>
+                <p>{% t site.about_remote %}</p>
+                <p>{% t site.about_room %}</p>
                 <p>
-                    {% for line in site.address.first.lines %}
-                        {{ line }} <br>
-                    {% endfor %}
+                    <a mailto="mmartche@hotmail.com">{% t general.more_info %}</a>
                 </p>
             </div>
         </div>

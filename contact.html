@@ -2,7 +2,9 @@
 layout: contact
 title: Contato
 permalink: /contact/
-description: No momento a nossa equipe está alocada remotamente. Usamos algumas startups para locação de salas de reunião em todo o país caso necessário, assim tornando mais flexível para a equipe técnica e o cliente.
+translations:
+  pt: /contact/
+  en: /contact/
 ---
 
 <div id="contactwrap"></div>
@@ -10,35 +12,35 @@ description: No momento a nossa equipe está alocada remotamente. Usamos algumas
 <div class="container mtb">
     <div class="row">
         <div class="col-lg-8">
-            <h4>Contate-nos!</h4>
+            <h4>{% t contact.title %}</h4>
             <div class="hline"></div>
-                <p>{{ site.about }}</p>
+                <p>{% t site.about_us %}</p>
                 <form role="form">
                   <div class="form-group">
-                    <label for="InputName1">Seu nome</label>
+                    <label for="InputName1">{% t contact.name %}</label>
                     <input type="email" class="form-control" id="exampleInputEmail1">
                   </div>
                   <div class="form-group">
-                    <label for="InputEmail1">Endereço de email</label>
+                    <label for="InputEmail1">{% t contact.email %}</label>
                     <input type="email" class="form-control" id="exampleInputEmail1">
                   </div>
                   <div class="form-group">
-                    <label for="InputSubject1">Assunto</label>
+                    <label for="InputSubject1"></label>
                     <input type="email" class="form-control" id="exampleInputEmail1">
                   </div>
                   <div class="form-group">
-                    <label for="message1">Mensagem</label>
+                    <label for="message1">{% t contact.message %}</label>
                     <textarea class="form-control" id="message1" rows="3"></textarea>
                   </div>
-                  <button type="submit" class="btn btn-theme">Enviar</button>
+                  <button type="submit" class="btn btn-theme">{% t contact.send %}</button>
                 </form>
         </div>
         <div class="col-lg-4">
-            <h4>Nosso endereço</h4>
+            <h4>{% t general.our_address %}</h4>
             <div class="hline"></div>
-                <p>No momento a nossa equipe está alocada remotamente.</p>
-                <p>Usamos algumas startups para locação de salas de reunião em todo o país caso necessário, assim  tornando mais flexível para a equipe técnica e o cliente.</p>
-                <p>email: <a href="mailto:contato@artnux.com">contato@artnux.com</a></p>
+                <p>{% t site.about_remote %}</p>
+                <p>{% t site.about_room %}</p>
+                <p>email: <a href="mailto:mmartche@hotmail.com">mmartche@hotmail.com</a></p>
         </div>
     </div>
 </div>
