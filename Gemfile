@@ -1,4 +1,4 @@
 source "https://rubygems.org"
-gem "github-pages"
+gem "jekyll", "~> 4.4"
 gem "jekyll-multiple-languages-plugin"
-gem "rake"
+gem "webrick"
