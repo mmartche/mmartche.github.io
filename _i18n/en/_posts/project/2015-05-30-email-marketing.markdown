@@ -1,16 +1,17 @@
 ---
 layout: project
 title:  " Email Marketing"
+subtitle: "Campaigns, automated emails and customer communication connected to your digital systems."
 ref: email-marketing
 namespace: email-marketing
-permalink: /projects/email-marketing/
+permalink: /services/email-marketing/
 translations:
-  pt: /projetos/email-marketing/
-  en: /projects/email-marketing/
+  pt: /servicos/email-marketing/
+  en: /services/email-marketing/
 date:   2015-05-02 00:00:00
 developer: Marcelo
 categories:
-- projects
+- services
 tags:
 - marketing
 - front-end
@@ -25,47 +26,132 @@ website: http://www.org
 priority: 0.6
 description: In the right hands, email marketing is an incredibly powerful tool. After all, what else gets your message straight to a targeted audience that has opted to receive it?
 ---
-###Email Marketing
+## Turn email into a consistent communication channel
 
-In the right hands, email marketing is an incredibly powerful tool. After all, what else gets your message straight to a targeted audience that has opted to receive it?
-But how can you ensure that your email will be read – or even opened?
-There are a few key ingredients – design and content being the most important. But one element that is overlooked is the timing of the email campaign.
-Unfortunately, there are no hard and fast rules that say what day, time and Show often is optimal, but there have been some studies that show when emails will get higher open rates, and what makes people unsubscribe.
+We help businesses create, configure and automate email communication for marketing, customer engagement and transactional messages.
 
-####Timing
-Here’s a brief snapshot of the best times, according to MailChimp – one of the largest email platforms (its users send about 50 million emails a day):
-- During the week is generally better than weekends.
-- Most emails are sent Tuesdays and Thursday
-- Afternoons are better than mornings
-There are variations depending on the industry – travel works best in the afternoon, when workers are dreaming of their next holiday, while business-related emails are best sent in the mornings, when the readers are fresh.
-The best way to test what works for your business is to do some A/B testing. Split your list randomly in half and send the same email to each segment at different times – say Tuesday 10am and 3pm. Then analyse the open and click through rates. Do this for a few campaigns and see if you can spot a trend.
+From newsletters to automated customer journeys, we can build a reliable email setup connected to your website, e-commerce platform or business systems.
 
-####Frequency
-Again, there is no exact science that proves how often you should send you email campaigns but there are some handy rules of thumb. On the one hand, you don’t want to spam your valuable list and cause them to unsubscribe, but on the other, you want them to have your brand top-of mind.
+## What we can help with
 
-Here are some things to consider:
+- Newsletter setup
+- Email campaign configuration
+- Marketing automation
+- Transactional emails
+- Welcome sequences
+- Abandoned cart emails
+- Customer follow-ups
+- Contact form emails
+- Lead nurturing
+- Audience segmentation
+- Email templates
+- Campaign tracking
+- E-commerce integration
+- CRM integration
+- Domain and sender configuration
 
-####Quarterly Emails
+## Professional email campaigns
 
-These work best if you don’t really have a lot to say but are not the best option. For starters, if the recipient can’t remember who you are there’s a good chance they will hit the “unsubscribe” button. And there is also a high probability that your email list won’t be current, resulting a lot of “bounced” emails.
+We can help create and configure campaigns for:
 
-####Monthly Emails
+- Product launches
+- Promotions
+- Newsletters
+- Company updates
+- New content
+- Customer retention
+- Events
+- Special offers
+- Re-engagement campaigns
 
-These are great if your list subscribers have signed up for a newsletter. The goal is to set yourself up as a subject matter expert and let the reader know about what’s new with you and your industry. Monthly emails should include blog posts, upcoming events, news items and hints and tips.
+## Email automation
 
-If, however, your goal is to sell a product or service, you might need to send emails more often than once a month.
-Bi-Monthly Emails
+Many emails can be sent automatically based on user actions or business events.
 
-This strikes a nice balance between monthly and weekly frequency and is easy to manage. Most businesses should be able to come up with great content each fortnight, but if you can’t then don’t choose this option.
+Examples include:
 
-####Weekly Emails
+- Welcome emails
+- Account confirmation
+- Password reset
+- Order confirmation
+- Shipping updates
+- Abandoned cart reminders
+- Follow-up messages
+- Subscription reminders
+- Customer feedback requests
+- Lead nurturing sequences
 
-This is the perfect frequency if your goal is to sell a product or service. But make sure you send on the same day and at the same time so your subscribers will expect the contact.
+## Transactional email
 
-####Daily Emails
+Reliable transactional email is essential for many websites and applications.
 
-These can be great, but only if you have something to say! And it takes a lot of time and effort to churn out great content each and every day. Agreat example is Daily Writing Tips which does exactly what it says, that is sends an email every day (even weekends) with tips to make its subscribers into better writers.
+We can help configure email services for:
 
-Even if you don’t run daily emails as a matter of course, they can be great if you want to do week of an e-course or a “deal-a-day”.
+- User registration
+- Authentication
+- Orders
+- Payments
+- Notifications
+- Support requests
+- System alerts
 
-As you can see, email frequency can depend on what your objectives are, and it is important to test them out. Why not ask you subscribers what they prefer?
+## Segmentation
+
+Sending the same message to everyone is not always the best approach.
+
+We can help organize audiences according to:
+
+- Customer type
+- Purchase history
+- Interests
+- Location
+- Activity
+- Subscription status
+- Campaign interaction
+
+## Integration
+
+Email marketing can be connected with your existing digital ecosystem.
+
+This can include:
+
+- Websites
+- E-commerce stores
+- CRM systems
+- Contact forms
+- Customer databases
+- Custom software
+- Analytics platforms
+- Automation tools
+
+## Tracking and improvement
+
+We can configure campaign tracking to help you understand how users interact with your emails.
+
+This can include:
+
+- Opens
+- Clicks
+- Conversions
+- Campaign traffic
+- E-commerce actions
+- Audience engagement
+
+## Deliverability and configuration
+
+A good email system also depends on correct technical configuration.
+
+We can help configure:
+
+- SPF
+- DKIM
+- DMARC
+- Sending domains
+- DNS records
+- Sender authentication
+
+## Want to improve your email communication?
+
+Whether you need a simple newsletter or a complete automated email flow, we can help connect email with your website, store or business systems.
+
+**Let’s build a better email experience for your customers.**

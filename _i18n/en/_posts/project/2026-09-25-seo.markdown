@@ -1,0 +1,137 @@
+---
+layout: project
+title:  " SEO & Digital Growth"
+subtitle: "Technical SEO, performance, analytics and visibility improvements for your online presence."
+ref: seo
+namespace: seo
+permalink: /projects/seo/
+translations:
+  pt: /projetos/seo/
+  en: /projects/seo/
+date:   2026-09-25 00:00:00
+developer: Marcelo
+categories:
+- projects
+tags:
+- performance
+- front-end
+img: seo01.jpg
+thumb: project_seo.jpg
+carousel:
+- seo01.jpg
+- seo02.jpg
+client: Corp.
+website: http://www.org
+priority: 0.6
+description: Se você não estiver ciente, a maioria dos usuários dos sites de busca, a maioria esmagadoramente clicam nos resultados orgânicos (resultados livres) no Google e Bing, antes que eles cliquem em um patrocinador pago anúncio, por uma margem de 94 por cento a 6 por cento.
+---
+## Improve visibility, performance and online growth
+
+We help businesses improve how their websites are discovered, understood and used.
+
+Our work combines technical SEO, performance, analytics and digital optimization to help create a stronger online presence.
+
+## What we can help with
+
+- Technical SEO
+- On-page SEO
+- Website performance
+- Google Search Console
+- Google Analytics
+- Sitemap configuration
+- Metadata optimization
+- Structured data
+- Core Web Vitals
+- Mobile optimization
+- Accessibility improvements
+- Conversion tracking
+- Local presence optimization
+- Content structure
+- Internal linking
+
+## Technical SEO
+
+A website should be easy for search engines to understand.
+
+We can review and improve:
+
+- Page titles
+- Meta descriptions
+- Canonical URLs
+- XML sitemaps
+- robots.txt
+- URL structure
+- Structured data
+- Indexing issues
+- Internal linking
+- Duplicate content
+- Broken links
+
+## Performance
+
+Website speed directly affects user experience and can also impact search visibility.
+
+We can improve:
+
+- Page load speed
+- Core Web Vitals
+- Image delivery
+- JavaScript loading
+- CSS delivery
+- Caching
+- Compression
+- Server response time
+- Mobile performance
+
+## Analytics and tracking
+
+Good decisions depend on good data.
+
+We can help configure and improve:
+
+- Google Analytics
+- Google Search Console
+- Conversion tracking
+- Campaign tracking
+- Event tracking
+- E-commerce tracking
+- Performance reports
+
+## Content and structure
+
+We can also help organize website content so users and search engines can find important information more easily.
+
+This can include:
+
+- Page structure
+- Heading hierarchy
+- Service pages
+- Internal linking
+- Content organization
+- Search intent alignment
+- Multilingual SEO
+
+## Local and digital presence
+
+For businesses that depend on local or online visibility, we can help improve the way the brand appears across digital channels.
+
+This can include:
+
+- Google Business Profile
+- Social profile optimization
+- Website and social integration
+- Contact information consistency
+- Local landing pages
+- Review integration
+
+## Continuous improvement
+
+SEO and digital growth are ongoing processes.
+
+We can combine audits, analytics and performance monitoring to identify opportunities and continuously improve the website.
+
+## Want to improve your online visibility?
+
+We can review your current website and identify practical improvements for performance, search visibility and user experience.
+
+**Let’s improve how people find and use your business online.**

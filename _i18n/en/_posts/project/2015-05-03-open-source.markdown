@@ -3,14 +3,14 @@ layout: project
 title:  " Open Source"
 ref: open-source
 namespace: open-source
-permalink: /projects/open-source/
+permalink: /services/open-source/
 translations:
-  pt: /projetos/open-source/
-  en: /projects/open-source/
+  pt: /servicos/open-source/
+  en: /services/open-source/
 date:   2015-05-02 00:00:00
 developer: Marcelo Andrade
 categories:
-- projects
+- services
 tags:
 - front-end
 - back-end

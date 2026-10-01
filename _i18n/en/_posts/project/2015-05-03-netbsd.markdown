@@ -3,14 +3,14 @@ layout: project
 title:  "NetBSD"
 ref: netbsd
 namespace: netbsd
-permalink: /projects/netbsd/
+permalink: /services/netbsd/
 translations:
-  pt: /projetos/netbsd/
-  en: /projects/netbsd/
+  pt: /servicos/netbsd/
+  en: /services/netbsd/
 date:   2015-05-02 00:00:00
 developer: Abner 
 categories:
-- projects
+- services
 tags:
 - back-end
 - servidor

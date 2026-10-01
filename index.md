@@ -11,7 +11,7 @@ priority: 1
 
 {% include destaque.html %}
 {% include index-services.html title="" limit=10 %}
-{% include portfolio.html title="portfolio.title" limit=10 %}
+{% include portfolio.html title="portfolio.title" limit=8 %}
 
 <div class="container mtb">
     <div class="row centered">

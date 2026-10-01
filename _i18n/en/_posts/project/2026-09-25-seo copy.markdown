@@ -1,16 +1,16 @@
 ---
 layout: project
-title:  " SEO & SEM"
+title:  " SEO & Digital Growth"
 ref: seo
 namespace: seo
-permalink: /projects/seo/
+permalink: /services/seo/
 translations:
-  pt: /projetos/seo/
-  en: /projects/seo/
-date:   2015-05-02 00:00:00
+  pt: /servico/seo/
+  en: /services/seo/
+date:   2026-09-25 00:00:00
 developer: Marcelo
 categories:
-- projects
+- backup
 tags:
 - performance
 - front-end

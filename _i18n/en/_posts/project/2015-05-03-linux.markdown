@@ -3,14 +3,14 @@ layout: project
 title:  "Linux"
 ref: linux
 namespace: linux
-permalink: /projects/linux/
+permalink: /services/linux/
 translations:
-  pt: /projetos/linux/
-  en: /projects/linux/
+  pt: /servicos/linux/
+  en: /services/linux/
 date:   2015-05-02 00:00:00
 developer: Abner e Gabriel
 categories:
-- projects
+- services
 tags:
 - back-end
 - servidor

@@ -3,14 +3,14 @@ layout: project
 title:  "OpenBSD"
 ref: openbsd
 namespace: openbsd
-permalink: /projects/openbsd/
+permalink: /services/openbsd/
 translations:
-  pt: /projetos/openbsd/
-  en: /projects/openbsd/
+  pt: /servicos/openbsd/
+  en: /services/openbsd/
 date:   2015-05-02 00:00:00
 developer: Abner 
 categories:
-- projects
+- services
 tags:
 - back-end
 - servidor

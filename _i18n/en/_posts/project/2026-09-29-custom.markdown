@@ -1,0 +1,138 @@
+---
+layout: project
+title:  "Custom Software"
+subtitle: "Tailored systems, dashboards, APIs and business tools built around your processes."
+ref: custom-software
+namespace: custom-software
+permalink: /projects/custom-software/
+translations:
+  pt: /projetos/custom-software/
+  en: /projects/custom-software/
+date:   2026-09-29 00:00:00
+developer: 
+categories:
+- projects
+tags:
+- back-end
+- segurança
+thumb: portfolio_02.jpg
+img: portfolio_02.jpg
+carousel:
+- /project/thumb04.jpg
+client: Corp.
+website: http://artnux.com
+draft: on
+priority: 0.6
+description: Segurança é o nosso foco e você deseja o mesmo?
+---
+## Software built around the way your business works
+
+Not every business fits into an off-the-shelf platform.
+
+We design and develop custom software for companies that need more control, automation and flexibility in their daily operations.
+
+## What we can build
+
+- Internal business systems
+- Management platforms
+- Customer portals
+- Employee portals
+- Administrative dashboards
+- Inventory systems
+- Order management systems
+- CRM solutions
+- Booking and scheduling platforms
+- Reporting tools
+- Workflow systems
+- Custom databases
+- Business automation tools
+
+## Tailored to your processes
+
+Custom software should adapt to your business, not the other way around.
+
+We start by understanding your current process, identifying repetitive work, bottlenecks and opportunities for improvement.
+
+From there, we design a solution that supports the way your team actually works.
+
+## Integrations
+
+We can connect your system with existing tools and services.
+
+This can include:
+
+- REST APIs
+- External platforms
+- ERP systems
+- CRM systems
+- Payment services
+- Email platforms
+- E-commerce systems
+- Accounting software
+- Cloud services
+- Internal databases
+- Third-party providers
+
+## APIs and backend development
+
+We also develop backend services and APIs for websites, mobile applications and other systems.
+
+This can include:
+
+- REST APIs
+- Authentication and authorization
+- Business rules
+- Database design
+- Background jobs
+- Notifications
+- File processing
+- Data synchronization
+- Third-party integrations
+
+## Modern architecture
+
+Depending on the project, we can work with technologies such as:
+
+- Java
+- Spring Boot
+- Node.js
+- NestJS
+- Angular
+- React
+- Next.js
+- SQL databases
+- PostgreSQL
+- Docker
+- Cloud infrastructure
+
+The technology is chosen according to the project's requirements, expected scale and long-term maintainability.
+
+## Improve existing systems
+
+You do not always need to start from zero.
+
+We can also help improve or extend existing software through:
+
+- New features
+- Performance improvements
+- Bug fixing
+- Code modernization
+- API development
+- Database improvements
+- Security improvements
+- Architecture changes
+- Legacy system integration
+
+## From idea to operation
+
+We can support the full software lifecycle:
+
+**Discovery → Planning → Architecture → Development → Testing → Deployment → Support**
+
+Whether you need a complete platform or a specific internal tool, we can build a solution around your business requirements.
+
+## Have a process that could work better?
+
+Tell us how your business currently works and what you would like to improve.
+
+**Let’s build the right solution for it.**

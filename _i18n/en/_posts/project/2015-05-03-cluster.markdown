@@ -3,14 +3,14 @@ layout: project
 title:  "Cluster"
 ref: cluster
 namespace: cluster
-permalink: /projects/cluster/
+permalink: /services/cluster/
 translations:
-  pt: /projetos/cluster/
-  en: /projects/cluster/
+  pt: /servicos/cluster/
+  en: /services/cluster/
 date:   2015-05-02 00:00:00
 developer: Abner e Gabriel
 categories:
-- projects
+- services
 tags:
 - back-end
 - performance

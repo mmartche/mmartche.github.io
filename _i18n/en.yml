@@ -45,28 +45,33 @@ header:
 home:
   title: "Welcome"
   subtitle: "We build digital solutions."
-  info: "Availability, security, and quality of service."
-  sub_info: "Your information in safe hands."
-  sub_sub_info: "Consulting in Open Source technologies and Cloud Computing."
-  about_us: "About us"
-  more_about_us: "We are a company focused on consulting and services based on Open Source technologies."
-  more_about_us_2: "We are more than professionals because we do what we love, with passion. Acting at the right point where it truly matters."
+  info: ""
+  sub_info: "Digital solutions built around your business."
+  sub_sub_info: "From idea to launch — and beyond."
+  about_us: "Digital Solutions for Modern Businesses"
+  more_about_us: "Martche House is a digital solutions studio that helps businesses build, improve and maintain their online presence and digital systems."
+  more_about_us_2: "We design, build and support websites, e-commerce platforms, custom software, AI solutions and the digital infrastructure businesses need to operate and grow online."
 buttons:
   more_information: "More Info"
 portfolio:
-  title: "SOLUCTIONS"
+  title: "Digital solutions for modern businesses"
 services:
-  - title: Consulting
+  - title: Build
     description: We provide consulting services for your architecture and infrastructure, helping your company improve its technology environment and prepare for future growth. Our main goal is to work with complete transparency throughout every analysis while maintaining efficiency during project implementation. We work with project management and tracking tools, maintain close communication with the client throughout the process, and provide ongoing support.
     linkUrl: #
     imgClass: fa-comments-o
 
-  - title: Information Security
+  - title: Connect
     description: We are prepared to work with security assessments and vulnerability analysis of your environment, providing penetration testing services, Web and Desktop Application Security, and detailed security analysis covering databases and e-commerce platforms. Our team works remotely and flexibly, allowing us to adapt to the scale and needs of your company. We also work with trusted national and international partners to help improve your company's security.
     linkUrl: #
     imgClass: fa-lock
 
-  - title: Web Development
+  - title: Protect
+    description: Every day, more high-quality Open Source technologies become available, including e-commerce platforms, operating systems, software, and applications for management and security. Many of these technologies are already widely used by major companies such as Amazon, Netflix, and Google. We specialize in Open Source technologies and provide development, support, and consulting services to help your company grow quickly, securely, and at scale.
+    linkUrl: #
+    imgClass: fa-certificate
+
+  - title: Grow
     description: Every day, more high-quality Open Source technologies become available, including e-commerce platforms, operating systems, software, and applications for management and security. Many of these technologies are already widely used by major companies such as Amazon, Netflix, and Google. We specialize in Open Source technologies and provide development, support, and consulting services to help your company grow quickly, securely, and at scale.
     linkUrl: #
     imgClass: fa-certificate
@@ -90,6 +95,7 @@ about:
     - "Martche House is a company focused on consulting and services based on Open Source technologies. We have followed and contributed to this passionate ecosystem for many years."
     - "We design and develop approaches to address our clients' biggest challenges. We continuously explore the best technologies available in the Open Source community to deliver reliable, high-quality solutions."
     - "Our main priority is to support our clients with technologies and solutions that effectively meet their needs."
+    
 team:
   title: Our Team
   contact_me: Talk with me
