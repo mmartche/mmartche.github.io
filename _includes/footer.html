@@ -1,29 +1,14 @@
 <div id="footerwrap">
     <div class="container">
         <div class="row">
+            {% assign footers = site.translations[site.lang].footer %}
+            {% for footer in footers %}
             <div class="col-lg-4">
-                <h4>Sobre</h4>
+                <h4>{{ footer.title }}</h4>
                 <div class="hline-w"></div>
-                <p>{% t site.about_us %}</p>
+                <p>{{ footer.description }}</p>
             </div>
-            <div class="col-lg-4">
-                <h4>Links sociais</h4>
-                <div class="hline-w"></div>
-                <p>
-                    {% for network in site.social %}
-                        <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
-                    {% endfor %}
-                </p>
-            </div>
-            <div class="col-lg-4">
-                <h4>Nosso contato</h4>
-                <div class="hline-w"></div>
-                <p>{% t site.about_remote %}</p>
-                <p>{% t site.about_room %}</p>
-                <p>
-                    <a mailto="mmartche@hotmail.com">{% t general.more_info %}</a>
-                </p>
-            </div>
+            {% endfor %}
         </div>
     </div>
 </div>

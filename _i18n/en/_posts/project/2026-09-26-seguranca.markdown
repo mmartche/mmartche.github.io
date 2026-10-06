@@ -24,6 +24,8 @@ website: http://artnux.com
 draft: on
 priority: 0.6
 description: Segurança é o nosso foco e você deseja o mesmo?
+featured: true
+service_order: 6
 ---
 ## Protect your websites, applications and digital infrastructure
 

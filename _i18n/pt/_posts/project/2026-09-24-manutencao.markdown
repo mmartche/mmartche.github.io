@@ -7,7 +7,7 @@ permalink: /projetos/suporte/
 translations:
   pt: /projetos/suporte/
   en: /projects/suport/
-date:   2015-05-02 00:00:00
+date:   2026-09-24 00:00:00
 developer: Marcelo Andrade
 categories:
 - projects
@@ -26,6 +26,8 @@ website: http://martche.ca
 draft: oloco meu
 priority: 0.6
 description: These days most businesses, big and small are time poor. Some customers prefer to maintain their own web sites, whilst others prefer not to. Either way our DSO maintenance and website support services can provide your business with ongoing, reliable and affordable website solutions, delivered in a timely and professional manner.
+featured: true
+service_order: 8
 ---
 ####Maintenance Support
 These days most businesses, big and small are time poor. Some customers prefer to maintain their own web sites, whilst others prefer not to. Either way our DSO maintenance and website support services can provide your business with ongoing, reliable and affordable website solutions, delivered in a timely and professional manner.

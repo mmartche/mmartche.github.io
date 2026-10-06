@@ -27,6 +27,8 @@ website: http://martche.ca
 draft: oloco meu
 priority: 0.6
 description: These days most businesses, big and small are time poor. Some customers prefer to maintain their own web sites, whilst others prefer not to. Either way our DSO maintenance and website support services can provide your business with ongoing, reliable and affordable website solutions, delivered in a timely and professional manner.
+featured: true
+service_order: 8
 ---
 
 ## Keep your website and systems running smoothly

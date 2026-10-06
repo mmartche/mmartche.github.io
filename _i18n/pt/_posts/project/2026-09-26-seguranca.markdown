@@ -7,7 +7,7 @@ permalink: /projetos/seguranca/
 translations:
   pt: /projetos/seguranca/
   en: /projects/security/
-date:   2015-05-02 00:00:00
+date:   2026-09-26 00:00:00
 developer: Gabriel Murilo Lanzi
 categories:
 - projects
@@ -23,6 +23,8 @@ website: http://artnux.com
 draft: on
 priority: 0.6
 description: Segurança é o nosso foco e você deseja o mesmo?
+featured: true
+service_order: 6
 ---
 ##Segurança
 - TDI - Teste de Invasão 

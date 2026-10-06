@@ -1,13 +1,13 @@
 ---
 layout: project
-title:  " SEO & SEM"
+title:  " SEO & Digital Growth"
 ref: seo
 namespace: seo
 permalink: /projetos/seo/
 translations:
   pt: /projetos/seo/
   en: /projects/seo/
-date:   2015-05-02 00:00:00
+date:   2026-09-25 00:00:00
 developer: Marcelo
 categories:
 - projects
@@ -23,6 +23,8 @@ client: Corp.
 website: http://www.org
 priority: 0.6
 description: Se você não estiver ciente, a maioria dos usuários dos sites de busca, a maioria esmagadoramente clicam nos resultados orgânicos (resultados livres) no Google e Bing, antes que eles cliquem em um patrocinador pago anúncio, por uma margem de 94 por cento a 6 por cento.
+featured: true
+service_order: 7
 ---
 ####SEO & SEM
 Se você não estiver ciente, a maioria dos usuários dos sites de busca, a maioria esmagadoramente clicam nos resultados orgânicos (resultados livres) no Google e Bing, antes que eles cliquem em um patrocinador pago anúncio, por uma margem de 94 por cento a 6 por cento.

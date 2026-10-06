@@ -42,12 +42,22 @@ header:
       url: /contact
       post_ref: contact_us
 
+footer:
+  - title: "Martche House"
+    description: "Web Development · E-commerce · Custom Software · AI & Automation · Cloud · Security · Support"
+  
+  - title: "Links"
+    description: "About \n Services \n Projects \n Contact"
+  
+  - title: "Contact"
+    description: "email... Portugal"
+
 home:
   title: "Welcome"
   subtitle: "We build digital solutions."
   info: ""
-  sub_info: "Digital solutions built around your business."
-  sub_sub_info: "From idea to launch — and beyond."
+  sub_info: "Digital solutions built around your business"
+  sub_sub_info: "Websites, e-commerce, custom software, AI, automation and infrastructure to help your business grow online"
   about_us: "Digital Solutions for Modern Businesses"
   more_about_us: "Martche House is a digital solutions studio that helps businesses build, improve and maintain their online presence and digital systems."
   more_about_us_2: "We design, build and support websites, e-commerce platforms, custom software, AI solutions and the digital infrastructure businesses need to operate and grow online."

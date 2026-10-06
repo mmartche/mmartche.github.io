@@ -1,12 +1,12 @@
 ---
 layout: project
-title:  "Custom Software"
+title:  "Software à Medida"
 subtitle: "Tailored systems, dashboards, APIs and business tools built around your processes."
 ref: custom-software
 namespace: custom-software
-permalink: /projects/custom-software/
+permalink: /projetos/software-a-medida/
 translations:
-  pt: /projetos/custom-software/
+  pt: /projetos/software-a-medida/
   en: /projects/custom-software/
 date:   2026-09-29 00:00:00
 developer: 

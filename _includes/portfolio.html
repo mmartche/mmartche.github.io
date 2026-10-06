@@ -2,7 +2,10 @@
     <div class="portfolio-centered">
         <h3>{% t portfolio.title %}</h3>
         <div class="recentitems portfolio">
-            {% for project in site.categories.projects limit:include.limit %}
+            {% assign services = site.categories.projects
+                | where: "featured", true
+                | sort: "service_order" %}
+            {% for project in services limit:include.limit %}
                 <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
                     <img src="{{ '/assets/img/project/' | append: project.thumb | prepend: site.baseurl_root }}" alt="{{ project.title }}">

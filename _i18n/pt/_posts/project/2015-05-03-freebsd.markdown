@@ -3,14 +3,14 @@ layout: project
 title:  "FreeBSD"
 ref: freebsd
 namespace: freebsd
-permalink: /projetos/freebsd/
+permalink: /servicos/freebsd/
 translations:
-  pt: /projetos/freebsd/
-  en: /projects/freebsd/
+  pt: /servicos/freebsd/
+  en: /services/freebsd/
 date:   2015-05-02 00:00:00
 developer: Abner e Gabriel
 categories:
-- projects
+- services
 tags:
 - back-end
 - servidor

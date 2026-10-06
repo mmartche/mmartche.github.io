@@ -7,7 +7,7 @@ permalink: /projetos/ecommerce/
 translations:
   pt: /projetos/ecommerce/
   en: /projects/ecommerce/
-date:   2015-05-02 00:00:00
+date:   2026-10-05 00:00:00
 developer: Marcelo Andrade
 categories:
 - projects
@@ -29,6 +29,8 @@ features: ecommerce
 language: pt
 priority: 0.6
 description: Estes dias mais e mais varejistas estão percebendo que, a fim de sobreviver no futuro, é imperativo ter uma loja online. 
+featured: true
+service_order: 2
 ---
 Estes dias mais e mais varejistas estão percebendo que, a fim de sobreviver no futuro, é imperativo ter uma loja online. 
 

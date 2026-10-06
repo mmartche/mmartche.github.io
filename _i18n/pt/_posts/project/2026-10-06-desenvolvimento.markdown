@@ -7,7 +7,7 @@ permalink: /projetos/desenvolvimento/
 translations:
   pt: /projetos/desenvolvimento/
   en: /projects/development/
-date:   2015-05-02 00:00:00
+date:   2026-10-06 00:00:00
 developer: Marcelo Andrade
 categories:
 - projects
@@ -26,6 +26,8 @@ website: http://martche.ca
 language: pt
 priority: 0.7
 description: Desenvolvimento de Websites. Possuímos todas as soluções para o seu Negócio, não ha nada que não sabemos, e nada que não consigamos controlar! 
+featured: true
+service_order: 1
 ---
 #### Desenvolvimento de Websites
 

@@ -31,6 +31,8 @@ features: ecommerce
 language: pt
 priority: 0.6
 description: Estes dias mais e mais varejistas estão percebendo que, a fim de sobreviver no futuro, é imperativo ter uma loja online. 
+featured: true
+service_order: 2
 ---
 ## Online stores built to sell
 

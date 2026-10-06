@@ -1,12 +1,12 @@
 ---
 layout: project
-title:  "AI & Automation"
+title:  "AI & Automação"
 subtitle: "Chatbots, AI assistants and automated workflows designed to save time and improve operations"
 ref: ai-automation
 namespace: ai-automation
-permalink: /projects/ai-automation/
+permalink: /projects/ai-automacao/
 translations:
-  pt: /projetos/ai-automation/
+  pt: /projetos/ai-automacao/
   en: /projects/ai-automation/
 date:   2026-09-28 00:00:00
 developer: 

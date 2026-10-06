@@ -27,6 +27,8 @@ website: http://martche.ca
 language: pt
 priority: 0.7
 description: Desenvolvimento de Websites. Possuímos todas as soluções para o seu Negócio, não ha nada que não sabemos, e nada que não consigamos controlar! 
+featured: true
+service_order: 1
 ---
 ## Websites and web applications built around your business
 

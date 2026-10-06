@@ -42,34 +42,52 @@ header:
       url: /contact
       post_ref: contact_us
 
+footer:
+  - title: "Martche House"
+    description: "Web Development · E-commerce · Custom Software · AI & Automation · Cloud · Security · Support"
+
+  - title: "Links"
+    description: "Sobre \n Serviços \n Projetos \n Contacto"
+
+  - title: "Contacto"
+    description: "email... Portugal"
+
 home:
   title: "Bem-vindo"
   subtitle: "Criamos soluções digitais."
   info: ""
-  sub_info: "Sua informação em mãos seguras."
-  sub_sub_info: "Consultoria em tecnologias Open Source e Cloud Computing."
+  sub_info: "Soluções digitais pensadas para o seu negócio"
+  sub_sub_info: "Websites, e-commerce, software à medida, inteligência artificial, automação e infraestrutura para ajudar o seu negócio a crescer no digital"
   about_us: "Sobre nós"
-  more_about_us: "Somos uma empresa focada em consultoria e serviços voltados a Open Source."
-  more_about_us_2: "Somos mais do que profissionais porque fazemos o que gostamos, de coração. Agindo no ponto certo onde é vital."
+  more_about_us: "A Martche House é um estúdio de soluções digitais focado em ajudar empresas a criar, melhorar e manter os seus produtos digitais e a sua presença online"
+  more_about_us_2: "Combinamos desenvolvimento de software, visão de produto e experiência técnica para criar soluções adaptadas às necessidades reais de cada negócio"
 buttons:
-  more_information: "Leia mais"
+  more_information: "Saiba mais sobre a Martche House"
 portfolio:
-  title: "SOLUÇÕES"
+  title: "OS NOSSOS SERVIÇOS"
+
 services:
-  - title: Consultoria
-    description: Oferecemos o serviço de consultoria em sua arquitetura e infraestrutura possibilitando o aperfeiçoamento tecnológico e progressivo preparando a sua empresa para grandes negócios. Nosso objetivo maior é lidar com total transparência em toda a análise que fazemos mantendo nossa eficácia na implementação de qualquer projeto. Trabalhamos com todas as ferramentas de tracking e projetos, interação com o cliente a todo momento e suporte.
+  - title: CRIAR
+    subtitle: Websites, e-commerce e software
+    description: Transformamos ideias e necessidades de negócio em produtos digitais funcionais, modernos e preparados para evoluir
     linkUrl: \#
     imgClass: fa-comments-o
 
-  - title: Segurança da Informação
-    description: Estamos preparados para trabalhar com análise de segurança e vulnerabilidades de seu ambiente, prestando serviços de TDI (Teste de Intrusão), Segurança de Aplicações Web e Desktop e Análise apurada de Segurança englobando serviços de banco de dados e Ecommerce.
-                Nossa equipe é remota e flexível podendo assim atingir a escala da sua empresa.
-                Trabalhamos com parceiros consideráveis tanto nacionais como multis no ramo as quais juntos podemos melhorar a segurança da sua empresa.
+  - title: INTEGRAR
+    subtitle: APIs, sistemas e automações
+    description: Ligamos plataformas, serviços e processos para que a informação flua melhor e o trabalho seja mais eficiente
     linkUrl: #
     imgClass: fa-lock
 
-  - title: Desenvolvimento Web
-    description: A cada dia possuímos mais e mais tecnologias Open Source de excelente qualidade como plataformas e-commerce, sistemas operacionais, softwares e aplicações para gerenciamento e segurança as quais já estão envolvidas em grandes corporações (Amazon, Netflix, Google dentre outras), somos especialistas em tecnologias Open Source e prestamos serviço de suporte e consultoria para que sua empresa possa evoluir de forma rápida, escalável e com suporte.
+  - title: PROTEGER
+    subtitle: Segurança, infraestrutura e continuidade
+    description: Protegemos aplicações, dados e serviços com boas práticas de segurança, backups, monitorização e infraestrutura adequada
+    linkUrl: #
+    imgClass: fa-lock
+
+  - title: CRESCER
+    subtitle: SEO, performance e evolução contínua
+    description: Melhoramos visibilidade, desempenho e experiência digital para ajudar o negócio a crescer de forma sustentável
     linkUrl: \#
     imgClass: fa-certificate
 
