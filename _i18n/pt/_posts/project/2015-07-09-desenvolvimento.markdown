@@ -27,7 +27,7 @@ language: pt
 priority: 0.7
 description: Desenvolvimento de Websites. Possuímos todas as soluções para o seu Negócio, não ha nada que não sabemos, e nada que não consigamos controlar! 
 ---
-####Desenvolvimento de Websites
+#### Desenvolvimento de Websites
 
 Possuímos todas as soluções para o seu Negócio, não ha nada que não sabemos, e nada que não consigamos controlar! Pegamos seu processo por completo e avaliamos suas necessidades, criando um plano total e, em seguida, reunir todas as facetas necessários que compõem a nossa solução.
 
@@ -38,14 +38,14 @@ Também temos uma excelente compreensão das questões de qualidade em todas as 
 Desenvolvimento Web com o {{ site.title }} significa que você começa uma grande vantagem em relação aos concorrentes, e o melhor de tudo é que você pode ter toda a experiência do cliente mais fácil do que você pode imaginar, lidando conosco apenas. Somos uma empresa de soluções totais! Nós gostamos de chamá-lo de uma relação de negócios de ganho mútuo.
 
 
-###Criação de conteúdo
+### Criação de conteúdo
 
 Ter conteúdo exclusivo é ser rei! O conteúdo é o combustível que impulsiona a internet e cria websites surpreendentes. Tendo um conteúdo de qualidade otimizado em seu web site on-line, blog de notícias e canais de mídia sociais (Facebook, Twitter etc) irá garantir que os clientes vão olhar para você, encontrá-lo e se envolver com você.
 
 Criação de conteúdo original e interessante direcionados para o seu negócio e produtos é muito demorado. É aí que a equipe da {{ site.title }} pode ajudar. Temos mais de 15 anos de experiência na criação de conteúdo para newsletters, novos posts e artigos, comunicados de imprensa, criação de conteúdo web, vídeos online, conteúdo de imagem, mídia social criação de conteúdo, sistema de comunicação interna e controles, intranet e muito mais!
 
 
-###Email & Web Site Hosting
+### Email & Web Site Hosting
 
 Oferecemos os melhores pacotes entre todos os serviços web, conte sua necessidades e vamos além. Nossos Servidores dedicados também estão disponíveis mediante solicitação. Para os clientes mais avançados e webmasters, não só oferecemos hospedagem virtual, mas um servidor dedicado fisicamente. Estamos sediados em São Paulo, mas tem servidores de hospedagem na Austrália, Europa e América, assim, dependendo de suas necessidades e seu local de negócios, estaremos sempre tem coberto. Isso também garante que nossos clientes recebam o melhor apoio, velocidade, acessibilidade e, mais importante, garantir-se o tempo em todos os momentos.
 
@@ -55,7 +55,7 @@ Se você está apenas começando seu primeiro site, vindo de outro servidor de h
 
 Se você já tem um site ou e-mail e são importantes para o seu negócio, você vai dormir melhor sabendo que você selecionou um serviço web com qualidade internacional de hospedagem. Temos vindo a acolher ambos os sites nacionais e internacionais na web para mais de vinte anos. Estamos bem conhecidos pela nosso apoio personalizado e experiência, combinados.
 
-####Temos domínio total sobre as linguagens:
+#### Temos domínio total sobre as linguagens:
 
 - HTML 5
 
@@ -77,7 +77,7 @@ Se você já tem um site ou e-mail e são importantes para o seu negócio, você
 
 - Entre outras plataformas, 
 
-####Nosso Propósito
+#### Nosso Propósito
 Aplicações Web e Mobile.
 
-####Consulte-nos
+#### Consulte-nos
