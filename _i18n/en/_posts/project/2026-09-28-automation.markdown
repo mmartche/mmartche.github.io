@@ -28,11 +28,11 @@ description: Segurança é o nosso foco e você deseja o mesmo?
 featured: true
 service_order: 4
 ---
-## Automate repetitive work and create smarter digital experiences
+## Intelligent automation to reduce manual work
 
-We build AI-powered tools and automation solutions that help businesses save time, improve customer service and simplify daily operations.
+We build AI and automation solutions that help businesses reduce repetitive tasks, improve customer support and make processes more efficient.
 
-From chatbots to internal assistants and automated workflows, we focus on practical solutions that solve real business problems.
+From chatbots to internal assistants and automated workflows, the focus is on solving real business problems.
 
 ## What we can build
 
@@ -41,25 +41,25 @@ From chatbots to internal assistants and automated workflows, we focus on practi
 - Website assistants
 - WhatsApp assistants
 - FAQ bots
-- Lead qualification bots
-- Product recommendation assistants
-- Internal company assistants
-- AI-powered search
+- Lead qualification
+- Product recommendation
+- Internal assistants
+- AI search
 - Automated workflows
 - Document processing
 - Data extraction
 - Email automation
 - Notification systems
-- AI integrations with existing platforms
+- Integrations with existing systems
 
 ## Chatbots and virtual assistants
 
-We can build assistants that help customers find information, answer common questions and interact with your services.
+We can build assistants that help customers and teams find information, answer questions and perform tasks.
 
 They can be integrated with:
 
 - Websites
-- E-commerce platforms
+- E-commerce
 - Customer portals
 - Internal systems
 - Messaging platforms
@@ -67,62 +67,106 @@ They can be integrated with:
 - Product catalogues
 - Support systems
 
-## Business process automation
+## Process automation
 
 Many repetitive tasks can be automated.
 
 Examples include:
 
 - Sending notifications
-- Processing form submissions
+- Processing forms
 - Updating records
 - Generating reports
 - Moving data between systems
-- Creating customer follow-ups
+- Automated follow-ups
 - Processing documents
-- Categorizing requests
-- Triggering business workflows
-- Synchronizing information between platforms
+- Classifying requests
+- Business workflows
+- Synchronizing information
 
-## AI connected to your business data
+## AI connected to business data
 
-AI becomes more useful when it can work with the information your business already has.
+AI becomes more useful when it can work with information the business already has.
 
-We can connect assistants and automation tools with:
+We can connect assistants and automations to:
 
 - Product catalogues
 - Internal documentation
-- Customer databases
+- Databases
 - APIs
 - CRM systems
-- E-commerce platforms
-- Business systems
+- E-commerce
+- Internal systems
 - Knowledge bases
 
-This allows users and employees to access information through natural language instead of navigating multiple systems manually.
+This allows users to access information through natural language instead of relying on manual searches or navigating multiple tools.
 
-## Human control where it matters
+## Integrations
 
-Automation should support people, not create unnecessary risk.
+You do not need to replace the systems you already use.
 
-Depending on the process, we can design workflows where AI handles repetitive tasks while important actions still require human review or approval.
+We can add AI and automation through:
 
-## Integration with existing systems
+- APIs
+- Webhooks
+- Background jobs
+- Event-driven workflows
+- External platform integrations
+- Cloud services
+- Internal systems
 
-You do not need to replace your existing tools.
+## Human-in-the-loop
 
-AI and automation can be added to your current infrastructure through APIs, webhooks and custom integrations.
+Not every process should be fully automated.
 
-## From idea to automation
+For more sensitive workflows, we can keep human validation before certain actions are executed.
 
-We can help with the complete process:
+This is particularly important for processes involving:
 
-**Identify opportunity → Design workflow → Build integration → Test → Deploy → Improve**
+- Approvals
+- Payments
+- Sensitive data
+- Customer communication
+- Critical changes
+- Business decisions
 
-The goal is simple: reduce repetitive work and make your digital systems more useful.
+## Document automation
 
-## Have a process that takes too much time?
+AI can also help process information contained in documents.
 
-Tell us what your team does manually today.
+This can include:
 
-**We can help turn it into a smarter workflow.**
+- Data extraction
+- Document classification
+- Summarization
+- Identifying relevant information
+- Content organization
+- Automated routing
+
+## AI for customer support
+
+AI assistants can help reduce repetitive questions and improve support availability.
+
+We can build solutions for:
+
+- FAQs
+- Initial support
+- Documentation search
+- Product information
+- Order status
+- Human handoff
+- Request triage
+
+## From problem to automation
+
+We can support the full process:
+
+**Identify → Design → Integrate → Test → Automate → Improve**
+
+The priority is to create automation that reduces manual work without adding unnecessary complexity.
+
+## Have a repetitive process that could be automated?
+
+Tell us how it works today.
+
+**Let’s find a smarter way to do it.**

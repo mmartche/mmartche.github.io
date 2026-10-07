@@ -28,62 +28,63 @@ description: Segurança é o nosso foco e você deseja o mesmo?
 featured: true
 service_order: 3
 ---
-## Software built around the way your business works
+## Software à medida para a forma como o seu negócio trabalha
 
-Not every business fits into an off-the-shelf platform.
+Nem todas as empresas se adaptam a soluções standard.
 
-We design and develop custom software for companies that need more control, automation and flexibility in their daily operations.
+Desenvolvemos software à medida para negócios que precisam de mais controlo, automação e flexibilidade nas suas operações.
 
-## What we can build
+## O que podemos desenvolver
 
-- Internal business systems
-- Management platforms
+- Sistemas internos de gestão
+- Plataformas administrativas
 - Customer portals
 - Employee portals
-- Administrative dashboards
-- Inventory systems
-- Order management systems
-- CRM solutions
-- Booking and scheduling platforms
-- Reporting tools
+- Dashboards
+- Sistemas de stock
+- Gestão de encomendas
+- CRM à medida
+- Plataformas de reservas
+- Sistemas de reporting
 - Workflow systems
-- Custom databases
-- Business automation tools
+- Bases de dados personalizadas
+- Ferramentas de automação
 
-## Tailored to your processes
+## Adaptado aos seus processos
 
-Custom software should adapt to your business, not the other way around.
+O software deve adaptar-se ao negócio, e não o contrário.
 
-We start by understanding your current process, identifying repetitive work, bottlenecks and opportunities for improvement.
+Começamos por perceber como a empresa trabalha atualmente, onde existem tarefas repetitivas, limitações, erros ou processos que podem ser simplificados.
 
-From there, we design a solution that supports the way your team actually works.
+A partir daí, desenhamos uma solução adaptada à realidade da operação.
 
-## Integrations
+## APIs e integrações
 
-We can connect your system with existing tools and services.
+Podemos ligar o seu sistema a outras plataformas e serviços.
 
-This can include:
+Isto pode incluir:
 
 - REST APIs
-- External platforms
-- ERP systems
-- CRM systems
-- Payment services
+- Sistemas ERP
+- CRM
+- Payment providers
 - Email platforms
-- E-commerce systems
+- E-commerce
 - Accounting software
 - Cloud services
-- Internal databases
+- Databases
 - Third-party providers
+- Webhooks
 
-## APIs and backend development
+## Backend development
 
-We also develop backend services and APIs for websites, mobile applications and other systems.
+Também desenvolvemos serviços de backend e APIs para websites, aplicações mobile e outros sistemas.
 
-This can include:
+Podemos trabalhar em:
 
 - REST APIs
-- Authentication and authorization
+- Authentication
+- Authorization
 - Business rules
 - Database design
 - Background jobs
@@ -92,9 +93,23 @@ This can include:
 - Data synchronization
 - Third-party integrations
 
-## Modern architecture
+## Frontend e aplicações web
 
-Depending on the project, we can work with technologies such as:
+Quando necessário, podemos desenvolver também a camada de frontend para criar aplicações completas.
+
+Isto pode incluir:
+
+- Dashboards
+- Backoffice
+- Customer portals
+- Internal tools
+- Responsive interfaces
+- Administrative panels
+- Real-time interfaces
+
+## Arquitetura moderna
+
+Dependendo dos requisitos do projeto, podemos trabalhar com tecnologias como:
 
 - Java
 - Spring Boot
@@ -103,39 +118,56 @@ Depending on the project, we can work with technologies such as:
 - Angular
 - React
 - Next.js
-- SQL databases
 - PostgreSQL
+- SQL databases
 - Docker
 - Cloud infrastructure
 
-The technology is chosen according to the project's requirements, expected scale and long-term maintainability.
+A tecnologia é escolhida de acordo com os requisitos, escala esperada e facilidade de manutenção a longo prazo.
 
-## Improve existing systems
+## Melhorar sistemas existentes
 
-You do not always need to start from zero.
+Nem sempre é necessário começar do zero.
 
-We can also help improve or extend existing software through:
+Também podemos ajudar a evoluir software já existente através de:
 
-- New features
-- Performance improvements
-- Bug fixing
-- Code modernization
+- Novas funcionalidades
+- Correção de bugs
+- Melhorias de performance
+- Modernização de código
 - API development
-- Database improvements
+- Melhorias de database
 - Security improvements
-- Architecture changes
-- Legacy system integration
+- Alterações de arquitetura
+- Integrações com sistemas legacy
 
-## From idea to operation
+## Automação de processos
 
-We can support the full software lifecycle:
+Software à medida também pode ser utilizado para eliminar tarefas manuais e repetitivas.
 
-**Discovery → Planning → Architecture → Development → Testing → Deployment → Support**
+Podemos automatizar:
 
-Whether you need a complete platform or a specific internal tool, we can build a solution around your business requirements.
+- Entrada de dados
+- Aprovações
+- Notificações
+- Relatórios
+- Sincronização entre sistemas
+- Processamento de ficheiros
+- Tarefas administrativas
+- Fluxos de trabalho internos
 
-## Have a process that could work better?
+## Do levantamento à produção
 
-Tell us how your business currently works and what you would like to improve.
+Podemos acompanhar todo o ciclo de desenvolvimento:
 
-**Let’s build the right solution for it.**
+**Descoberta → Planeamento → Arquitetura → Desenvolvimento → Testes → Deployment → Suporte**
+
+Alguns projetos precisam de uma plataforma completa. Outros precisam apenas de uma funcionalidade, integração ou ferramenta interna.
+
+Adaptamo-nos a cada necessidade.
+
+## Tem um processo que pode funcionar melhor?
+
+Explique-nos como a sua empresa trabalha atualmente e o que gostaria de melhorar.
+
+**Vamos construir uma solução à medida do seu negócio.**

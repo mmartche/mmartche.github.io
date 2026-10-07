@@ -30,60 +30,61 @@ service_order: 3
 ---
 ## Software built around the way your business works
 
-Not every business fits into an off-the-shelf platform.
+Not every business fits into a standard solution.
 
-We design and develop custom software for companies that need more control, automation and flexibility in their daily operations.
+We build custom software for companies that need more control, automation and flexibility in their operations.
 
 ## What we can build
 
-- Internal business systems
-- Management platforms
+- Internal management systems
+- Administrative platforms
 - Customer portals
 - Employee portals
-- Administrative dashboards
+- Dashboards
 - Inventory systems
 - Order management systems
-- CRM solutions
-- Booking and scheduling platforms
-- Reporting tools
+- Custom CRM solutions
+- Booking platforms
+- Reporting systems
 - Workflow systems
 - Custom databases
-- Business automation tools
+- Automation tools
 
-## Tailored to your processes
+## Built around your processes
 
-Custom software should adapt to your business, not the other way around.
+Software should adapt to the business, not the other way around.
 
-We start by understanding your current process, identifying repetitive work, bottlenecks and opportunities for improvement.
+We start by understanding how your company works today, where repetitive tasks, limitations, errors or inefficient processes exist.
 
-From there, we design a solution that supports the way your team actually works.
+From there, we design a solution that fits the reality of your operation.
 
-## Integrations
+## APIs and integrations
 
-We can connect your system with existing tools and services.
+We can connect your system with other platforms and services.
 
 This can include:
 
 - REST APIs
-- External platforms
 - ERP systems
-- CRM systems
-- Payment services
+- CRM platforms
+- Payment providers
 - Email platforms
-- E-commerce systems
+- E-commerce
 - Accounting software
 - Cloud services
-- Internal databases
+- Databases
 - Third-party providers
+- Webhooks
 
-## APIs and backend development
+## Backend development
 
 We also develop backend services and APIs for websites, mobile applications and other systems.
 
-This can include:
+We can work on:
 
 - REST APIs
-- Authentication and authorization
+- Authentication
+- Authorization
 - Business rules
 - Database design
 - Background jobs
@@ -92,9 +93,23 @@ This can include:
 - Data synchronization
 - Third-party integrations
 
+## Frontend and web applications
+
+When required, we can also build the frontend layer to deliver complete applications.
+
+This can include:
+
+- Dashboards
+- Backoffice systems
+- Customer portals
+- Internal tools
+- Responsive interfaces
+- Administrative panels
+- Real-time interfaces
+
 ## Modern architecture
 
-Depending on the project, we can work with technologies such as:
+Depending on project requirements, we can work with technologies such as:
 
 - Java
 - Spring Boot
@@ -103,39 +118,56 @@ Depending on the project, we can work with technologies such as:
 - Angular
 - React
 - Next.js
-- SQL databases
 - PostgreSQL
+- SQL databases
 - Docker
 - Cloud infrastructure
 
-The technology is chosen according to the project's requirements, expected scale and long-term maintainability.
+Technology is selected according to requirements, expected scale and long-term maintainability.
 
 ## Improve existing systems
 
-You do not always need to start from zero.
+Starting from zero is not always necessary.
 
-We can also help improve or extend existing software through:
+We can also help evolve existing software through:
 
 - New features
-- Performance improvements
 - Bug fixing
+- Performance improvements
 - Code modernization
 - API development
 - Database improvements
 - Security improvements
 - Architecture changes
-- Legacy system integration
+- Legacy system integrations
 
-## From idea to operation
+## Process automation
 
-We can support the full software lifecycle:
+Custom software can also be used to remove repetitive and manual work.
+
+We can automate:
+
+- Data entry
+- Approvals
+- Notifications
+- Reports
+- System synchronization
+- File processing
+- Administrative tasks
+- Internal workflows
+
+## From discovery to production
+
+We can support the full development lifecycle:
 
 **Discovery → Planning → Architecture → Development → Testing → Deployment → Support**
 
-Whether you need a complete platform or a specific internal tool, we can build a solution around your business requirements.
+Some projects need a complete platform. Others only need a specific feature, integration or internal tool.
+
+We adapt to each requirement.
 
 ## Have a process that could work better?
 
-Tell us how your business currently works and what you would like to improve.
+Tell us how your business works today and what you would like to improve.
 
-**Let’s build the right solution for it.**
+**Let’s build a solution around your business.**

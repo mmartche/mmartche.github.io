@@ -28,101 +28,145 @@ description: Segurança é o nosso foco e você deseja o mesmo?
 featured: true
 service_order: 4
 ---
-## Automate repetitive work and create smarter digital experiences
+## Automação inteligente para reduzir trabalho manual
 
-We build AI-powered tools and automation solutions that help businesses save time, improve customer service and simplify daily operations.
+Criamos soluções de AI e automação para ajudar empresas a reduzir tarefas repetitivas, melhorar o atendimento e tornar os seus processos mais eficientes.
 
-From chatbots to internal assistants and automated workflows, we focus on practical solutions that solve real business problems.
+Desde chatbots a assistentes internos e workflows automáticos, o foco está em resolver problemas reais do negócio.
 
-## What we can build
+## O que podemos desenvolver
 
 - AI chatbots
-- Customer support assistants
+- Assistentes de atendimento
 - Website assistants
 - WhatsApp assistants
 - FAQ bots
-- Lead qualification bots
-- Product recommendation assistants
-- Internal company assistants
-- AI-powered search
+- Lead qualification
+- Product recommendation
+- Assistentes internos
+- AI search
 - Automated workflows
 - Document processing
 - Data extraction
 - Email automation
 - Notification systems
-- AI integrations with existing platforms
+- Integrações com sistemas existentes
 
-## Chatbots and virtual assistants
+## Chatbots e assistentes virtuais
 
-We can build assistants that help customers find information, answer common questions and interact with your services.
+Podemos criar assistentes que ajudam clientes e equipas a encontrar informação, responder a perguntas e executar tarefas.
 
-They can be integrated with:
+Podem ser integrados com:
 
 - Websites
-- E-commerce platforms
+- E-commerce
 - Customer portals
-- Internal systems
+- Sistemas internos
 - Messaging platforms
 - Knowledge bases
-- Product catalogues
-- Support systems
+- Catálogos de produtos
+- Sistemas de suporte
 
-## Business process automation
+## Automação de processos
 
-Many repetitive tasks can be automated.
+Muitas tarefas repetitivas podem ser automatizadas.
 
-Examples include:
+Alguns exemplos:
 
-- Sending notifications
-- Processing form submissions
-- Updating records
-- Generating reports
-- Moving data between systems
-- Creating customer follow-ups
-- Processing documents
-- Categorizing requests
-- Triggering business workflows
-- Synchronizing information between platforms
+- Envio de notificações
+- Processamento de formulários
+- Atualização de registos
+- Geração de relatórios
+- Transferência de dados entre sistemas
+- Follow-ups automáticos
+- Processamento de documentos
+- Classificação de pedidos
+- Business workflows
+- Sincronização de informação
 
-## AI connected to your business data
+## AI ligada aos dados do negócio
 
-AI becomes more useful when it can work with the information your business already has.
+A AI torna-se mais útil quando consegue trabalhar com a informação que a empresa já possui.
 
-We can connect assistants and automation tools with:
+Podemos ligar assistentes e automações a:
 
-- Product catalogues
-- Internal documentation
-- Customer databases
+- Catálogos de produtos
+- Documentação interna
+- Bases de dados
 - APIs
-- CRM systems
-- E-commerce platforms
-- Business systems
+- CRM
+- E-commerce
+- Sistemas internos
 - Knowledge bases
 
-This allows users and employees to access information through natural language instead of navigating multiple systems manually.
+Isto permite aceder a informação através de linguagem natural, sem depender sempre de pesquisas manuais ou navegação entre várias ferramentas.
 
-## Human control where it matters
+## Integrações
 
-Automation should support people, not create unnecessary risk.
+Não é necessário substituir os sistemas que já utiliza.
 
-Depending on the process, we can design workflows where AI handles repetitive tasks while important actions still require human review or approval.
+Podemos adicionar AI e automação através de:
 
-## Integration with existing systems
+- APIs
+- Webhooks
+- Background jobs
+- Event-driven workflows
+- Integrações com plataformas externas
+- Serviços cloud
+- Sistemas internos
 
-You do not need to replace your existing tools.
+## Human-in-the-loop
 
-AI and automation can be added to your current infrastructure through APIs, webhooks and custom integrations.
+Nem todos os processos devem ser totalmente automáticos.
 
-## From idea to automation
+Em fluxos mais sensíveis, podemos manter validação humana antes de determinadas ações serem executadas.
 
-We can help with the complete process:
+Isto é especialmente importante em processos que envolvem:
 
-**Identify opportunity → Design workflow → Build integration → Test → Deploy → Improve**
+- Aprovações
+- Pagamentos
+- Dados sensíveis
+- Comunicação com clientes
+- Alterações críticas
+- Decisões de negócio
 
-The goal is simple: reduce repetitive work and make your digital systems more useful.
+## Automação de documentos
 
-## Have a process that takes too much time?
+Podemos utilizar AI para ajudar a processar informação presente em documentos.
 
-Tell us what your team does manually today.
+Isto pode incluir:
 
-**We can help turn it into a smarter workflow.**
+- Extração de dados
+- Classificação de documentos
+- Resumos
+- Identificação de informação relevante
+- Organização de conteúdo
+- Encaminhamento automático
+
+## AI para atendimento e suporte
+
+Assistentes de AI podem ajudar a reduzir o volume de perguntas repetitivas e melhorar a disponibilidade do suporte.
+
+Podemos criar soluções para:
+
+- FAQ
+- Suporte inicial
+- Pesquisa em documentação
+- Informação de produtos
+- Estado de pedidos
+- Encaminhamento para atendimento humano
+- Triagem de pedidos
+
+## Do problema à automação
+
+Podemos acompanhar todo o processo:
+
+**Identificar → Desenhar → Integrar → Testar → Automatizar → Melhorar**
+
+A prioridade é criar automações que reduzam trabalho manual sem adicionar complexidade desnecessária.
+
+## Tem um processo repetitivo que pode ser automatizado?
+
+Explique-nos como funciona hoje.
+
+**Vamos encontrar uma forma mais inteligente de o fazer.**

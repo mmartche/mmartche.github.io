@@ -43,13 +43,29 @@ header:
       post_ref: contact_us
 
 footer:
-  - title: "Martche House"
+  intro:
+    title: "Martche House"
     description: "Web Development · E-commerce · Custom Software · AI & Automation · Cloud · Security · Support"
 
-  - title: "Links"
-    description: "Sobre \n Serviços \n Projetos \n Contacto"
+  links:
+    - title: "Sobre"
+      description: "Sobre \n Serviços \n Projetos \n Contacto"
+      url: /about
 
-  - title: "Contacto"
+    - title: "Serviços"
+      description: "Sobre \n  \n Projetos \n Contacto"
+      url: #
+
+    - title: "Projetos"
+      description: "Sobre \n Serviços \n  \n Contacto"
+      url: #
+
+    - title: "Contacto"
+      description: "Sobre \n Serviços \n Projetos \n "
+      url: /contact
+
+  contact:
+    title: "Contacto"
     description: "email... Portugal"
 
 home:
