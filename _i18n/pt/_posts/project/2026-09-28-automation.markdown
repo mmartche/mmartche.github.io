@@ -28,13 +28,13 @@ description: Segurança é o nosso foco e você deseja o mesmo?
 featured: true
 service_order: 4
 ---
-## Automação inteligente para reduzir trabalho manual
+### Automação inteligente para reduzir trabalho manual
 
 Criamos soluções de AI e automação para ajudar empresas a reduzir tarefas repetitivas, melhorar o atendimento e tornar os seus processos mais eficientes.
 
 Desde chatbots a assistentes internos e workflows automáticos, o foco está em resolver problemas reais do negócio.
 
-## O que podemos desenvolver
+### O que podemos desenvolver
 
 - AI chatbots
 - Assistentes de atendimento
@@ -52,7 +52,7 @@ Desde chatbots a assistentes internos e workflows automáticos, o foco está em 
 - Notification systems
 - Integrações com sistemas existentes
 
-## Chatbots e assistentes virtuais
+### Chatbots e assistentes virtuais
 
 Podemos criar assistentes que ajudam clientes e equipas a encontrar informação, responder a perguntas e executar tarefas.
 
@@ -67,7 +67,7 @@ Podem ser integrados com:
 - Catálogos de produtos
 - Sistemas de suporte
 
-## Automação de processos
+### Automação de processos
 
 Muitas tarefas repetitivas podem ser automatizadas.
 
@@ -84,7 +84,7 @@ Alguns exemplos:
 - Business workflows
 - Sincronização de informação
 
-## AI ligada aos dados do negócio
+### AI ligada aos dados do negócio
 
 A AI torna-se mais útil quando consegue trabalhar com a informação que a empresa já possui.
 
@@ -101,7 +101,7 @@ Podemos ligar assistentes e automações a:
 
 Isto permite aceder a informação através de linguagem natural, sem depender sempre de pesquisas manuais ou navegação entre várias ferramentas.
 
-## Integrações
+### Integrações
 
 Não é necessário substituir os sistemas que já utiliza.
 
@@ -115,7 +115,7 @@ Podemos adicionar AI e automação através de:
 - Serviços cloud
 - Sistemas internos
 
-## Human-in-the-loop
+### Human-in-the-loop
 
 Nem todos os processos devem ser totalmente automáticos.
 
@@ -130,7 +130,7 @@ Isto é especialmente importante em processos que envolvem:
 - Alterações críticas
 - Decisões de negócio
 
-## Automação de documentos
+### Automação de documentos
 
 Podemos utilizar AI para ajudar a processar informação presente em documentos.
 
@@ -143,7 +143,7 @@ Isto pode incluir:
 - Organização de conteúdo
 - Encaminhamento automático
 
-## AI para atendimento e suporte
+### AI para atendimento e suporte
 
 Assistentes de AI podem ajudar a reduzir o volume de perguntas repetitivas e melhorar a disponibilidade do suporte.
 
@@ -157,7 +157,7 @@ Podemos criar soluções para:
 - Encaminhamento para atendimento humano
 - Triagem de pedidos
 
-## Do problema à automação
+### Do problema à automação
 
 Podemos acompanhar todo o processo:
 
@@ -165,7 +165,7 @@ Podemos acompanhar todo o processo:
 
 A prioridade é criar automações que reduzam trabalho manual sem adicionar complexidade desnecessária.
 
-## Tem um processo repetitivo que pode ser automatizado?
+### Tem um processo repetitivo que pode ser automatizado?
 
 Explique-nos como funciona hoje.
 

@@ -27,13 +27,13 @@ website: http://www.org
 priority: 0.6
 description: In the right hands, email marketing is an incredibly powerful tool. After all, what else gets your message straight to a targeted audience that has opted to receive it?
 ---
-## Uma presença digital consistente e profissional
+### Uma presença digital consistente e profissional
 
 Ajudamos empresas a criar, organizar e melhorar a sua presença online em websites, motores de pesquisa, redes sociais e canais de contacto.
 
 O objetivo é tornar o negócio mais fácil de encontrar, reconhecer e contactar, mantendo informação e identidade consistentes em todas as plataformas.
 
-## Em que podemos ajudar
+### Em que podemos ajudar
 
 - Configuração de Google Business Profile
 - Configuração de Instagram profissional
@@ -50,7 +50,7 @@ O objetivo é tornar o negócio mais fácil de encontrar, reconhecer e contactar
 - Configuração de metadata para partilhas
 - Apoio à identidade digital
 
-## Configuração de perfis
+### Configuração de perfis
 
 Podemos ajudar a configurar corretamente os perfis digitais da empresa desde o início.
 
@@ -67,7 +67,7 @@ Isto pode incluir:
 - Localização
 - Links relevantes
 
-## Google Business Profile
+### Google Business Profile
 
 Para negócios com presença local, o Google Business Profile pode ser uma das peças mais importantes da visibilidade online.
 
@@ -84,7 +84,7 @@ Podemos ajudar com:
 - Integração com mapas
 - Noções base de SEO local
 
-## WhatsApp Business
+### WhatsApp Business
 
 Podemos integrar o WhatsApp com os seus canais digitais para facilitar o contacto entre clientes e empresa.
 
@@ -99,7 +99,7 @@ Isto pode incluir:
 - Integração com chatbots
 - Encaminhamento para atendimento humano
 
-## Website e redes sociais
+### Website e redes sociais
 
 O website e os perfis sociais devem funcionar como partes do mesmo ecossistema digital.
 
@@ -115,7 +115,7 @@ Podemos configurar:
 - Campaign links
 - Integração com analytics
 
-## Consistência entre plataformas
+### Consistência entre plataformas
 
 Uma presença digital torna-se mais profissional quando a informação da empresa é consistente em todos os canais.
 
@@ -131,7 +131,7 @@ Podemos rever elementos como:
 - URLs
 - Perfis sociais
 
-## Link-in-bio pages
+### Link-in-bio pages
 
 Para negócios que utilizam Instagram, TikTok ou outras redes sociais, podemos criar páginas simples que centralizam os principais links.
 
@@ -146,7 +146,7 @@ Por exemplo:
 - Campanhas
 - Outros perfis sociais
 
-## Social sharing e previews
+### Social sharing e previews
 
 Também podemos melhorar a forma como o seu conteúdo aparece quando é partilhado nas redes sociais.
 
@@ -160,7 +160,7 @@ Isto pode incluir:
 - Twitter/X Cards
 - Previews de páginas
 
-## Tracking e campanhas
+### Tracking e campanhas
 
 Podemos preparar a estrutura técnica necessária para acompanhar campanhas e tráfego proveniente das redes sociais.
 
@@ -174,7 +174,7 @@ Isto pode incluir:
 - Tracking de formulários
 - Tracking de contactos
 
-## Presença digital integrada
+### Presença digital integrada
 
 A presença online da empresa não deve estar distribuída por plataformas sem ligação entre si.
 
@@ -184,7 +184,7 @@ Podemos ajudar a ligar:
 
 Assim, os diferentes canais trabalham em conjunto em vez de funcionarem isoladamente.
 
-## Quer melhorar a presença digital da sua empresa?
+### Quer melhorar a presença digital da sua empresa?
 
 Quer esteja a começar do zero ou a organizar perfis já existentes, podemos ajudar a criar uma presença digital mais consistente, profissional e fácil de encontrar.
 

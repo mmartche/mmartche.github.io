@@ -71,9 +71,8 @@ footer:
 home:
   title: "Welcome"
   subtitle: "We build digital solutions."
-  info: "."
-  sub_info: "Digital solutions built around your business"
-  sub_sub_info: "Websites, e-commerce, custom software, AI, automation and infrastructure to help your business grow online"
+  info: "Digital solutions built around your business"
+  sub_info: "Websites, e-commerce, custom software, AI, automation and infrastructure to help your business grow online"
   about_us: "Digital Solutions for Modern Businesses"
   more_about_us: "Martche House is a digital solutions studio that helps businesses build, improve and maintain their online presence and digital systems."
   more_about_us_2: "We design, build and support websites, e-commerce platforms, custom software, AI solutions and the digital infrastructure businesses need to operate and grow online."

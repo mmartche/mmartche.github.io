@@ -256,7 +256,8 @@ a:focus {
 	text-align: center
 }
 
-#portfoliowrap h3 {
+#portfoliowrap h4,
+#portfoliowrap h5 {
 	margin-bottom: 25px;
 }
 
@@ -272,7 +273,8 @@ a:focus {
 .portfolio-item h3 {margin:-10px 0 10px; font-size:16px; text-transform:uppercase;}
 
 
-.tpl6 h3
+.tpl6 h4,
+.tpl6 h5
 {
 	color:#fff;
 	margin:0;

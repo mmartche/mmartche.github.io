@@ -71,9 +71,8 @@ footer:
 home:
   title: "Bem-vindo"
   subtitle: "Criamos soluções digitais."
-  info: "."
-  sub_info: "Soluções digitais pensadas para o seu negócio"
-  sub_sub_info: "Websites, e-commerce, software à medida, inteligência artificial, automação e infraestrutura para ajudar o seu negócio a crescer no digital"
+  info: "Soluções digitais pensadas para o seu negócio"
+  sub_info: "Websites, e-commerce, software à medida, inteligência artificial, automação e infraestrutura para ajudar o seu negócio a crescer no digital"
   about_us: "Sobre nós"
   more_about_us: "A Martche House é um estúdio de soluções digitais focado em ajudar empresas a criar, melhorar e manter os seus produtos digitais e a sua presença online"
   more_about_us_2: "Combinamos desenvolvimento de software, visão de produto e experiência técnica para criar soluções adaptadas às necessidades reais de cada negócio"

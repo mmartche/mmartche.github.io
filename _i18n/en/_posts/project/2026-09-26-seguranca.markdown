@@ -28,13 +28,13 @@ description: Segurança é o nosso foco e você deseja o mesmo?
 featured: true
 service_order: 6
 ---
-## Protect your websites, applications and digital infrastructure
+### Protect your websites, applications and digital infrastructure
 
 We help businesses improve the security of their websites, systems and online services through secure configuration, access control, monitoring and hardening.
 
 Our goal is to reduce common risks and help keep your digital environment secure, stable and reliable.
 
-## What we can help with
+### What we can help with
 
 - Website security
 - Application security
@@ -52,7 +52,7 @@ Our goal is to reduce common risks and help keep your digital environment secure
 - Access control
 - Security monitoring
 
-## Application security
+### Application security
 
 Security should be considered from the beginning of a project.
 
@@ -70,7 +70,7 @@ We can help implement:
 - Secure error handling
 - Protection against common web vulnerabilities
 
-## Infrastructure hardening
+### Infrastructure hardening
 
 A secure application also depends on the environment where it runs.
 
@@ -86,7 +86,7 @@ We can improve the security of:
 - Firewall rules
 - Production environments
 
-## Web protection
+### Web protection
 
 We can configure additional protection for public websites and applications using services and practices such as:
 
@@ -99,7 +99,7 @@ We can configure additional protection for public websites and applications usin
 - Security headers
 - CDN protection
 
-## Security reviews
+### Security reviews
 
 We can review existing websites and applications to identify configuration issues and common security risks.
 
@@ -115,7 +115,7 @@ This can include:
 - Backup gaps
 - Publicly exposed information
 
-## Updates and maintenance
+### Updates and maintenance
 
 Many security issues happen simply because systems are not maintained.
 
@@ -129,7 +129,7 @@ We can help with:
 - Backup verification
 - Monitoring
 
-## Security throughout development
+### Security throughout development
 
 Security does not need to be treated as a final step.
 
@@ -137,7 +137,7 @@ We can include security practices throughout the full lifecycle:
 
 **Design → Development → Testing → Deployment → Monitoring → Maintenance**
 
-## Need to improve your project's security?
+### Need to improve your project's security?
 
 Whether you are launching a new system or reviewing an existing one, we can help identify risks and strengthen your security configuration.
 

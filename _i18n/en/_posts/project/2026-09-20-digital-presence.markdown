@@ -27,13 +27,13 @@ website: http://www.org
 priority: 0.6
 description: In the right hands, email marketing is an incredibly powerful tool. After all, what else gets your message straight to a targeted audience that has opted to receive it?
 ---
-## Build a consistent and professional digital presence
+### Build a consistent and professional digital presence
 
 We help businesses create, organize and improve their online presence across websites, search engines, social networks and contact channels.
 
 The goal is to make your business easier to find, recognize and contact while keeping information and branding consistent across platforms.
 
-## What we can help with
+### What we can help with
 
 - Google Business Profile setup
 - Instagram business profile setup
@@ -50,7 +50,7 @@ The goal is to make your business easier to find, recognize and contact while ke
 - Social metadata configuration
 - Digital branding support
 
-## Profile setup
+### Profile setup
 
 We can help configure your business profiles correctly from the beginning.
 
@@ -67,7 +67,7 @@ This can include:
 - Location
 - Relevant links
 
-## Google Business Profile
+### Google Business Profile
 
 For businesses with a local presence, Google Business Profile can be one of the most important parts of online visibility.
 
@@ -84,7 +84,7 @@ We can help with:
 - Maps integration
 - Local SEO basics
 
-## WhatsApp Business
+### WhatsApp Business
 
 We can connect WhatsApp with your digital channels to make communication between customers and your business easier.
 
@@ -99,7 +99,7 @@ This can include:
 - Chatbot integration
 - Handoff to human support
 
-## Website and social media
+### Website and social media
 
 Your website and social profiles should work as parts of the same digital ecosystem.
 
@@ -115,7 +115,7 @@ We can configure:
 - Campaign links
 - Analytics integration
 
-## Consistency across platforms
+### Consistency across platforms
 
 A business looks more professional when its information is consistent across every channel.
 
@@ -131,7 +131,7 @@ We can review:
 - URLs
 - Social profiles
 
-## Link-in-bio pages
+### Link-in-bio pages
 
 For businesses using Instagram, TikTok or other social platforms, we can create simple pages that centralize important links.
 
@@ -146,7 +146,7 @@ For example:
 - Campaigns
 - Other social profiles
 
-## Social sharing and previews
+### Social sharing and previews
 
 We can also improve how your content appears when shared across social networks.
 
@@ -160,7 +160,7 @@ This can include:
 - Twitter/X Cards
 - Page previews
 
-## Tracking and campaigns
+### Tracking and campaigns
 
 We can prepare the technical structure required to monitor campaigns and traffic coming from social platforms.
 
@@ -174,7 +174,7 @@ This can include:
 - Form tracking
 - Contact tracking
 
-## An integrated digital presence
+### An integrated digital presence
 
 Your online presence should not be spread across disconnected platforms.
 
@@ -184,7 +184,7 @@ We can help connect:
 
 This allows the different channels to work together instead of operating in isolation.
 
-## Want to improve your company's digital presence?
+### Want to improve your company's digital presence?
 
 Whether you are starting from zero or organizing existing profiles, we can help create a more consistent, professional and discoverable digital presence.
 

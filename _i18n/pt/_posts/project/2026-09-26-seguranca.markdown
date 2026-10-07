@@ -27,13 +27,13 @@ description: Segurança é o nosso foco e você deseja o mesmo?
 featured: true
 service_order: 6
 ---
-## Proteja os seus websites, aplicações e infraestrutura digital
+### Proteja os seus websites, aplicações e infraestrutura digital
 
 Ajudamos empresas a melhorar a segurança dos seus websites, sistemas e serviços online através de configurações seguras, controlo de acessos, monitorização e hardening.
 
 O objetivo é reduzir riscos comuns e manter o seu ambiente digital mais seguro, estável e fiável.
 
-## Em que podemos ajudar
+### Em que podemos ajudar
 
 - Segurança de websites
 - Segurança de aplicações
@@ -51,7 +51,7 @@ O objetivo é reduzir riscos comuns e manter o seu ambiente digital mais seguro,
 - Controlo de acessos
 - Monitorização de segurança
 
-## Application Security
+### Application Security
 
 A segurança deve ser considerada desde o início de um projeto.
 
@@ -69,7 +69,7 @@ Podemos ajudar a implementar:
 - Tratamento seguro de erros
 - Proteção contra vulnerabilidades web comuns
 
-## Infrastructure hardening
+### Infrastructure hardening
 
 Uma aplicação segura também depende do ambiente onde está alojada.
 
@@ -85,7 +85,7 @@ Podemos reforçar a segurança de:
 - Regras de firewall
 - Ambientes de produção
 
-## Proteção web
+### Proteção web
 
 Podemos configurar camadas adicionais de proteção para websites e aplicações públicas através de serviços e práticas como:
 
@@ -98,7 +98,7 @@ Podemos configurar camadas adicionais de proteção para websites e aplicações
 - Security headers
 - CDN protection
 
-## Security Review
+### Security Review
 
 Podemos analisar websites e aplicações existentes para identificar problemas de configuração e riscos de segurança comuns.
 
@@ -114,7 +114,7 @@ Isto pode incluir:
 - Falhas na estratégia de backups
 - Informação exposta publicamente
 
-## Atualizações e manutenção
+### Atualizações e manutenção
 
 Muitos problemas de segurança surgem simplesmente porque os sistemas deixam de ser atualizados.
 
@@ -128,7 +128,7 @@ Podemos ajudar com:
 - Verificação de backups
 - Monitorização
 
-## Segurança integrada no desenvolvimento
+### Segurança integrada no desenvolvimento
 
 A segurança não precisa de ser tratada apenas no final do projeto.
 
@@ -136,7 +136,7 @@ Podemos integrar boas práticas ao longo de todo o ciclo:
 
 **Design → Development → Testing → Deployment → Monitoring → Maintenance**
 
-## Precisa de melhorar a segurança do seu projeto?
+### Precisa de melhorar a segurança do seu projeto?
 
 Quer esteja a lançar um novo sistema ou a rever uma solução existente, podemos ajudar a identificar riscos e reforçar a configuração de segurança.
 

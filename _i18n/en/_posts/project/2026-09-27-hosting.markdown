@@ -30,13 +30,13 @@ description: Deseja hospedar seus sites por um preço incrível, mas não pode a
 featured: true
 service_order: 5
 ---
-## Reliable infrastructure for your websites and applications
+### Reliable infrastructure for your websites and applications
 
 We help businesses deploy, host and maintain websites, e-commerce platforms and custom applications with reliable and secure infrastructure.
 
 From a simple website to a complete application environment, we can manage the technical setup required to keep your services online and running smoothly.
 
-## What we can provide
+### What we can provide
 
 - Website hosting
 - Application hosting
@@ -54,7 +54,7 @@ From a simple website to a complete application environment, we can manage the t
 - Environment migration
 - Server maintenance
 
-## Deployment and infrastructure
+### Deployment and infrastructure
 
 We can prepare and deploy your application to different environments depending on your requirements.
 
@@ -71,7 +71,7 @@ This can include:
 - Cloud platforms
 - Private servers
 
-## Domains and DNS
+### Domains and DNS
 
 We can also help configure the services connected to your domain.
 
@@ -87,7 +87,7 @@ This includes:
 - Redirects
 - Domain migration
 
-## Backups and recovery
+### Backups and recovery
 
 Backups are an essential part of any production environment.
 
@@ -101,7 +101,7 @@ We can configure backup strategies for:
 
 The appropriate strategy depends on how critical the system is and how quickly it needs to be restored.
 
-## Monitoring
+### Monitoring
 
 A service should not only be online — it should also be monitored.
 
@@ -116,7 +116,7 @@ We can configure monitoring for:
 - Errors
 - Performance
 
-## Performance
+### Performance
 
 We can also improve infrastructure performance through:
 
@@ -129,7 +129,7 @@ We can also improve infrastructure performance through:
 - Application configuration
 - Static asset optimization
 
-## Migration
+### Migration
 
 Already have a website or application hosted somewhere else?
 
@@ -145,13 +145,13 @@ This can include:
 - Containers
 - DNS
 
-## Managed hosting
+### Managed hosting
 
 For clients who do not want to manage technical infrastructure themselves, we can provide ongoing support for hosting, backups, monitoring and maintenance.
 
 This can be combined with our support and maintenance plans.
 
-## Need a place to run your project?
+### Need a place to run your project?
 
 Whether you need hosting for a website, an e-commerce platform or a custom application, we can help design and manage the right environment.
 

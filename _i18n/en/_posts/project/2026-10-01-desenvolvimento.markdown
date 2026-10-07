@@ -30,13 +30,13 @@ description: Desenvolvimento de Websites. Possuímos todas as soluções para o 
 featured: true
 service_order: 1
 ---
-## Websites and web applications built around your business
+### Websites and web applications built around your business
 
 We create modern, responsive and scalable websites and web applications designed to support your business goals.
 
 From simple institutional websites to complex web platforms, we focus on performance, usability, accessibility and maintainability.
 
-## What we can build
+### What we can build
 
 - Business and institutional websites
 - Landing pages
@@ -49,7 +49,7 @@ From simple institutional websites to complex web platforms, we focus on perform
 - Multilingual websites
 - Custom web applications
 
-## Custom development
+### Custom development
 
 Every business has different needs.
 
@@ -67,7 +67,7 @@ This can include:
 - Database integrations
 - Third-party services
 
-## Modern technology
+### Modern technology
 
 We work with modern web technologies and choose the right tools according to each project's requirements.
 
@@ -86,7 +86,7 @@ Our experience includes technologies such as:
 
 Technology is important, but the goal is always the same: create a reliable solution that is easy to use, maintain and evolve.
 
-## Performance and accessibility
+### Performance and accessibility
 
 A good website should work well for everyone.
 
@@ -100,7 +100,7 @@ We build with attention to:
 - Security
 - Browser compatibility
 
-## From idea to production
+### From idea to production
 
 We can support the entire development process:
 
@@ -108,7 +108,7 @@ We can support the entire development process:
 
 You can work with us on a complete project or only on the stages where you need technical support.
 
-## Need something specific?
+### Need something specific?
 
 If your business needs a website, platform or custom web solution, we can help turn the idea into a working product.
 

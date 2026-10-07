@@ -6,7 +6,7 @@ Conte-nos o que pretende criar, automatizar, integrar ou otimizar.
 
 Podemos ajudar com websites, e-commerce, software à medida, AI & Automation, Cloud & Hosting, Security, SEO e suporte técnico contínuo.
 
-## Fale connosco
+### Fale connosco
 
 Envie-nos uma mensagem com uma breve descrição do que precisa.
 
@@ -22,7 +22,7 @@ Se já tiver informação sobre o projeto, pode incluir:
 
 Quanto mais contexto tivermos, mais facilmente conseguimos perceber a melhor forma de ajudar.
 
-## Tem apenas uma ideia inicial?
+### Tem apenas uma ideia inicial?
 
 Não há problema.
 

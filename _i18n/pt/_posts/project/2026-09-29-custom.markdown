@@ -28,13 +28,13 @@ description: Segurança é o nosso foco e você deseja o mesmo?
 featured: true
 service_order: 3
 ---
-## Software à medida para a forma como o seu negócio trabalha
+### Software à medida para a forma como o seu negócio trabalha
 
 Nem todas as empresas se adaptam a soluções standard.
 
 Desenvolvemos software à medida para negócios que precisam de mais controlo, automação e flexibilidade nas suas operações.
 
-## O que podemos desenvolver
+### O que podemos desenvolver
 
 - Sistemas internos de gestão
 - Plataformas administrativas
@@ -50,7 +50,7 @@ Desenvolvemos software à medida para negócios que precisam de mais controlo, a
 - Bases de dados personalizadas
 - Ferramentas de automação
 
-## Adaptado aos seus processos
+### Adaptado aos seus processos
 
 O software deve adaptar-se ao negócio, e não o contrário.
 
@@ -58,7 +58,7 @@ Começamos por perceber como a empresa trabalha atualmente, onde existem tarefas
 
 A partir daí, desenhamos uma solução adaptada à realidade da operação.
 
-## APIs e integrações
+### APIs e integrações
 
 Podemos ligar o seu sistema a outras plataformas e serviços.
 
@@ -76,7 +76,7 @@ Isto pode incluir:
 - Third-party providers
 - Webhooks
 
-## Backend development
+### Backend development
 
 Também desenvolvemos serviços de backend e APIs para websites, aplicações mobile e outros sistemas.
 
@@ -93,7 +93,7 @@ Podemos trabalhar em:
 - Data synchronization
 - Third-party integrations
 
-## Frontend e aplicações web
+### Frontend e aplicações web
 
 Quando necessário, podemos desenvolver também a camada de frontend para criar aplicações completas.
 
@@ -107,7 +107,7 @@ Isto pode incluir:
 - Administrative panels
 - Real-time interfaces
 
-## Arquitetura moderna
+### Arquitetura moderna
 
 Dependendo dos requisitos do projeto, podemos trabalhar com tecnologias como:
 
@@ -125,7 +125,7 @@ Dependendo dos requisitos do projeto, podemos trabalhar com tecnologias como:
 
 A tecnologia é escolhida de acordo com os requisitos, escala esperada e facilidade de manutenção a longo prazo.
 
-## Melhorar sistemas existentes
+### Melhorar sistemas existentes
 
 Nem sempre é necessário começar do zero.
 
@@ -141,7 +141,7 @@ Também podemos ajudar a evoluir software já existente através de:
 - Alterações de arquitetura
 - Integrações com sistemas legacy
 
-## Automação de processos
+### Automação de processos
 
 Software à medida também pode ser utilizado para eliminar tarefas manuais e repetitivas.
 
@@ -156,7 +156,7 @@ Podemos automatizar:
 - Tarefas administrativas
 - Fluxos de trabalho internos
 
-## Do levantamento à produção
+### Do levantamento à produção
 
 Podemos acompanhar todo o ciclo de desenvolvimento:
 
@@ -166,7 +166,7 @@ Alguns projetos precisam de uma plataforma completa. Outros precisam apenas de u
 
 Adaptamo-nos a cada necessidade.
 
-## Tem um processo que pode funcionar melhor?
+### Tem um processo que pode funcionar melhor?
 
 Explique-nos como a sua empresa trabalha atualmente e o que gostaria de melhorar.
 

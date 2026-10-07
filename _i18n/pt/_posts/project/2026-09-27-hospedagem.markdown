@@ -29,13 +29,13 @@ description: Deseja hospedar seus sites por um preço incrível, mas não pode a
 featured: true
 service_order: 5
 ---
-## Infraestrutura fiável para os seus websites e aplicações
+### Infraestrutura fiável para os seus websites e aplicações
 
 Ajudamos empresas a fazer deployment, hosting e manutenção de websites, plataformas de e-commerce e aplicações à medida, com uma infraestrutura segura e fiável.
 
 Desde um website simples até um ambiente completo de aplicação, tratamos da configuração técnica necessária para manter os seus serviços online, estáveis e a funcionar corretamente.
 
-## O que podemos disponibilizar
+### O que podemos disponibilizar
 
 - Website hosting
 - Application hosting
@@ -53,7 +53,7 @@ Desde um website simples até um ambiente completo de aplicação, tratamos da c
 - Migração de ambientes
 - Manutenção de servidores
 
-## Deployment e infraestrutura
+### Deployment e infraestrutura
 
 Podemos preparar e fazer o deployment da sua aplicação em diferentes ambientes, de acordo com os requisitos do projeto.
 
@@ -70,7 +70,7 @@ Isto pode incluir:
 - Plataformas cloud
 - Servidores privados
 
-## Domínios e DNS
+### Domínios e DNS
 
 Também podemos ajudar a configurar os serviços associados ao seu domínio.
 
@@ -86,7 +86,7 @@ Isto inclui:
 - Redirects
 - Migração de domínios
 
-## Backups e recuperação
+### Backups e recuperação
 
 Os backups são uma parte essencial de qualquer ambiente de produção.
 
@@ -100,7 +100,7 @@ Podemos configurar estratégias de backup para:
 
 A estratégia adequada depende da criticidade do sistema e da rapidez com que precisa de ser recuperado em caso de falha.
 
-## Monitorização
+### Monitorização
 
 Um serviço não deve apenas estar online — também deve ser monitorizado.
 
@@ -115,7 +115,7 @@ Podemos configurar monitorização para:
 - Erros
 - Performance
 
-## Performance
+### Performance
 
 Também podemos melhorar a performance da infraestrutura através de:
 
@@ -128,7 +128,7 @@ Também podemos melhorar a performance da infraestrutura através de:
 - Configuração da aplicação
 - Otimização de static assets
 
-## Migração
+### Migração
 
 Já tem um website ou aplicação alojado noutro ambiente?
 
@@ -144,13 +144,13 @@ Isto pode incluir:
 - Containers
 - DNS
 
-## Managed hosting
+### Managed hosting
 
 Para clientes que não querem gerir diretamente a infraestrutura técnica, podemos disponibilizar suporte contínuo para hosting, backups, monitorização e manutenção.
 
 Este serviço pode ser combinado com os nossos planos de suporte e manutenção.
 
-## Precisa de um ambiente para o seu projeto?
+### Precisa de um ambiente para o seu projeto?
 
 Quer precise de hosting para um website, uma plataforma de e-commerce ou uma aplicação à medida, podemos ajudar a definir e gerir o ambiente mais adequado.
 

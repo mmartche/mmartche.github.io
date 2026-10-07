@@ -34,13 +34,13 @@ description: Estes dias mais e mais varejistas estão percebendo que, a fim de s
 featured: true
 service_order: 2
 ---
-## Online stores built to sell
+### Online stores built to sell
 
 We build e-commerce solutions designed around your products, customers and business processes.
 
 From a simple online store to a fully custom sales platform, we help create a reliable and intuitive buying experience that connects with the tools your business already uses.
 
-## What we can build
+### What we can build
 
 - Complete online stores
 - Product catalogues
@@ -56,7 +56,7 @@ From a simple online store to a fully custom sales platform, we help create a re
 - Custom quotation systems
 - Marketplace integrations
 
-## Payments
+### Payments
 
 We can integrate your store with different payment methods and providers according to your market and business requirements.
 
@@ -71,7 +71,7 @@ Examples include:
 
 We can also adapt the payment flow to specific business requirements.
 
-## Shipping and delivery
+### Shipping and delivery
 
 We can connect your store with carriers and delivery services to automate shipping costs, rules and order handling.
 
@@ -85,7 +85,7 @@ This can include:
 - Pickup options
 - International shipping rules
 
-## Integrations
+### Integrations
 
 Your online store should not operate in isolation.
 
@@ -103,7 +103,7 @@ We can integrate it with:
 
 The goal is to reduce manual work and keep information synchronized across your digital ecosystem.
 
-## Custom e-commerce
+### Custom e-commerce
 
 Not every business fits into a standard e-commerce platform.
 
@@ -120,7 +120,7 @@ For more specific requirements, we can build custom functionality such as:
 - Automated quotations
 - Business-specific purchasing workflows
 
-## Performance, SEO and mobile
+### Performance, SEO and mobile
 
 An online store should be fast, easy to use and work properly on every device.
 
@@ -135,7 +135,7 @@ We build with attention to:
 - Product discoverability
 - Overall application performance
 
-## Security and reliability
+### Security and reliability
 
 E-commerce involves customer data, payments and business-critical operations.
 
@@ -150,7 +150,7 @@ That is why we pay attention to:
 - Monitoring
 - Secure development practices
 
-## From planning to ongoing support
+### From planning to ongoing support
 
 We can support the entire lifecycle of your online store:
 
@@ -158,7 +158,7 @@ We can support the entire lifecycle of your online store:
 
 After launch, we can also provide hosting, monitoring, security updates and ongoing technical support.
 
-## Ready to sell online?
+### Ready to sell online?
 
 Whether you are launching your first online store or need a more advanced e-commerce platform, we can build a solution that fits your business.
 

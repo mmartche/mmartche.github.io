@@ -28,13 +28,13 @@ description: Segurança é o nosso foco e você deseja o mesmo?
 featured: true
 service_order: 3
 ---
-## Software built around the way your business works
+### Software built around the way your business works
 
 Not every business fits into a standard solution.
 
 We build custom software for companies that need more control, automation and flexibility in their operations.
 
-## What we can build
+### What we can build
 
 - Internal management systems
 - Administrative platforms
@@ -50,7 +50,7 @@ We build custom software for companies that need more control, automation and fl
 - Custom databases
 - Automation tools
 
-## Built around your processes
+### Built around your processes
 
 Software should adapt to the business, not the other way around.
 
@@ -58,7 +58,7 @@ We start by understanding how your company works today, where repetitive tasks, 
 
 From there, we design a solution that fits the reality of your operation.
 
-## APIs and integrations
+### APIs and integrations
 
 We can connect your system with other platforms and services.
 
@@ -76,7 +76,7 @@ This can include:
 - Third-party providers
 - Webhooks
 
-## Backend development
+### Backend development
 
 We also develop backend services and APIs for websites, mobile applications and other systems.
 
@@ -93,7 +93,7 @@ We can work on:
 - Data synchronization
 - Third-party integrations
 
-## Frontend and web applications
+### Frontend and web applications
 
 When required, we can also build the frontend layer to deliver complete applications.
 
@@ -107,7 +107,7 @@ This can include:
 - Administrative panels
 - Real-time interfaces
 
-## Modern architecture
+### Modern architecture
 
 Depending on project requirements, we can work with technologies such as:
 
@@ -125,7 +125,7 @@ Depending on project requirements, we can work with technologies such as:
 
 Technology is selected according to requirements, expected scale and long-term maintainability.
 
-## Improve existing systems
+### Improve existing systems
 
 Starting from zero is not always necessary.
 
@@ -141,7 +141,7 @@ We can also help evolve existing software through:
 - Architecture changes
 - Legacy system integrations
 
-## Process automation
+### Process automation
 
 Custom software can also be used to remove repetitive and manual work.
 
@@ -156,7 +156,7 @@ We can automate:
 - Administrative tasks
 - Internal workflows
 
-## From discovery to production
+### From discovery to production
 
 We can support the full development lifecycle:
 
@@ -166,7 +166,7 @@ Some projects need a complete platform. Others only need a specific feature, int
 
 We adapt to each requirement.
 
-## Have a process that could work better?
+### Have a process that could work better?
 
 Tell us how your business works today and what you would like to improve.
 

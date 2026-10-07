@@ -13,7 +13,7 @@ priority: 0.9
 <div class="container mtb">
     <div class="row">
         <div class="col-lg-6">
-            <h2><img class="img-responsive" src="{{ "/assets/img/about.jpg" | prepend: site.baseurl_root }}" alt=""></h2>
+            <img class="img-responsive" src="{{ "/assets/img/about.jpg" | prepend: site.baseurl_root }}" alt="">
         </div>
         <div class="col-lg-6">
             {% tf about-us.markdown %}            

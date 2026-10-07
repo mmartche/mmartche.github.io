@@ -27,13 +27,13 @@ description: Se você não estiver ciente, a maioria dos usuários dos sites de 
 featured: true
 service_order: 7
 ---
-## Mais visibilidade, melhor performance e crescimento digital
+### Mais visibilidade, melhor performance e crescimento digital
 
 Ajudamos empresas a melhorar a forma como os seus websites são encontrados, compreendidos e utilizados.
 
 Combinamos SEO técnico, performance, analytics, otimização de conteúdos e estratégias de aquisição para aumentar a visibilidade digital e atrair utilizadores mais relevantes para o negócio.
 
-## SEO & SEM
+### SEO & SEM
 
 Os motores de pesquisa continuam a ser uma das principais formas de descoberta de websites, produtos e serviços.
 
@@ -48,7 +48,7 @@ Já campanhas pagas podem ser utilizadas para gerar visibilidade imediata, testa
 
 O objetivo não deve ser apenas aumentar o número de visitas, mas atrair pessoas que estejam realmente à procura dos produtos ou serviços que a empresa oferece.
 
-## Como os motores de pesquisa analisam um website
+### Como os motores de pesquisa analisam um website
 
 Os motores de pesquisa utilizam algoritmos complexos para determinar que páginas devem aparecer para cada pesquisa.
 
@@ -75,7 +75,7 @@ Não existe uma fórmula única que garanta determinada posição nos resultados
 
 O trabalho de SEO consiste em melhorar continuamente a qualidade técnica e editorial do website e facilitar a sua interpretação por utilizadores e motores de pesquisa.
 
-## Pesquisa de palavras-chave
+### Pesquisa de palavras-chave
 
 Uma estratégia de SEO começa por identificar aquilo que os potenciais clientes realmente pesquisam.
 
@@ -92,7 +92,7 @@ Podemos ajudar com:
 
 Em vez de tentar posicionar um website para o maior número possível de termos, procuramos identificar pesquisas realmente relevantes para o negócio.
 
-## Otimização manual
+### Otimização manual
 
 Não tratamos SEO como um simples processo automático de submissão de websites.
 
@@ -113,7 +113,7 @@ Por isso, a otimização pode envolver uma análise manual de:
 
 Ferramentas podem ajudar a identificar oportunidades, mas as decisões devem ser tomadas de acordo com o contexto real do projeto.
 
-## Desenvolvimento Web e Garantia de Qualidade SEO
+### Desenvolvimento Web e Garantia de Qualidade SEO
 
 SEO funciona melhor quando é considerado durante o próprio desenvolvimento do website, e não apenas depois de este estar publicado.
 
@@ -141,7 +141,7 @@ Não utilizamos técnicas de cloaking ou outras abordagens destinadas a mostrar 
 
 O objetivo é melhorar a experiência de pesquisa e ajudar os motores de pesquisa a encontrar e compreender conteúdos relevantes.
 
-## Performance
+### Performance
 
 A performance técnica influencia diretamente a experiência dos utilizadores e pode também afetar a capacidade de um website competir nos resultados de pesquisa.
 
@@ -159,7 +159,7 @@ Podemos trabalhar em:
 - Static assets
 - CDN
 
-## Analytics, acompanhamento e relatórios
+### Analytics, acompanhamento e relatórios
 
 O trabalho de SEO deve ser acompanhado através de dados.
 
@@ -183,7 +183,7 @@ Os motores de pesquisa alteram frequentemente os seus algoritmos, pelo que ningu
 
 O nosso foco é aplicar boas práticas, acompanhar resultados e ajustar continuamente a estratégia.
 
-## SEO para E-commerce
+### SEO para E-commerce
 
 Num e-commerce, SEO pode ter um impacto direto na descoberta de produtos e categorias.
 
@@ -205,7 +205,7 @@ Podemos trabalhar em:
 - Performance
 - Mobile experience
 
-## SEO, PPC e crescimento de E-commerce
+### SEO, PPC e crescimento de E-commerce
 
 Uma estratégia de crescimento para e-commerce pode combinar diferentes canais e técnicas.
 
@@ -221,7 +221,7 @@ Isto pode incluir:
 
 Estas áreas podem ser trabalhadas em conjunto para aumentar a visibilidade, compreender melhor o comportamento dos clientes e melhorar a conversão da loja.
 
-## Campanhas de SEO
+### Campanhas de SEO
 
 Dependendo das necessidades do projeto, uma estratégia de SEO pode incluir:
 
@@ -238,7 +238,7 @@ Dependendo das necessidades do projeto, uma estratégia de SEO pode incluir:
 - Relatórios
 - Monitorização contínua
 
-## SEO local e presença digital
+### SEO local e presença digital
 
 Para empresas que trabalham com clientes numa determinada região, também podemos melhorar a presença local.
 
@@ -252,7 +252,7 @@ Isto pode incluir:
 - Local structured data
 - Perfis sociais
 
-## Melhoria contínua
+### Melhoria contínua
 
 SEO não é uma tarefa que se faz uma única vez.
 
@@ -262,7 +262,7 @@ Por isso, podemos acompanhar continuamente:
 
 **Análise → Otimização → Monitorização → Resultados → Novas melhorias**
 
-## Quer melhorar a visibilidade do seu website?
+### Quer melhorar a visibilidade do seu website?
 
 Podemos analisar o seu website e identificar oportunidades ao nível de SEO, performance, conteúdo, analytics e conversão.
 

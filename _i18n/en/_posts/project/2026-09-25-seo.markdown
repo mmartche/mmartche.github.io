@@ -28,13 +28,13 @@ description: Se você não estiver ciente, a maioria dos usuários dos sites de 
 featured: true
 service_order: 7
 ---
-## More visibility, better performance and digital growth
+### More visibility, better performance and digital growth
 
 We help businesses improve how their websites are discovered, understood and used.
 
 We combine technical SEO, performance, analytics, content optimization and acquisition strategies to increase digital visibility and attract more relevant users to the business.
 
-## SEO & SEM
+### SEO & SEM
 
 Search engines remain one of the main ways people discover websites, products and services.
 
@@ -49,7 +49,7 @@ Paid campaigns can be used to generate immediate visibility, test markets, promo
 
 The goal should not be only to increase traffic, but to attract people who are genuinely looking for the products or services your business offers.
 
-## How search engines analyze a website
+### How search engines analyze a website
 
 Search engines use complex algorithms to determine which pages should appear for each search query.
 
@@ -76,7 +76,7 @@ There is no single formula that guarantees a specific search position.
 
 SEO is about continuously improving the technical and editorial quality of a website and making it easier for both users and search engines to understand.
 
-## Keyword research
+### Keyword research
 
 A strong SEO strategy starts by understanding what potential customers are actually searching for.
 
@@ -93,7 +93,7 @@ We can help with:
 
 Instead of trying to rank for as many terms as possible, we focus on searches that are genuinely relevant to the business.
 
-## Manual optimization
+### Manual optimization
 
 We do not treat SEO as a simple automated website submission process.
 
@@ -114,7 +114,7 @@ That is why optimization may include a manual review of:
 
 Tools can help identify opportunities, but decisions should always be made according to the real context of the project.
 
-## Web Development and SEO Quality Assurance
+### Web Development and SEO Quality Assurance
 
 SEO works best when it is considered during website development, not only after the site is already live.
 
@@ -142,7 +142,7 @@ We do not use cloaking or other techniques designed to show different content to
 
 The goal is to improve the search experience and help search engines find and understand relevant content.
 
-## Performance
+### Performance
 
 Technical performance directly affects user experience and can also influence a website’s ability to compete in search results.
 
@@ -160,7 +160,7 @@ We can work on:
 - Static assets
 - CDN
 
-## Analytics, monitoring and reporting
+### Analytics, monitoring and reporting
 
 SEO should be measured with data.
 
@@ -184,7 +184,7 @@ Search engines frequently change their algorithms, so no serious provider can gu
 
 Our focus is to apply best practices, monitor results and continuously adjust the strategy.
 
-## SEO for E-commerce
+### SEO for E-commerce
 
 In e-commerce, SEO can directly affect how easily products and categories are discovered.
 
@@ -206,7 +206,7 @@ We can work on:
 - Performance
 - Mobile experience
 
-## SEO, PPC and E-commerce growth
+### SEO, PPC and E-commerce growth
 
 An e-commerce growth strategy can combine different channels and techniques.
 
@@ -222,7 +222,7 @@ This can include:
 
 These areas can work together to increase visibility, better understand customer behavior and improve store conversion.
 
-## SEO campaigns
+### SEO campaigns
 
 Depending on the project, an SEO strategy may include:
 
@@ -239,7 +239,7 @@ Depending on the project, an SEO strategy may include:
 - Reporting
 - Continuous monitoring
 
-## Local SEO and digital presence
+### Local SEO and digital presence
 
 For businesses that depend on customers in a specific region, we can also improve local visibility.
 
@@ -253,7 +253,7 @@ This can include:
 - Local structured data
 - Social profiles
 
-## Continuous improvement
+### Continuous improvement
 
 SEO is not a one-time task.
 
@@ -263,7 +263,7 @@ That is why we can continuously work through:
 
 **Analysis → Optimization → Monitoring → Results → Further improvements**
 
-## Want to improve your website visibility?
+### Want to improve your website visibility?
 
 We can review your website and identify opportunities across SEO, performance, content, analytics and conversion.
 

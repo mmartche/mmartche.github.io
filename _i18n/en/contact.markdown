@@ -6,7 +6,7 @@ Tell us what you want to build, automate, integrate or optimize.
 
 We can help with websites, e-commerce, custom software, AI & Automation, Cloud & Hosting, Security, SEO and ongoing technical support.
 
-## Contact us
+### Contact us
 
 Send us a message with a brief description of what you need.
 
@@ -22,7 +22,7 @@ If you already have information about the project, you can include:
 
 The more context we have, the easier it is to understand the best way to help.
 
-## Only have an initial idea?
+### Only have an initial idea?
 
 That’s fine.
 

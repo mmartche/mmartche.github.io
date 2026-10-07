@@ -30,13 +30,13 @@ description: These days most businesses, big and small are time poor. Some custo
 featured: true
 service_order: 8
 ---
-## Suporte técnico e manutenção contínua
+### Suporte técnico e manutenção contínua
 
 Ajudamos a manter websites, plataformas de e-commerce e aplicações a funcionar de forma estável, segura e atualizada.
 
 O objetivo é reduzir problemas, resolver falhas rapidamente e garantir que os seus serviços digitais continuam preparados para evoluir.
 
-## Em que podemos ajudar
+### Em que podemos ajudar
 
 - Manutenção de websites
 - Manutenção de aplicações
@@ -53,7 +53,7 @@ O objetivo é reduzir problemas, resolver falhas rapidamente e garantir que os s
 - Alterações de configuração
 - Apoio em incidentes
 
-## Manutenção preventiva
+### Manutenção preventiva
 
 A manutenção regular ajuda a evitar problemas inesperados.
 
@@ -69,7 +69,7 @@ Podemos acompanhar:
 - Performance
 - Configurações de produção
 
-## Correção de problemas e suporte técnico
+### Correção de problemas e suporte técnico
 
 Quando algo deixa de funcionar, podemos analisar o problema e ajudar a encontrar a solução.
 
@@ -85,7 +85,7 @@ Isto pode incluir:
 - Problemas de autenticação
 - Erros de configuração
 
-## Melhorias contínuas
+### Melhorias contínuas
 
 O suporte não precisa de servir apenas para corrigir problemas.
 
@@ -100,7 +100,7 @@ Também podemos ajudar com pequenas melhorias e evolução contínua, como:
 - Alterações de conteúdos
 - Ajustes de analytics
 
-## Monitorização e backups
+### Monitorização e backups
 
 Para sistemas em produção, podemos acompanhar os serviços mais importantes e manter estratégias de backup adequadas.
 
@@ -115,7 +115,7 @@ Isto pode incluir:
 - Error monitoring
 - Verificação de backups
 
-## Formas de suporte
+### Formas de suporte
 
 O suporte pode ser prestado de diferentes formas:
 
@@ -127,7 +127,7 @@ O suporte pode ser prestado de diferentes formas:
 
 A melhor opção depende da dimensão, criticidade e ritmo de evolução do projeto.
 
-## Managed support
+### Managed support
 
 Para empresas que não querem gerir diretamente a parte técnica, podemos combinar:
 
@@ -135,7 +135,7 @@ Para empresas que não querem gerir diretamente a parte técnica, podemos combin
 
 Isto permite centralizar a gestão técnica do projeto num único serviço.
 
-## Precisa de suporte contínuo?
+### Precisa de suporte contínuo?
 
 Quer precise de ajuda com um sistema existente ou de manutenção após o lançamento de um novo projeto, podemos adaptar o suporte às suas necessidades.
 

@@ -27,7 +27,7 @@ website: http://www.org
 priority: 0.6
 description: In the right hands, email marketing is an incredibly powerful tool. After all, what else gets your message straight to a targeted audience that has opted to receive it?
 ---
-## Turn email into a consistent communication channel
+### Turn email into a consistent communication channel
 
 In the right hands, email marketing can be an extremely powerful communication and sales channel.
 
@@ -35,7 +35,7 @@ It allows your business to speak directly to an audience that has chosen to rece
 
 We help businesses create, configure and automate email communication connected to their websites, e-commerce platforms and internal systems.
 
-## What we can help with
+### What we can help with
 
 - Newsletter setup
 - Email marketing campaigns
@@ -56,7 +56,7 @@ We help businesses create, configure and automate email communication connected 
 - Campaign scheduling
 - Performance analysis
 
-## Design, content and timing
+### Design, content and timing
 
 Getting an email delivered is only the first step.
 
@@ -77,7 +77,7 @@ Different audiences behave differently depending on their location, industry, ha
 
 Instead of relying on generic rules, we prefer to test and measure what works for each audience.
 
-## Timing
+### Timing
 
 The best time to send an email depends on who is receiving it and why they are receiving it.
 
@@ -101,7 +101,7 @@ Results can then be compared using metrics such as:
 
 After several campaigns, it becomes possible to identify patterns that are specific to your audience.
 
-## A/B testing
+### A/B testing
 
 A/B testing allows you to compare different versions of a campaign.
 
@@ -119,7 +119,7 @@ For example, part of an audience could receive a campaign in the morning while a
 
 Instead of guessing which approach is better, campaign data can help guide future decisions.
 
-## Frequency
+### Frequency
 
 There is no exact formula that defines how often a business should send marketing emails.
 
@@ -138,7 +138,7 @@ The right frequency depends on:
 
 The important thing is to provide useful communication rather than sending messages simply to maintain a schedule.
 
-## Quarterly emails
+### Quarterly emails
 
 Quarterly campaigns can work for businesses that only have occasional announcements or updates.
 
@@ -154,7 +154,7 @@ Quarterly communication works best when the content has clear value, such as:
 - Important events
 - Seasonal information
 
-## Monthly emails
+### Monthly emails
 
 Monthly newsletters are a good option for businesses that want to maintain regular communication without overwhelming their audience.
 
@@ -172,7 +172,7 @@ A monthly newsletter can also help establish the business as a useful source of 
 
 For businesses focused heavily on sales, however, one message per month may not always be enough.
 
-## Bi-monthly emails
+### Bi-monthly emails
 
 Sending emails every two weeks can create a useful balance between monthly and weekly communication.
 
@@ -189,7 +189,7 @@ This frequency can work well for:
 
 The most important consideration is whether there is enough useful content to justify the frequency.
 
-## Weekly emails
+### Weekly emails
 
 Weekly campaigns can work particularly well when a business regularly produces new content, offers, products or information.
 
@@ -206,7 +206,7 @@ Consistency can help subscribers understand what to expect from the communicatio
 
 However, frequency should always be balanced with engagement. If subscribers stop interacting with the emails, the strategy should be reviewed.
 
-## Daily emails
+### Daily emails
 
 Daily campaigns can work in very specific situations, but they require a clear reason and enough valuable content.
 
@@ -223,7 +223,7 @@ Daily communication should not become repetitive or intrusive.
 
 The audience should clearly understand what they are subscribing to and how frequently they will receive messages.
 
-## Listen to your audience
+### Listen to your audience
 
 One of the simplest ways to understand preferred communication frequency is to ask subscribers directly.
 
@@ -235,7 +235,7 @@ Preference centres can allow users to choose:
 
 This can improve the customer experience while reducing unnecessary unsubscribes.
 
-## Email campaigns
+### Email campaigns
 
 We can help create and configure campaigns for:
 
@@ -249,7 +249,7 @@ We can help create and configure campaigns for:
 - Special offers
 - Re-engagement
 
-## Email automation
+### Email automation
 
 Many communications can be triggered automatically based on user actions or business events.
 
@@ -266,7 +266,7 @@ Examples include:
 - Feedback requests
 - Lead nurturing sequences
 
-## Transactional emails
+### Transactional emails
 
 Transactional email is essential for many websites and applications.
 
@@ -280,7 +280,7 @@ We can help configure email delivery for:
 - Support requests
 - System alerts
 
-## Segmentation
+### Segmentation
 
 Not every contact should receive the same message.
 
@@ -296,7 +296,7 @@ We can help organize audiences based on:
 
 Better segmentation allows businesses to send more relevant messages instead of sending the same campaign to everyone.
 
-## Integrations
+### Integrations
 
 Email marketing can be connected to the rest of your digital ecosystem.
 
@@ -311,7 +311,7 @@ This can include:
 - Analytics
 - Automation tools
 
-## Tracking and analysis
+### Tracking and analysis
 
 We can configure tracking to understand how audiences interact with campaigns.
 
@@ -329,7 +329,7 @@ This can include:
 
 This information can then be used to improve future campaigns.
 
-## Deliverability and technical configuration
+### Deliverability and technical configuration
 
 A reliable email strategy also depends on correct technical configuration.
 
@@ -346,7 +346,7 @@ We can help with:
 
 Good deliverability helps reduce the risk of legitimate messages being filtered as spam.
 
-## Continuous improvement
+### Continuous improvement
 
 Email marketing works best as an ongoing cycle:
 
@@ -354,7 +354,7 @@ Email marketing works best as an ongoing cycle:
 
 Timing, frequency, content and segmentation can all be refined according to real campaign data.
 
-## Want to improve your email communication?
+### Want to improve your email communication?
 
 Whether you need a simple newsletter, a promotional campaign or automated flows connected to your business, we can help integrate email with your website, store and internal systems.
 

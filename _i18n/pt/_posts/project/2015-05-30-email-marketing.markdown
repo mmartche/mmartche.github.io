@@ -26,7 +26,7 @@ website: http://www.org
 priority: 0.6
 description: In the right hands, email marketing is an incredibly powerful tool. After all, what else gets your message straight to a targeted audience that has opted to receive it?
 ---
-## Transforme o email num canal consistente de comunicação
+### Transforme o email num canal consistente de comunicação
 
 Nas mãos certas, o email marketing pode ser um canal extremamente poderoso de comunicação e vendas.
 
@@ -34,7 +34,7 @@ Permite que a sua empresa fale diretamente com uma audiência que escolheu receb
 
 Ajudamos empresas a criar, configurar e automatizar comunicações por email ligadas aos seus websites, plataformas de e-commerce e sistemas internos.
 
-## Em que podemos ajudar
+### Em que podemos ajudar
 
 - Configuração de newsletters
 - Campanhas de email marketing
@@ -55,7 +55,7 @@ Ajudamos empresas a criar, configurar e automatizar comunicações por email lig
 - Agendamento de campanhas
 - Análise de performance
 
-## Design, conteúdo e timing
+### Design, conteúdo e timing
 
 Conseguir que um email seja entregue é apenas o primeiro passo.
 
@@ -76,7 +76,7 @@ Audiências diferentes comportam-se de forma diferente dependendo da localizaç�
 
 Em vez de seguir regras genéricas, preferimos testar e medir o que funciona melhor para cada audiência.
 
-## Timing
+### Timing
 
 O melhor horário para enviar um email depende de quem o recebe e do motivo pelo qual está a receber essa mensagem.
 
@@ -100,7 +100,7 @@ Depois, os resultados podem ser comparados através de métricas como:
 
 Após várias campanhas, torna-se possível identificar padrões específicos da sua própria audiência.
 
-## A/B testing
+### A/B testing
 
 O A/B testing permite comparar diferentes versões de uma campanha.
 
@@ -118,7 +118,7 @@ Por exemplo, uma parte da audiência pode receber a campanha de manhã e outra p
 
 Em vez de tentar adivinhar qual opção funciona melhor, os dados da campanha podem ajudar a orientar decisões futuras.
 
-## Frequência
+### Frequência
 
 Não existe uma fórmula exata que determine com que frequência uma empresa deve enviar campanhas de email.
 
@@ -137,7 +137,7 @@ A frequência adequada depende de:
 
 O mais importante é oferecer comunicação útil, em vez de enviar mensagens apenas para cumprir um calendário.
 
-## Emails trimestrais
+### Emails trimestrais
 
 Campanhas trimestrais podem funcionar bem para empresas que têm apenas comunicações ou novidades ocasionais.
 

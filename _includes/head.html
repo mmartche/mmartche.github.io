@@ -1,36 +1,43 @@
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{ page.description }} - {{ site.about }}">
-    <meta name="author" content="{{ site.title }}">
-    <link rel="shortcut icon" href="{{ "/assets/logo.ico" | prepend: site.baseurl_root_root  }}">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="{{ site.title }}">
+  <link rel="shortcut icon" href="{{ " /assets/logo.ico" | prepend: site.baseurl_root_root }}">
 
-    <meta name="google-site-verification" content="{{ site.google-site-verification }}" />
+  <meta name="google-site-verification" content="{{ site.google-site-verification }}" />
+  <meta name="description"
+    content="{{ page.description | default: site.description | strip_html | strip_newlines | escape }}">
+  <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+  <meta property="og:description" content="{{ page.description | default: site.description | strip_html | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
 
-    <title itemprop="name">{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
+  {% if page.img %}
+  <meta property="og:image" content="{{ '/assets/img/project/' | append: page.img | absolute_url }}">
+  {% endif %}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
+  <meta name="twitter:description" content="{{ page.description | default: site.description | strip_html | escape }}">
+  {% if page.translations.pt %}
+  <link rel="alternate" hreflang="pt" href="{{ page.translations.pt | absolute_url }}">
+  {% endif %}
 
-    <!-- Bootstrap core CSS -->
-    <link href="{{ "/assets/css/bootstrap.css" | prepend: site.baseurl_root_root  }}" rel="stylesheet">
+  {% if page.translations.en %}
+  <link rel="alternate" hreflang="en" href="{{ page.translations.en | absolute_url }}">
+  {% endif %}
+  
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <title itemprop="name">{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
 
-    <!-- Custom styles for this template -->
-    <link href="{{ "/assets/css/style.css" | prepend: site.baseurl_root_root  }}" rel="stylesheet">
-    <link href="{{ "/assets/css/font-awesome.min.css" | prepend: site.baseurl_root_root  }}" rel="stylesheet">
-    
-    <!-- Custom CSS -->
-    <!-- <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl_root_root  }}"> -->
+  <link href="{{ " /assets/css/bootstrap.css" | prepend: site.baseurl_root_root }}" rel="stylesheet">
 
+  <link href="{{ " /assets/css/style.css" | prepend: site.baseurl_root_root }}" rel="stylesheet">
+  <link href="{{ " /assets/css/font-awesome.min.css" | prepend: site.baseurl_root_root }}" rel="stylesheet">
 
-    <!-- Just for debugging purposes. Don't actually copy this line! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+  <script
+    type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/{{ site.url }}\/","name":"{{ site.title }}","potentialAction":{"@type":"SearchAction","target":"http:\/\/{{ site.url }}\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/{{ site.url }}\/","name":"{{ site.title }}","potentialAction":{"@type":"SearchAction","target":"http:\/\/{{ site.url }}\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-
-    <script src="{{ "/assets/js/modernizr.js" | prepend: site.baseurl_root_root  }}"></script>
-    <script src="{{ "/assets/js/toogleLanguage.js" | prepend: site.baseurl_root_root  }}"></script>
+  <script src="{{ " /assets/js/modernizr.js" | prepend: site.baseurl_root_root }}"></script>
+  <script src="{{ " /assets/js/toogleLanguage.js" | prepend: site.baseurl_root_root }}"></script>
 </head>

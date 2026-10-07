@@ -8,10 +8,10 @@
             {% for project in services limit:include.limit %}
                 <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
-                    <img src="{{ '/assets/img/project/' | append: project.thumb | prepend: site.baseurl_root }}" alt="{{ project.title }}">
+                    <img src="{{ '/assets/img/project/' | append: project.thumb | prepend: site.baseurl_root }}" alt="{{ project.title }}" loading="lazy" decoding="async">
                         <div class="he-view">
                             <div class="bg a0" data-animate="fadeIn">
-                                <h3 class="a1" data-animate="fadeInDown"><a href="{{ project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp">{{ project.title }}</a></h3>
+                                <h4 class="a1" data-animate="fadeInDown"><a href="{{ project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp">{{ project.title }}</a></h4>
                             </div>
                         </div>
                     </div>

@@ -28,13 +28,13 @@ description: Segurança é o nosso foco e você deseja o mesmo?
 featured: true
 service_order: 4
 ---
-## Intelligent automation to reduce manual work
+### Intelligent automation to reduce manual work
 
 We build AI and automation solutions that help businesses reduce repetitive tasks, improve customer support and make processes more efficient.
 
 From chatbots to internal assistants and automated workflows, the focus is on solving real business problems.
 
-## What we can build
+### What we can build
 
 - AI chatbots
 - Customer support assistants
@@ -52,7 +52,7 @@ From chatbots to internal assistants and automated workflows, the focus is on so
 - Notification systems
 - Integrations with existing systems
 
-## Chatbots and virtual assistants
+### Chatbots and virtual assistants
 
 We can build assistants that help customers and teams find information, answer questions and perform tasks.
 
@@ -67,7 +67,7 @@ They can be integrated with:
 - Product catalogues
 - Support systems
 
-## Process automation
+### Process automation
 
 Many repetitive tasks can be automated.
 
@@ -84,7 +84,7 @@ Examples include:
 - Business workflows
 - Synchronizing information
 
-## AI connected to business data
+### AI connected to business data
 
 AI becomes more useful when it can work with information the business already has.
 
@@ -101,7 +101,7 @@ We can connect assistants and automations to:
 
 This allows users to access information through natural language instead of relying on manual searches or navigating multiple tools.
 
-## Integrations
+### Integrations
 
 You do not need to replace the systems you already use.
 
@@ -115,7 +115,7 @@ We can add AI and automation through:
 - Cloud services
 - Internal systems
 
-## Human-in-the-loop
+### Human-in-the-loop
 
 Not every process should be fully automated.
 
@@ -130,7 +130,7 @@ This is particularly important for processes involving:
 - Critical changes
 - Business decisions
 
-## Document automation
+### Document automation
 
 AI can also help process information contained in documents.
 
@@ -143,7 +143,7 @@ This can include:
 - Content organization
 - Automated routing
 
-## AI for customer support
+### AI for customer support
 
 AI assistants can help reduce repetitive questions and improve support availability.
 
@@ -157,7 +157,7 @@ We can build solutions for:
 - Human handoff
 - Request triage
 
-## From problem to automation
+### From problem to automation
 
 We can support the full process:
 
@@ -165,7 +165,7 @@ We can support the full process:
 
 The priority is to create automation that reduces manual work without adding unnecessary complexity.
 
-## Have a repetitive process that could be automated?
+### Have a repetitive process that could be automated?
 
 Tell us how it works today.
 

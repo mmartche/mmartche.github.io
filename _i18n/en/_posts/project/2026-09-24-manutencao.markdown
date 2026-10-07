@@ -31,13 +31,13 @@ description: These days most businesses, big and small are time poor. Some custo
 featured: true
 service_order: 8
 ---
-## Ongoing technical support and maintenance
+### Ongoing technical support and maintenance
 
 We help keep websites, e-commerce platforms and applications stable, secure and up to date.
 
 Our goal is to reduce problems, resolve issues quickly and make sure your digital services remain ready to evolve.
 
-## What we can help with
+### What we can help with
 
 - Website maintenance
 - Application maintenance
@@ -54,7 +54,7 @@ Our goal is to reduce problems, resolve issues quickly and make sure your digita
 - Configuration changes
 - Incident support
 
-## Preventive maintenance
+### Preventive maintenance
 
 Regular maintenance helps reduce the risk of unexpected problems.
 
@@ -70,7 +70,7 @@ We can support:
 - Performance
 - Production configuration
 
-## Bug fixing and technical support
+### Bug fixing and technical support
 
 When something stops working, we can investigate the issue and help find the right solution.
 
@@ -86,7 +86,7 @@ This can include:
 - Authentication problems
 - Configuration errors
 
-## Continuous improvements
+### Continuous improvements
 
 Support does not need to be limited to fixing problems.
 
@@ -101,7 +101,7 @@ We can also help with small improvements and ongoing evolution, such as:
 - Content changes
 - Analytics adjustments
 
-## Monitoring and backups
+### Monitoring and backups
 
 For production systems, we can help monitor important services and maintain suitable backup strategies.
 
@@ -116,7 +116,7 @@ This can include:
 - Error monitoring
 - Backup verification
 
-## Support options
+### Support options
 
 Support can be provided in different ways:
 
@@ -128,7 +128,7 @@ Support can be provided in different ways:
 
 The right model depends on the size, criticality and pace of the project.
 
-## Managed support
+### Managed support
 
 For businesses that do not want to manage the technical side directly, we can combine:
 
@@ -136,7 +136,7 @@ For businesses that do not want to manage the technical side directly, we can co
 
 This allows the technical management of the project to be centralized in a single service.
 
-## Need ongoing support?
+### Need ongoing support?
 
 Whether you need help with an existing system or maintenance after launching a new project, we can adapt the support model to your needs.
 

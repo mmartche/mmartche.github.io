@@ -16,6 +16,7 @@ layout: default
 
         </div>
         <div class="col-lg-4 col-lg-offset-1">
+            <h2>{{ page.description }}</h2>
             <div class="spacing"></div>
             <h4>{% t project.title %}</h4>
             <div class="hline"></div>
@@ -51,7 +52,7 @@ layout: default
         {% capture related_title %}
             {% t project.title_related %}
         {% endcapture %}
-        <h3>{{ related_title | strip | upcase }}</h3>
+        <h4>{{ related_title | strip | upcase }}</h4>
         <div class="recentitems portfolio">
             {% assign related_count = 0 %}
             {% for item in site.categories.projects %}
@@ -69,11 +70,13 @@ layout: default
                                 <img
                                     src="{{ '/assets/img/project/' | prepend: site.baseurl_root }}{{ item.thumb }}"
                                     alt="{{ item.title | escape }}"
+                                    loading="lazy"
+                                    decoding="async"
                                 >
                                 <div class="he-view">
                                     <div class="bg a0" data-animate="fadeIn">
 
-                                        <h3 class="a1" data-animate="fadeInDown">
+                                        <h5 class="a1" data-animate="fadeInDown">
                                             <a
                                                 href="{{ item.url | prepend: site.baseurl }}"
                                                 class="dmbutton a2"
@@ -81,7 +84,7 @@ layout: default
                                             >
                                                 {{ item.title }}
                                             </a>
-                                        </h3>
+                                        </h5>
 
                                     </div>
                                 </div>
