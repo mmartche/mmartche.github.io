@@ -53,29 +53,44 @@ layout: default
         {% endcapture %}
         <h3>{{ related_title | strip | upcase }}</h3>
         <div class="recentitems portfolio">
-            {% for project in site.categories['projects'] limit:10 %}
-                {% if project.language == page.language %}
-                    {% assign freestyle = false %}
-                    {% for t in project.tags %}
-                        {% for tag in page.tags %}
-                            {% if t == tag %}
-                                {% assign freestyle = true %}
-                                {% break %}
-                            {% else %}
-                            {% endif %}
-                        {% endfor %}
+            {% assign related_count = 0 %}
+            {% for item in site.categories.projects %}
+                {% if item.language == page.language and item.url != page.url %}
+                    {% assign is_related = false %}
+                    {% for item_tag in item.tags %}
+                        {% if page.tags contains item_tag %}
+                            {% assign is_related = true %}
+                            {% break %}
+                        {% endif %}
                     {% endfor %}
-                    {% if freestyle %}
-                    <div class="portfolio-item graphic-design">
-                        <div class="he-wrap tpl6">
-                        <img src="{{ "/assets/img/project/" | prepend: site.baseurl_root }}{{ project.thumb }}" alt="">
-                            <div class="he-view">
-                                <div class="bg a0" data-animate="fadeIn">
-                                    <h3 class="a1" data-animate="fadeInDown"><a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp">{{ project.title }}</a></h3>
+                    {% if is_related %}
+                        <div class="portfolio-item graphic-design">
+                            <div class="he-wrap tpl6">
+                                <img
+                                    src="{{ '/assets/img/project/' | prepend: site.baseurl_root }}{{ item.thumb }}"
+                                    alt="{{ item.title | escape }}"
+                                >
+                                <div class="he-view">
+                                    <div class="bg a0" data-animate="fadeIn">
+
+                                        <h3 class="a1" data-animate="fadeInDown">
+                                            <a
+                                                href="{{ item.url | prepend: site.baseurl }}"
+                                                class="dmbutton a2"
+                                                data-animate="fadeInUp"
+                                            >
+                                                {{ item.title }}
+                                            </a>
+                                        </h3>
+
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
+                        {% assign related_count = related_count | plus: 1 %}
+                        {% if related_count >= 10 %}
+                            {% break %}
+                        {% endif %}
                     {% endif %}
                 {% endif %}
             {% endfor %}

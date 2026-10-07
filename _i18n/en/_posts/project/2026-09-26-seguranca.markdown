@@ -22,6 +22,7 @@ carousel:
 client: Corp.
 website: http://artnux.com
 draft: on
+language: en
 priority: 0.6
 description: Segurança é o nosso foco e você deseja o mesmo?
 featured: true
@@ -29,16 +30,16 @@ service_order: 6
 ---
 ## Protect your websites, applications and digital infrastructure
 
-We help businesses improve the security of their websites, systems and online services through secure configuration, access control, monitoring and application hardening.
+We help businesses improve the security of their websites, systems and online services through secure configuration, access control, monitoring and hardening.
 
-Our focus is on reducing common risks and helping keep your digital environment reliable and protected.
+Our goal is to reduce common risks and help keep your digital environment secure, stable and reliable.
 
 ## What we can help with
 
 - Website security
 - Application security
 - Secure authentication
-- User roles and permissions
+- Roles and permissions
 - Server hardening
 - SSL/HTTPS configuration
 - Cloudflare configuration
@@ -47,7 +48,7 @@ Our focus is on reducing common risks and helping keep your digital environment 
 - Bot protection
 - Backup strategies
 - Security updates
-- Dependency review
+- Dependency reviews
 - Access control
 - Security monitoring
 
@@ -61,12 +62,12 @@ We can help implement:
 - Authorization
 - Role-based access control
 - Secure password handling
-- JWT and OAuth integration
+- JWT and OAuth
 - Secure API access
 - Input validation
 - Session protection
 - Secure cookies
-- Error handling
+- Secure error handling
 - Protection against common web vulnerabilities
 
 ## Infrastructure hardening
@@ -87,10 +88,10 @@ We can improve the security of:
 
 ## Web protection
 
-We can configure additional protection for public websites and applications through services such as:
+We can configure additional protection for public websites and applications using services and practices such as:
 
 - Cloudflare
-- Web Application Firewall rules
+- Web Application Firewall
 - DDoS protection
 - Rate limiting
 - Bot protection
@@ -100,11 +101,11 @@ We can configure additional protection for public websites and applications thro
 
 ## Security reviews
 
-We can review existing websites and applications to identify configuration problems and common security risks.
+We can review existing websites and applications to identify configuration issues and common security risks.
 
 This can include:
 
-- Dependency vulnerabilities
+- Vulnerable dependencies
 - Exposed services
 - Incorrect permissions
 - Authentication issues
@@ -116,9 +117,9 @@ This can include:
 
 ## Updates and maintenance
 
-Many security problems happen because systems are not maintained.
+Many security issues happen simply because systems are not maintained.
 
-We can help keep your environment updated through:
+We can help with:
 
 - Dependency updates
 - Security patches
@@ -128,16 +129,16 @@ We can help keep your environment updated through:
 - Backup verification
 - Monitoring
 
-## Security as part of the development process
+## Security throughout development
 
-Security does not need to be a separate step at the end.
+Security does not need to be treated as a final step.
 
-We can include security practices throughout the project lifecycle:
+We can include security practices throughout the full lifecycle:
 
 **Design → Development → Testing → Deployment → Monitoring → Maintenance**
 
-## Need to improve the security of your project?
+## Need to improve your project's security?
 
-Whether you are launching a new system or reviewing an existing one, we can help identify risks and improve your security configuration.
+Whether you are launching a new system or reviewing an existing one, we can help identify risks and strengthen your security configuration.
 
 **Let’s protect your digital environment.**

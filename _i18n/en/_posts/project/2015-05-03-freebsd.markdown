@@ -23,6 +23,7 @@ carousel:
 - freebsd03.jpg
 - freebsd04.png
 client: Corp.
+language: en
 website: http://www.freebsd.org
 priority: 0.6
 description: FreeBSD is an operating system for a variety of platforms which focuses on features, speed, and stability.

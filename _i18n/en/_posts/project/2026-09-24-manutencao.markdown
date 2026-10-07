@@ -25,17 +25,17 @@ carousel:
 client: Corp.
 website: http://martche.ca
 draft: oloco meu
+language: en
 priority: 0.6
 description: These days most businesses, big and small are time poor. Some customers prefer to maintain their own web sites, whilst others prefer not to. Either way our DSO maintenance and website support services can provide your business with ongoing, reliable and affordable website solutions, delivered in a timely and professional manner.
 featured: true
 service_order: 8
 ---
+## Ongoing technical support and maintenance
 
-## Keep your website and systems running smoothly
+We help keep websites, e-commerce platforms and applications stable, secure and up to date.
 
-We provide ongoing technical support and maintenance for websites, e-commerce platforms and custom applications.
-
-Our goal is to help prevent problems, fix issues quickly and keep your digital services updated, secure and reliable.
+Our goal is to reduce problems, resolve issues quickly and make sure your digital services remain ready to evolve.
 
 ## What we can help with
 
@@ -56,22 +56,23 @@ Our goal is to help prevent problems, fix issues quickly and keep your digital s
 
 ## Preventive maintenance
 
-Regular maintenance reduces the risk of unexpected problems.
+Regular maintenance helps reduce the risk of unexpected problems.
 
-We can help with:
+We can support:
 
 - Software updates
 - Dependency reviews
 - Security patches
 - Database maintenance
 - Backup verification
-- SSL certificate checks
-- Monitoring configuration
-- Performance reviews
+- SSL certificates
+- Monitoring
+- Performance
+- Production configuration
 
 ## Bug fixing and technical support
 
-When something stops working, we can investigate and help resolve the issue.
+When something stops working, we can investigate the issue and help find the right solution.
 
 This can include:
 
@@ -85,28 +86,28 @@ This can include:
 - Authentication problems
 - Configuration errors
 
-## Small improvements
+## Continuous improvements
 
 Support does not need to be limited to fixing problems.
 
-We can also help with continuous improvements such as:
+We can also help with small improvements and ongoing evolution, such as:
 
-- New fields
 - New pages
+- New fields
 - Small features
 - UI improvements
-- Performance changes
+- Performance improvements
 - Integration updates
 - Content changes
 - Analytics adjustments
 
 ## Monitoring and backups
 
-For production systems, we can help monitor important services and maintain backup strategies.
+For production systems, we can help monitor important services and maintain suitable backup strategies.
 
 This can include:
 
-- Website uptime
+- Uptime
 - Application health
 - Server resources
 - Database availability
@@ -115,28 +116,28 @@ This can include:
 - Error monitoring
 - Backup verification
 
-## Flexible support
+## Support options
 
-Support can be provided as:
+Support can be provided in different ways:
 
 - One-time technical assistance
 - Hourly support
 - Monthly maintenance
-- Managed support plans
-- Ongoing development support
+- Support plans
+- Ongoing development
 
-The right model depends on the size and importance of your project.
+The right model depends on the size, criticality and pace of the project.
 
-## Managed maintenance
+## Managed support
 
-For businesses that do not want to manage the technical side themselves, we can combine:
+For businesses that do not want to manage the technical side directly, we can combine:
 
 **Hosting + Monitoring + Backups + Security Updates + Maintenance + Technical Support**
 
-This creates a complete managed service for your website or application.
+This allows the technical management of the project to be centralized in a single service.
 
-## Need ongoing technical support?
+## Need ongoing support?
 
-Whether you need help with an existing project or want continuous maintenance after launch, we can provide support according to your needs.
+Whether you need help with an existing system or maintenance after launching a new project, we can adapt the support model to your needs.
 
-**Let’s keep your digital services working properly.**
+**Let’s keep your digital services running properly.**

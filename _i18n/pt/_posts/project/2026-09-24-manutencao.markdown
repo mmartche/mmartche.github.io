@@ -24,40 +24,119 @@ carousel:
 client: Corp.
 website: http://martche.ca
 draft: oloco meu
+language: pt
 priority: 0.6
 description: These days most businesses, big and small are time poor. Some customers prefer to maintain their own web sites, whilst others prefer not to. Either way our DSO maintenance and website support services can provide your business with ongoing, reliable and affordable website solutions, delivered in a timely and professional manner.
 featured: true
 service_order: 8
 ---
-####Maintenance Support
-These days most businesses, big and small are time poor. Some customers prefer to maintain their own web sites, whilst others prefer not to. Either way our DSO maintenance and website support services can provide your business with ongoing, reliable and affordable website solutions, delivered in a timely and professional manner.
+## Suporte técnico e manutenção contínua
 
-Our maintenance support packages start from just $10 per month and can used to simply update and add content to a news blog, or for adding text and updated changes to your web site. We prefer to tailor make a support maintenance package for you to ensure we cover all areas of your requirements.
+Ajudamos a manter websites, plataformas de e-commerce e aplicações a funcionar de forma estável, segura e atualizada.
 
-Whether you’re a small, home-based business or a large scale, corporate or government organisation, we can work with you and agree on a tailored made maintenance support package that’s just right for you.
+O objetivo é reduzir problemas, resolver falhas rapidamente e garantir que os seus serviços digitais continuam preparados para evoluir.
 
-Before selecting a plan, we suggest you take a look at your web site and forecast how often you will need to make changes and or add new pages on average per month and or need support and help.
+## Em que podemos ajudar
 
-DSO Budget Maintenance Plan – $15 per month + gst – Payable annually upfront.
+- Manutenção de websites
+- Manutenção de aplicações
+- Correção de bugs
+- Atualizações de segurança
+- Dependency updates
+- Gestão de backups
+- Monitorização
+- Melhorias de performance
+- Pequenas funcionalidades
+- Atualização de conteúdos
+- Manutenção de servidores
+- Suporte técnico
+- Alterações de configuração
+- Apoio em incidentes
 
-Giving you piece of mind that your website is being regularly updated, checked for problems, and small issues are covered; without a hitch and amortised over the year.
+## Manutenção preventiva
 
-* 2 hours website maintenance per month to be applied to simple content and functionality changes, advice, and general support. Does NOT include new graphic design, new pages or programming.
+A manutenção regular ajuda a evitar problemas inesperados.
 
-* Guaranteed 8 business hours response time on all change and support requests provided as part of this plan.
+Podemos acompanhar:
 
-DSO Business Maintenance Plan – $55 per month + gst – Payable annually upfront.
+- Atualizações de software
+- Revisão de dependências
+- Security patches
+- Manutenção de databases
+- Verificação de backups
+- Certificados SSL
+- Monitorização
+- Performance
+- Configurações de produção
 
-When pro-actively engaging with your customers is paramount for your business, this plan will ensure that you are communicating outwardly each and every month and ensuring your web site is updated and maintained with urgency.
+## Correção de problemas e suporte técnico
 
-* 5 hours website maintenance per month to be applied to simple content and functionality changes, advice, and general support. Includes up to one new page with matching web site graphic design and programming per month.
+Quando algo deixa de funcionar, podemos analisar o problema e ajudar a encontrar a solução.
 
-* Guaranteed 8 business hours response time on all change and support requests provided as part of this plan.
+Isto pode incluir:
 
-DSO Lite Maintenance Plan – $25 per month + gst – Payable annually upfront.
+- Problemas de frontend
+- Erros de backend
+- Falhas em APIs
+- Problemas de database
+- Erros de deployment
+- Problemas de hosting
+- Falhas em integrações
+- Problemas de autenticação
+- Erros de configuração
 
-Your business evolves and changes as the market changes and customer demands change. The Lite plan ensures that your website evolves with your business, and continues to present you in an up-to-date and professional manner.
+## Melhorias contínuas
 
-* 3 hours website maintenance per month to be applied to simple content and functionality changes, advice, and general support. Does NOT include new graphic design, new pages or programming.
+O suporte não precisa de servir apenas para corrigir problemas.
 
-* Guaranteed 8 business hours response time on all change and support requests provided as part of this plan.
+Também podemos ajudar com pequenas melhorias e evolução contínua, como:
+
+- Novas páginas
+- Novos campos
+- Pequenas funcionalidades
+- Melhorias de interface
+- Melhorias de performance
+- Atualizações de integrações
+- Alterações de conteúdos
+- Ajustes de analytics
+
+## Monitorização e backups
+
+Para sistemas em produção, podemos acompanhar os serviços mais importantes e manter estratégias de backup adequadas.
+
+Isto pode incluir:
+
+- Uptime
+- Estado da aplicação
+- Recursos do servidor
+- Disponibilidade da database
+- Armazenamento
+- Certificados SSL
+- Error monitoring
+- Verificação de backups
+
+## Formas de suporte
+
+O suporte pode ser prestado de diferentes formas:
+
+- Intervenções pontuais
+- Suporte por hora
+- Manutenção mensal
+- Planos de suporte
+- Desenvolvimento contínuo
+
+A melhor opção depende da dimensão, criticidade e ritmo de evolução do projeto.
+
+## Managed support
+
+Para empresas que não querem gerir diretamente a parte técnica, podemos combinar:
+
+**Hosting + Monitorização + Backups + Security Updates + Manutenção + Suporte Técnico**
+
+Isto permite centralizar a gestão técnica do projeto num único serviço.
+
+## Precisa de suporte contínuo?
+
+Quer precise de ajuda com um sistema existente ou de manutenção após o lançamento de um novo projeto, podemos adaptar o suporte às suas necessidades.
+
+**Vamos manter os seus serviços digitais a funcionar corretamente.**

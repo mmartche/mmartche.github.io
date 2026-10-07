@@ -18,6 +18,7 @@ thumb: project_openbsd.jpg
 img: openbsd01.jpg
 carousel:
 - openbsd01.jpg
+language: en
 client: Corp.
 website: http://www.openbsd.org
 priority: 0.6

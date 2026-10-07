@@ -20,6 +20,7 @@ carousel:
 - linux01.jpg
 - linux02.jpg
 client: Corp.
+language: pt
 website: 
 - http://www.debian.org
 - http://www.ubuntu.org

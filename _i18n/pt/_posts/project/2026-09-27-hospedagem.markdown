@@ -23,6 +23,7 @@ carousel:
 client: Corp.
 website: http://www.org
 include: prices-host
+language: pt
 priority: 0.6
 description: Deseja hospedar seus sites por um preço incrível, mas não pode abrir mão da qualidade?  Com certeza alguns de nossos planos de hospedagem de sites, se encaixam perfeitamente no que você está procurando! Hospede seu site em nossos servidores, e use o que há de melhor  em performance, qualidade e segurança garantida.
 featured: true

@@ -22,6 +22,7 @@ carousel:
 client: Corp.
 website: http://artnux.com
 draft: on
+language: en
 priority: 0.6
 description: Segurança é o nosso foco e você deseja o mesmo?
 featured: true

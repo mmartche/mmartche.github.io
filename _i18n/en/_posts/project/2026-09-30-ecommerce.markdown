@@ -28,7 +28,7 @@ relacionado:
 - devops
 include: prices-ecom
 features: ecommerce
-language: pt
+language: en
 priority: 0.6
 description: Estes dias mais e mais varejistas estão percebendo que, a fim de sobreviver no futuro, é imperativo ter uma loja online. 
 featured: true

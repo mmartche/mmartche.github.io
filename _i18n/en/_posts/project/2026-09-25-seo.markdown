@@ -22,74 +22,149 @@ carousel:
 - seo02.jpg
 client: Corp.
 website: http://www.org
+language: en
 priority: 0.6
 description: Se você não estiver ciente, a maioria dos usuários dos sites de busca, a maioria esmagadoramente clicam nos resultados orgânicos (resultados livres) no Google e Bing, antes que eles cliquem em um patrocinador pago anúncio, por uma margem de 94 por cento a 6 por cento.
 featured: true
 service_order: 7
 ---
-## Improve visibility, performance and online growth
+## More visibility, better performance and digital growth
 
 We help businesses improve how their websites are discovered, understood and used.
 
-Our work combines technical SEO, performance, analytics and digital optimization to help create a stronger online presence.
+We combine technical SEO, performance, analytics, content optimization and acquisition strategies to increase digital visibility and attract more relevant users to the business.
 
-## What we can help with
+## SEO & SEM
 
-- Technical SEO
-- On-page SEO
-- Website performance
-- Google Search Console
-- Google Analytics
-- Sitemap configuration
-- Metadata optimization
-- Structured data
-- Core Web Vitals
-- Mobile optimization
-- Accessibility improvements
-- Conversion tracking
-- Local presence optimization
-- Content structure
-- Internal linking
+Search engines remain one of the main ways people discover websites, products and services.
 
-## Technical SEO
+A digital strategy can combine two main approaches:
 
-A website should be easy for search engines to understand.
+- **SEO**, to improve visibility in organic search results;
+- **SEM/PPC**, to reach users through paid campaigns.
 
-We can review and improve:
+SEO focuses on building sustainable visibility over time through technical, structural and content improvements.
+
+Paid campaigns can be used to generate immediate visibility, test markets, promote specific products or complement an organic strategy.
+
+The goal should not be only to increase traffic, but to attract people who are genuinely looking for the products or services your business offers.
+
+## How search engines analyze a website
+
+Search engines use complex algorithms to determine which pages should appear for each search query.
+
+Although these algorithms are constantly evolving, several elements can influence how a website is understood and indexed.
+
+We can analyze and optimize elements such as:
 
 - Page titles
 - Meta descriptions
-- Canonical URLs
-- XML sitemaps
-- robots.txt
+- Page content
+- Relevant keywords
 - URL structure
-- Structured data
-- Indexing issues
+- Headings
 - Internal linking
-- Duplicate content
-- Broken links
+- Site structure and number of pages
+- External links
+- Structured data
+- Performance
+- Mobile experience
+- Accessibility
+- Indexability
+
+There is no single formula that guarantees a specific search position.
+
+SEO is about continuously improving the technical and editorial quality of a website and making it easier for both users and search engines to understand.
+
+## Keyword research
+
+A strong SEO strategy starts by understanding what potential customers are actually searching for.
+
+We can help with:
+
+- Keyword research
+- Search intent analysis
+- Opportunity identification
+- Keyword mapping
+- Category structure
+- Content planning
+- Optimization of existing pages
+- Identification of new topics and pages
+
+Instead of trying to rank for as many terms as possible, we focus on searches that are genuinely relevant to the business.
+
+## Manual optimization
+
+We do not treat SEO as a simple automated website submission process.
+
+Every website has different goals, content, competitors and technical challenges.
+
+That is why optimization may include a manual review of:
+
+- Priority pages
+- Content
+- Metadata
+- URLs
+- Structure
+- Internal linking
+- Keywords
+- Performance
+- Technical issues
+- Conversion
+
+Tools can help identify opportunities, but decisions should always be made according to the real context of the project.
+
+## Web Development and SEO Quality Assurance
+
+SEO works best when it is considered during website development, not only after the site is already live.
+
+That is why we can integrate SEO best practices directly into the development process.
+
+This includes:
+
+- Semantic HTML
+- Correct heading hierarchy
+- Clear URLs
+- Metadata
+- Structured data
+- Sitemaps
+- robots.txt
+- Mobile-first development
+- Accessibility
+- Core Web Vitals
+- Performance
+- Internal linking
+- Indexability
+
+We also avoid practices that may damage the website in the medium or long term.
+
+We do not use cloaking or other techniques designed to show different content to search engines and users.
+
+The goal is to improve the search experience and help search engines find and understand relevant content.
 
 ## Performance
 
-Website speed directly affects user experience and can also impact search visibility.
+Technical performance directly affects user experience and can also influence a website’s ability to compete in search results.
 
-We can improve:
+We can work on:
 
 - Page load speed
 - Core Web Vitals
 - Image delivery
-- JavaScript loading
-- CSS delivery
+- JavaScript
+- CSS
 - Caching
 - Compression
 - Server response time
 - Mobile performance
+- Static assets
+- CDN
 
-## Analytics and tracking
+## Analytics, monitoring and reporting
 
-Good decisions depend on good data.
+SEO should be measured with data.
 
-We can help configure and improve:
+We can configure and monitor:
 
 - Google Analytics
 - Google Search Console
@@ -97,43 +172,99 @@ We can help configure and improve:
 - Campaign tracking
 - Event tracking
 - E-commerce tracking
-- Performance reports
+- Organic traffic
+- Relevant keywords
+- Landing pages
+- Conversions
+- User behavior
 
-## Content and structure
+We can also prepare reports to track progress and identify new opportunities.
 
-We can also help organize website content so users and search engines can find important information more easily.
+Search engines frequently change their algorithms, so no serious provider can guarantee a specific or permanent ranking.
+
+Our focus is to apply best practices, monitor results and continuously adjust the strategy.
+
+## SEO for E-commerce
+
+In e-commerce, SEO can directly affect how easily products and categories are discovered.
+
+The goal is to help potential customers find the right products through search engines and make the buying journey more effective.
+
+We can work on:
+
+- Keyword research
+- Category structure
+- Product pages
+- Product metadata
+- URLs
+- Structured data
+- Internal linking
+- Product discoverability
+- Filters
+- Canonical URLs
+- Duplicate content
+- Performance
+- Mobile experience
+
+## SEO, PPC and E-commerce growth
+
+An e-commerce growth strategy can combine different channels and techniques.
 
 This can include:
 
-- Page structure
-- Heading hierarchy
-- Service pages
+- **SEO — Search Engine Optimization**
+- **PPC — Pay Per Click**
+- **Social Media**
+- **Email Marketing**
+- **Conversion Rate Optimization**
+- **E-commerce UX**
+- **Analytics**
+
+These areas can work together to increase visibility, better understand customer behavior and improve store conversion.
+
+## SEO campaigns
+
+Depending on the project, an SEO strategy may include:
+
+- Keyword research
+- Analytics audit
+- Technical audit
+- SEO analysis
+- Improvement recommendations
+- Content optimization
+- Technical optimization
 - Internal linking
-- Content organization
-- Search intent alignment
-- Multilingual SEO
+- Natural link building
+- Analytics
+- Reporting
+- Continuous monitoring
 
-## Local and digital presence
+## Local SEO and digital presence
 
-For businesses that depend on local or online visibility, we can help improve the way the brand appears across digital channels.
+For businesses that depend on customers in a specific region, we can also improve local visibility.
 
 This can include:
 
 - Google Business Profile
-- Social profile optimization
-- Website and social integration
-- Contact information consistency
+- Consistent business information
 - Local landing pages
-- Review integration
+- Reviews
+- Maps integration
+- Local structured data
+- Social profiles
 
 ## Continuous improvement
 
-SEO and digital growth are ongoing processes.
+SEO is not a one-time task.
 
-We can combine audits, analytics and performance monitoring to identify opportunities and continuously improve the website.
+Websites change, competitors change, users change and search engines continue to evolve.
 
-## Want to improve your online visibility?
+That is why we can continuously work through:
 
-We can review your current website and identify practical improvements for performance, search visibility and user experience.
+**Analysis → Optimization → Monitoring → Results → Further improvements**
 
-**Let’s improve how people find and use your business online.**
+## Want to improve your website visibility?
+
+We can review your website and identify opportunities across SEO, performance, content, analytics and conversion.
+
+**Let’s help your customers find your business more easily.**

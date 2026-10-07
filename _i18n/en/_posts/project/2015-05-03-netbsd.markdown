@@ -18,6 +18,7 @@ thumb: project_netbsd.jpg
 img: netbsd01.png
 carousel:
 - netbsd01.png
+language: en
 client: Corp.
 website: http://www.netbsd.org
 priority: 0.6

@@ -22,6 +22,7 @@ carousel:
 - cluster03.jpg
 - cluster04.jpg
 client: NASA.
+language: pt
 website: 
 - https://en.wikipedia.org/wiki/Computer_cluster
 - https://en.wikipedia.org/wiki/Red_Hat_cluster_suite

@@ -20,52 +20,127 @@ carousel:
 - email_marketing01.jpg
 - email_marketing02.jpg
 - email_marketing03.jpg
+language: pt
 client: Corp.
 website: http://www.org
 priority: 0.6
 description: In the right hands, email marketing is an incredibly powerful tool. After all, what else gets your message straight to a targeted audience that has opted to receive it?
 ---
-###Email Marketing
+## Transforme o email num canal consistente de comunicação
 
-In the right hands, email marketing is an incredibly powerful tool. After all, what else gets your message straight to a targeted audience that has opted to receive it?
-But how can you ensure that your email will be read – or even opened?
-There are a few key ingredients – design and content being the most important. But one element that is overlooked is the timing of the email campaign.
-Unfortunately, there are no hard and fast rules that say what day, time and Show often is optimal, but there have been some studies that show when emails will get higher open rates, and what makes people unsubscribe.
+Nas mãos certas, o email marketing pode ser um canal extremamente poderoso de comunicação e vendas.
 
-####Timing
-Here’s a brief snapshot of the best times, according to MailChimp – one of the largest email platforms (its users send about 50 million emails a day):
-- During the week is generally better than weekends.
-- Most emails are sent Tuesdays and Thursday
-- Afternoons are better than mornings
-There are variations depending on the industry – travel works best in the afternoon, when workers are dreaming of their next holiday, while business-related emails are best sent in the mornings, when the readers are fresh.
-The best way to test what works for your business is to do some A/B testing. Split your list randomly in half and send the same email to each segment at different times – say Tuesday 10am and 3pm. Then analyse the open and click through rates. Do this for a few campaigns and see if you can spot a trend.
+Permite que a sua empresa fale diretamente com uma audiência que escolheu receber as suas mensagens, sendo útil para comunicação com clientes, promoção de produtos, retenção, lead nurturing e notificações transacionais.
 
-####Frequency
-Again, there is no exact science that proves how often you should send you email campaigns but there are some handy rules of thumb. On the one hand, you don’t want to spam your valuable list and cause them to unsubscribe, but on the other, you want them to have your brand top-of mind.
+Ajudamos empresas a criar, configurar e automatizar comunicações por email ligadas aos seus websites, plataformas de e-commerce e sistemas internos.
 
-Here are some things to consider:
+## Em que podemos ajudar
 
-####Quarterly Emails
+- Configuração de newsletters
+- Campanhas de email marketing
+- Marketing automation
+- Emails transacionais
+- Welcome sequences
+- Abandoned cart emails
+- Follow-ups automáticos
+- Emails de formulários
+- Lead nurturing
+- Segmentação de contactos
+- Templates de email
+- Campaign tracking
+- Integração com e-commerce
+- Integração com CRM
+- Configuração de domínio e remetente
+- A/B testing
+- Agendamento de campanhas
+- Análise de performance
 
-These work best if you don’t really have a lot to say but are not the best option. For starters, if the recipient can’t remember who you are there’s a good chance they will hit the “unsubscribe” button. And there is also a high probability that your email list won’t be current, resulting a lot of “bounced” emails.
+## Design, conteúdo e timing
 
-####Monthly Emails
+Conseguir que um email seja entregue é apenas o primeiro passo.
 
-These are great if your list subscribers have signed up for a newsletter. The goal is to set yourself up as a subject matter expert and let the reader know about what’s new with you and your industry. Monthly emails should include blog posts, upcoming events, news items and hints and tips.
+Para que uma campanha tenha bons resultados, vários elementos precisam de funcionar em conjunto:
 
-If, however, your goal is to sell a product or service, you might need to send emails more often than once a month.
-Bi-Monthly Emails
+- Subject line
+- Conteúdo
+- Design
+- Call to action
+- Segmentação da audiência
+- Timing
+- Frequência
+- Deliverability
 
-This strikes a nice balance between monthly and weekly frequency and is easy to manage. Most businesses should be able to come up with great content each fortnight, but if you can’t then don’t choose this option.
+Não existe um dia ou horário universal que garanta melhores resultados.
 
-####Weekly Emails
+Audiências diferentes comportam-se de forma diferente dependendo da localização, setor, hábitos e do tipo de mensagem enviada.
 
-This is the perfect frequency if your goal is to sell a product or service. But make sure you send on the same day and at the same time so your subscribers will expect the contact.
+Em vez de seguir regras genéricas, preferimos testar e medir o que funciona melhor para cada audiência.
 
-####Daily Emails
+## Timing
 
-These can be great, but only if you have something to say! And it takes a lot of time and effort to churn out great content each and every day. Agreat example is Daily Writing Tips which does exactly what it says, that is sends an email every day (even weekends) with tips to make its subscribers into better writers.
+O melhor horário para enviar um email depende de quem o recebe e do motivo pelo qual está a receber essa mensagem.
 
-Even if you don’t run daily emails as a matter of course, they can be great if you want to do week of an e-course or a “deal-a-day”.
+Uma audiência B2B pode comportar-se de forma diferente de clientes de e-commerce, enquanto uma campanha de viagens pode ter padrões diferentes de uma newsletter profissional ou de um email transacional.
 
-As you can see, email frequency can depend on what your objectives are, and it is important to test them out. Why not ask you subscribers what they prefer?
+Estudos históricos de email marketing sugeriram muitas vezes que os dias úteis tendem a ter melhor desempenho do que os fins de semana e que determinados períodos do dia podem gerar melhores taxas de abertura.
+
+Estes padrões podem servir como ponto de partida, mas não devem ser tratados como regras fixas.
+
+A abordagem mais fiável é testar.
+
+Por exemplo, uma audiência pode ser dividida em diferentes segmentos e a mesma campanha pode ser enviada em horários diferentes.
+
+Depois, os resultados podem ser comparados através de métricas como:
+
+- Open rate
+- Click-through rate
+- Conversões
+- Receita
+- Unsubscribe rate
+
+Após várias campanhas, torna-se possível identificar padrões específicos da sua própria audiência.
+
+## A/B testing
+
+O A/B testing permite comparar diferentes versões de uma campanha.
+
+Os testes podem incluir:
+
+- Horário de envio
+- Subject lines
+- Conteúdo do email
+- Calls to action
+- Imagens
+- Ofertas
+- Landing pages
+
+Por exemplo, uma parte da audiência pode receber a campanha de manhã e outra parte pode receber exatamente a mesma mensagem mais tarde.
+
+Em vez de tentar adivinhar qual opção funciona melhor, os dados da campanha podem ajudar a orientar decisões futuras.
+
+## Frequência
+
+Não existe uma fórmula exata que determine com que frequência uma empresa deve enviar campanhas de email.
+
+Enviar mensagens com demasiada frequência pode fazer com que os subscritores percam o interesse ou cancelem a subscrição.
+
+Por outro lado, enviar muito pouco pode fazer com que as pessoas se esqueçam do motivo pelo qual subscreveram ou até da própria marca.
+
+A frequência adequada depende de:
+
+- Expectativas da audiência
+- Tipo de negócio
+- Conteúdo disponível
+- Objetivos da campanha
+- Customer lifecycle
+- Produto ou serviço promovido
+
+O mais importante é oferecer comunicação útil, em vez de enviar mensagens apenas para cumprir um calendário.
+
+## Emails trimestrais
+
+Campanhas trimestrais podem funcionar bem para empresas que têm apenas comunicações ou novidades ocasionais.
+
+No entanto, períodos muito longos entre mensagens podem criar alguns desafios.
+
+Os subscritores podem deixar de se lembrar do motivo pelo qual entraram na mailing list, os contactos podem ficar desatualizados e o
