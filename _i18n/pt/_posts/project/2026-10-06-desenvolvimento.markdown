@@ -57,27 +57,11 @@ Se você está apenas começando seu primeiro site, vindo de outro servidor de h
 
 Se você já tem um site ou e-mail e são importantes para o seu negócio, você vai dormir melhor sabendo que você selecionou um serviço web com qualidade internacional de hospedagem. Temos vindo a acolher ambos os sites nacionais e internacionais na web para mais de vinte anos. Estamos bem conhecidos pela nosso apoio personalizado e experiência, combinados.
 
-#### Temos domínio total sobre as linguagens:
+### Da idea ate producao
 
-- HTML 5
+Te ajudamos em todo o processo de desenvolvimento:
 
-- CSS / SaSS
-
-- Javascript - AngularJS / React / AngularJS / Node.js / JQuery / Mithil
-
-- AJAX
-
-- PHP/SQL
-
-- CMS - Wordpress / Jekyll
-
-- Objective-C / PhoneGap
-
-- Ruby / Rails 
-
-- Rethink / Redis / Firebase / MongoDB
-
-- Entre outras plataformas, 
+**Planeamento → Design → Desenvolvimento → Integracoes → Testes → Entrega → Manutencao**
 
 #### Nosso Propósito
 Aplicações Web e Mobile.

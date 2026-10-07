@@ -38,22 +38,11 @@ layout: default
         </div>
     </div>
     {% if page.include == "prices-host" %}
-        {% if page.language == "pt" %}
-            {% include prices-host.html title="Nossos Planos" %}
-        {% endif %}
-        {% if page.language == "en" %}
-            {% include prices-host-en.html title="Our Plans" %}
-        {% endif %}
+        {% tf host-prices.html %}
     {% endif %}
     {% if page.include == "prices-ecom" %}
-        {% if page.language == "pt" %}
-            {% include prices-ecom.html title="Nossos Planos" %}
-            {% include features-ecom.html title="Todos os recursos" %}
-        {% endif %}
-        {% if page.language == "en" %}
-            {% include prices-ecom.html title="Our Plans" %}
-            {% include features-ecom.html title="All Features" %}
-        {% endif %}
+        {% tf ecommerce-prices.html %}
+        {% tf ecommerce-features.html %}
     {% endif %}
 </div>
 

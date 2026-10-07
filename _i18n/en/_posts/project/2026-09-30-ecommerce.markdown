@@ -38,14 +38,14 @@ service_order: 2
 
 We build e-commerce solutions designed around your products, customers and business processes.
 
-From a simple online store to a custom sales platform, we can help you create a reliable buying experience and connect it with the tools your business already uses.
+From a simple online store to a fully custom sales platform, we help create a reliable and intuitive buying experience that connects with the tools your business already uses.
 
 ## What we can build
 
 - Complete online stores
 - Product catalogues
 - Shopping carts
-- Checkout flows
+- Custom checkout flows
 - Customer accounts
 - Order management
 - Inventory management
@@ -58,7 +58,7 @@ From a simple online store to a custom sales platform, we can help you create a 
 
 ## Payments
 
-We can integrate your store with payment providers according to your market and business needs.
+We can integrate your store with different payment methods and providers according to your market and business requirements.
 
 Examples include:
 
@@ -69,9 +69,11 @@ Examples include:
 - Credit and debit cards
 - Other payment gateways and local providers
 
+We can also adapt the payment flow to specific business requirements.
+
 ## Shipping and delivery
 
-We can connect your e-commerce with shipping and delivery services to automate calculations and order handling.
+We can connect your store with carriers and delivery services to automate shipping costs, rules and order handling.
 
 This can include:
 
@@ -85,25 +87,27 @@ This can include:
 
 ## Integrations
 
-Your store does not need to operate in isolation.
+Your online store should not operate in isolation.
 
 We can integrate it with:
 
 - ERP systems
 - CRM platforms
 - Inventory systems
-- Accounting tools
+- Accounting software
 - Email marketing platforms
 - Analytics
 - Marketplaces
 - External APIs
 - Internal business systems
 
+The goal is to reduce manual work and keep information synchronized across your digital ecosystem.
+
 ## Custom e-commerce
 
-Sometimes a standard platform is not enough.
+Not every business fits into a standard e-commerce platform.
 
-For more specific business models, we can build custom e-commerce functionality such as:
+For more specific requirements, we can build custom functionality such as:
 
 - Product configurators
 - Complex pricing rules
@@ -114,28 +118,45 @@ For more specific business models, we can build custom e-commerce functionality 
 - QR Code ordering
 - Booking combined with payments
 - Automated quotations
+- Business-specific purchasing workflows
 
 ## Performance, SEO and mobile
 
-Every store should be fast and easy to use, especially on mobile devices.
+An online store should be fast, easy to use and work properly on every device.
 
 We build with attention to:
 
 - Mobile experience
 - Page speed
-- Search engine optimization
+- Technical SEO
 - Secure checkout
 - Accessibility
 - Conversion flow
 - Product discoverability
+- Overall application performance
 
-## From launch to ongoing support
+## Security and reliability
+
+E-commerce involves customer data, payments and business-critical operations.
+
+That is why we pay attention to:
+
+- HTTPS
+- Secure authentication
+- Access control
+- API protection
+- Security updates
+- Backups
+- Monitoring
+- Secure development practices
+
+## From planning to ongoing support
 
 We can support the entire lifecycle of your online store:
 
 **Planning → Development → Payments → Integrations → Testing → Launch → Maintenance**
 
-After launch, we can also provide hosting, monitoring, updates and ongoing technical support.
+After launch, we can also provide hosting, monitoring, security updates and ongoing technical support.
 
 ## Ready to sell online?
 

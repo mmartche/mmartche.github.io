@@ -32,63 +32,132 @@ description: Estes dias mais e mais varejistas estão percebendo que, a fim de s
 featured: true
 service_order: 2
 ---
-Estes dias mais e mais varejistas estão percebendo que, a fim de sobreviver no futuro, é imperativo ter uma loja online. 
+## Lojas online pensadas para vender
 
-Movendo-se on-line é uma parte essencial do funil de vendas, mas também aumenta a exposição da marca e permite que mesmo o menor operador tenha as decisões, mas com tantas opções lá fora - como é que um pequeno varejista pode decidir o que vai funcionar melhor para eles, antes de investindo milhares de dólares?
+Criamos soluções de e-commerce adaptadas aos seus produtos, clientes e processos de negócio.
 
-####Em primeiro lugar
+Desde uma loja online simples até uma plataforma de vendas totalmente personalizada, ajudamos a criar uma experiência de compra fiável, intuitiva e integrada com as ferramentas que a sua empresa já utiliza.
 
-Vale a pena conhecer as noções básicas, como as várias opções pré-empacotados disponíveis
-(Magento, PrestaShop, carrinho Zen, osCommerce, VirtueMart, OpenCart e muitos outros motores de e-commerce). 
+## O que podemos desenvolver
 
-Você pode olhar para uma solução de e-commerce completo, ou simplesmente adicionar um carrinho de compras para o seu WordPress (ou outro sistema de gerenciamento de conteúdo), web site ou mesmo o seu site página do facebook existente.
+- Lojas online completas
+- Catálogos de produtos
+- Carrinho de compras
+- Checkout personalizado
+- Contas de cliente
+- Gestão de encomendas
+- Gestão de stock
+- Variantes de produto
+- Sistemas de descontos e cupões
+- Produtos por subscrição
+- Portais de vendas B2B
+- Sistemas de pedidos de orçamento
+- Integrações com marketplaces
 
-A maioria oferece um grau de personalização para atender você marca e às suas necessidades - não tanto quanto um site feito por encomenda, mas o suficiente para que você não necessariamente tem que pagar por um site que foi desenvolvido a partir do zero.
+## Pagamentos
 
-Confira outros sites em seu nicho para ter uma idéia do que funciona eo que não funciona. Muitas vezes, um pouco de pesquisa também para descobrir a plataforma que eles estão usando - alguns vão ser tão óbvio, como o nome de um fornecedor de software de e-commerce listado na página, outros podem exigir mais investigação.
+Podemos integrar a sua loja com diferentes métodos e fornecedores de pagamento, de acordo com o mercado onde opera e as necessidades do seu negócio.
 
-Além disso, enquanto nos sites, pense sobre qual deles você iria visitar como um cliente e que você fosse orientado de forma clara, e por quê.
+Alguns exemplos:
 
-#### Próximo passo
+- Stripe
+- PayPal
+- MB WAY
+- Multibanco
+- Cartões de crédito e débito
+- Outros payment gateways e fornecedores locais
 
-É vital para encontrar uma URL (endereço web), que reflete o seu negócio e está disponível. Fique fora dos nomes genéricos, como sapatos.com ou surfboard.com - você quer que os visitantes saibam que estão na sua loja, e não algum concorrente aleatório. Infelizmente, pode haver a chance de que o nome de sua empresa já esteja registrada, de modo que você tenha que ser criativo.
+Também podemos adaptar o fluxo de pagamento a requisitos específicos do negócio.
 
-Outro aspecto a ter em mente é que lojas on-line precisam de memória virtual, sendo assim os planos para ficar online dentro das opções de hospedagens baratas são propensos a carregar mais devagar do que pacotes de hospedagem premium e assim, afastar clientes. Sem mencionar que você vai precisar de um muito alto nível de confiabilidade, além de suporte técnico 24/7.
+## Envios e entregas
 
-Você também precisa pensar sobre que tipo de opções de pagamento que você pode oferecer. Os mais comuns são PayPal, cartão de crédito e de débito direto. Você provavelmente quer pelo menos dois, para que seus clientes podem escolher uma opção que lhes convier.
+Podemos integrar a loja com transportadoras e serviços de entrega para automatizar custos, regras e acompanhamento de encomendas.
 
-#### Finalmente
+Isto pode incluir:
 
-Configurar e monitorar suas análises, para que você possa determinar quais partes do funil de conversão estão trabalhando, e pode ajustar quando necessário.
+- Cálculo de portes
+- Integração por código postal
+- Integração com transportadoras
+- Regras de entrega
+- Tracking de encomendas
+- Opções de recolha
+- Regras para envios internacionais
 
+## Integrações
 
-####Consulte-nos!
+Uma loja online não deve funcionar de forma isolada.
 
-Junto com a {{ site.title }}, podemos oferecer o melhor que existe em segurança, loja virtual e consultoria para seu negócio.
-{{ site.co_name }} é especializada em desenvolver lojas on-line.
-Utilizamos uma plataforma Inovadora, rápida, responsiva onde possui uma tecnologia rápida, estável e segura para seu ambiente de ecommerce.
+Podemos integrá-la com:
 
-Temos o plano que você precisa para vender seus produtos através de uma loja virtual. Nossos planos de  e-commerce tem como objetivo tornar sua loja acessível para todos, seja empresa ou pessoa física. Escolha o plano que você se enquadra e monte hoje sua loja virtual. Atualmente contamos com alta tecnologia e muitos recursos para as lojas cadastradas em nosso portal.
+- Sistemas ERP
+- Plataformas CRM
+- Sistemas de stock
+- Software de contabilidade
+- Plataformas de email marketing
+- Analytics
+- Marketplaces
+- APIs externas
+- Sistemas internos da empresa
 
+O objetivo é reduzir trabalho manual e manter a informação sincronizada entre os diferentes sistemas.
 
-Todas as lojas incluem:
+## E-commerce à medida
 
-- Especificações PCI Compliant
-- Multi Línguas
-- Integração com Gateways de Pagamento (Pagseguro, Paypal, Bitcoins)
-- Api integrada com Google, Mercado Livre entre outros.
-- Responsivo Mobile, Tablet, Desktop
-- Controle total sobre Relatórios
-- Controle de Estoque Local
-- Chat*
-- Histórico do cliente
-- Gerenciamento de Pedidos
-- Cliente Workflow
-- Cálculo de Frete
-- Mapas
-- Venda Casada
-- Cupom de desconto
-- Review de Produtos
-- Uptime Garantido. Não saia do ar!
-- Preço Justo
-- Painel administrativo em português
+Nem todos os negócios se adaptam a uma solução standard.
+
+Quando é necessário algo mais específico, podemos desenvolver funcionalidades personalizadas, como:
+
+- Configuradores de produto
+- Regras de preço complexas
+- Checkout personalizado
+- Sistemas de membership
+- Preços específicos por cliente
+- Encomendas B2B
+- Pedidos através de QR Code
+- Reservas com pagamento
+- Orçamentos automáticos
+- Fluxos de compra específicos para o negócio
+
+## Performance, SEO e mobile
+
+Uma loja online deve ser rápida, simples de utilizar e funcionar corretamente em qualquer dispositivo.
+
+Desenvolvemos com atenção a:
+
+- Experiência mobile
+- Velocidade de carregamento
+- SEO técnico
+- Checkout seguro
+- Acessibilidade
+- Fluxo de conversão
+- Organização e descoberta de produtos
+- Performance geral da aplicação
+
+## Segurança e fiabilidade
+
+O e-commerce envolve dados de clientes, pagamentos e operações críticas para o negócio.
+
+Por isso, damos atenção a:
+
+- HTTPS
+- Autenticação segura
+- Controlo de acessos
+- Proteção das APIs
+- Atualizações de segurança
+- Backups
+- Monitorização
+- Boas práticas de desenvolvimento
+
+## Do planeamento ao suporte contínuo
+
+Podemos acompanhar todo o ciclo de vida da sua loja online:
+
+**Planeamento → Desenvolvimento → Pagamentos → Integrações → Testes → Launch → Manutenção**
+
+Depois do lançamento, também podemos disponibilizar hosting, monitorização, atualizações, segurança e suporte técnico contínuo.
+
+## Pronto para vender online?
+
+Quer esteja a lançar a sua primeira loja online ou precise de uma plataforma de e-commerce mais avançada, podemos desenvolver uma solução adaptada ao seu negócio.
+
+**Diga-nos o que pretende vender.**

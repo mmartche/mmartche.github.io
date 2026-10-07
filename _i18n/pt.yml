@@ -55,7 +55,7 @@ footer:
 home:
   title: "Bem-vindo"
   subtitle: "Criamos soluções digitais."
-  info: ""
+  info: "."
   sub_info: "Soluções digitais pensadas para o seu negócio"
   sub_sub_info: "Websites, e-commerce, software à medida, inteligência artificial, automação e infraestrutura para ajudar o seu negócio a crescer no digital"
   about_us: "Sobre nós"
@@ -156,6 +156,16 @@ project:
   client: Clientes
   reference: Referências
   title_related: projetos relacionados
+
+host:
+  price:
+    title: Planos
+
+ecommerce:
+  price:
+    title: Planos
+  feature:
+    title: Recursos
 
 general:
   more_info: Mais Informação

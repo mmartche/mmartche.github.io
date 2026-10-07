@@ -55,7 +55,7 @@ footer:
 home:
   title: "Welcome"
   subtitle: "We build digital solutions."
-  info: ""
+  info: "."
   sub_info: "Digital solutions built around your business"
   sub_sub_info: "Websites, e-commerce, custom software, AI, automation and infrastructure to help your business grow online"
   about_us: "Digital Solutions for Modern Businesses"
@@ -66,23 +66,23 @@ buttons:
 portfolio:
   title: "Digital solutions for modern businesses"
 services:
-  - title: Build
-    description: We provide consulting services for your architecture and infrastructure, helping your company improve its technology environment and prepare for future growth. Our main goal is to work with complete transparency throughout every analysis while maintaining efficiency during project implementation. We work with project management and tracking tools, maintain close communication with the client throughout the process, and provide ongoing support.
+  - title: BUILD
+    description: We transform business ideas and needs into functional, modern digital products built to evolve.
     linkUrl: #
     imgClass: fa-comments-o
 
-  - title: Connect
-    description: We are prepared to work with security assessments and vulnerability analysis of your environment, providing penetration testing services, Web and Desktop Application Security, and detailed security analysis covering databases and e-commerce platforms. Our team works remotely and flexibly, allowing us to adapt to the scale and needs of your company. We also work with trusted national and international partners to help improve your company's security.
+  - title: INTEGRATE
+    description: We connect platforms, services, and processes to improve information flow and increase operational efficiency.
     linkUrl: #
     imgClass: fa-lock
 
-  - title: Protect
-    description: Every day, more high-quality Open Source technologies become available, including e-commerce platforms, operating systems, software, and applications for management and security. Many of these technologies are already widely used by major companies such as Amazon, Netflix, and Google. We specialize in Open Source technologies and provide development, support, and consulting services to help your company grow quickly, securely, and at scale.
+  - title: PROTECT
+    description: We safeguard applications, data, and services through security best practices, backups, monitoring, and robust infrastructure.
     linkUrl: #
     imgClass: fa-certificate
 
-  - title: Grow
-    description: Every day, more high-quality Open Source technologies become available, including e-commerce platforms, operating systems, software, and applications for management and security. Many of these technologies are already widely used by major companies such as Amazon, Netflix, and Google. We specialize in Open Source technologies and provide development, support, and consulting services to help your company grow quickly, securely, and at scale.
+  - title: GROW
+    description: We enhance visibility, performance, and the digital experience to help the business grow sustainably
     linkUrl: #
     imgClass: fa-certificate
 
@@ -152,6 +152,16 @@ project:
   client: Clients
   reference: References
   title_related: Related Projects
+
+host:
+  price:
+    title: Plans
+
+ecommerce:
+  price:
+    title: Plans
+  feature:
+    title: Features
 
 general:
   more_info: "More Info"

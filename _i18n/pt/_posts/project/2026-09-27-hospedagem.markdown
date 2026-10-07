@@ -28,26 +28,129 @@ description: Deseja hospedar seus sites por um preço incrível, mas não pode a
 featured: true
 service_order: 5
 ---
-####Uma hospedagem do tamanho da sua necessidade.
-Deseja hospedar seus sites por um preço incrível, mas não pode abrir mão da qualidade?  Com certeza alguns de nossos planos de hospedagem de sites, se encaixam perfeitamente no que você está procurando! Hospede seu site em nossos servidores, e use o que há de melhor  em performance, qualidade e segurança garantida.
+## Infraestrutura fiável para os seus websites e aplicações
 
-{{ site.title }} oferece as últimas e mais inovadoras tecnologias na área de hospedagem web. Abaixo estão alguns dos destaques que fazem a Única Hosting se destacar no mercado de webhost.
+Ajudamos empresas a fazer deployment, hosting e manutenção de websites, plataformas de e-commerce e aplicações à medida, com uma infraestrutura segura e fiável.
 
-####Em todos os planos você conta com:
-- Programação:
-	- Compatível com as principais linguagens de programação: html, flash, php, java, phyton,  ruby e etc.
-- Instalação:
-	- Instalação em no máximo 30 minutos após o cadastro em horário comercial.
-- Disponibilidade:
-	- Seu site online e acessível em qualquer lugar do planeta.
-- Bancos de dados:
-	- Bancos de Dados Mysql em todos nossos planos de hospedagem de sites.
-- Wordpress:
-	- Utilize o blog mais usado no mundo, wordpress na sua versão mais atualizada.
-- Joomla:
-	- Crie e gerencie seu site com o joomla, uma das ferramentas mais poderosas do momento.
-- Open Cart:
-	- Uma solução profissional e-Commerce que oferece flexibilidade e controle sem precedentes.
-- Drupal:
-	- Uma ferramenta utilizada para gerenciamento de conteúdos.
+Desde um website simples até um ambiente completo de aplicação, tratamos da configuração técnica necessária para manter os seus serviços online, estáveis e a funcionar corretamente.
 
+## O que podemos disponibilizar
+
+- Website hosting
+- Application hosting
+- E-commerce hosting
+- Configuração de VPS
+- Cloud deployment
+- Ambientes Docker
+- Database hosting
+- Configuração de domínios
+- Gestão de DNS
+- Certificados SSL/HTTPS
+- Configuração de backups
+- Monitorização
+- Otimização de performance
+- Migração de ambientes
+- Manutenção de servidores
+
+## Deployment e infraestrutura
+
+Podemos preparar e fazer o deployment da sua aplicação em diferentes ambientes, de acordo com os requisitos do projeto.
+
+Isto pode incluir:
+
+- Servidores Linux
+- Docker
+- Reverse proxies
+- Databases
+- Certificados SSL
+- Environment variables
+- Serviços de aplicação
+- Pipelines CI/CD
+- Plataformas cloud
+- Servidores privados
+
+## Domínios e DNS
+
+Também podemos ajudar a configurar os serviços associados ao seu domínio.
+
+Isto inclui:
+
+- Configuração de domínios
+- Registos DNS
+- Subdomínios
+- Registos DNS de email
+- SSL
+- Configuração de CDN
+- Cloudflare
+- Redirects
+- Migração de domínios
+
+## Backups e recuperação
+
+Os backups são uma parte essencial de qualquer ambiente de produção.
+
+Podemos configurar estratégias de backup para:
+
+- Databases
+- Ficheiros da aplicação
+- Conteúdo enviado pelos utilizadores
+- Ficheiros de configuração
+- Dados do servidor
+
+A estratégia adequada depende da criticidade do sistema e da rapidez com que precisa de ser recuperado em caso de falha.
+
+## Monitorização
+
+Um serviço não deve apenas estar online — também deve ser monitorizado.
+
+Podemos configurar monitorização para:
+
+- Disponibilidade do website
+- Estado da aplicação
+- Recursos do servidor
+- Disponibilidade da database
+- Certificados SSL
+- Armazenamento
+- Erros
+- Performance
+
+## Performance
+
+Também podemos melhorar a performance da infraestrutura através de:
+
+- Caching
+- Configuração de CDN
+- Otimização de databases
+- Otimização da entrega de imagens
+- Compressão
+- Server tuning
+- Configuração da aplicação
+- Otimização de static assets
+
+## Migração
+
+Já tem um website ou aplicação alojado noutro ambiente?
+
+Podemos ajudar a migrar para uma nova infraestrutura com o mínimo de interrupção possível.
+
+Isto pode incluir:
+
+- Websites
+- Databases
+- Domínios
+- Configuração de email
+- Aplicações
+- Containers
+- DNS
+
+## Managed hosting
+
+Para clientes que não querem gerir diretamente a infraestrutura técnica, podemos disponibilizar suporte contínuo para hosting, backups, monitorização e manutenção.
+
+Este serviço pode ser combinado com os nossos planos de suporte e manutenção.
+
+## Precisa de um ambiente para o seu projeto?
+
+Quer precise de hosting para um website, uma plataforma de e-commerce ou uma aplicação à medida, podemos ajudar a definir e gerir o ambiente mais adequado.
+
+**Diga-nos o que precisa de alojar.**
