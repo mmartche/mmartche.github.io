@@ -76,6 +76,7 @@ home:
   about_us: "Digital Solutions for Modern Businesses"
   more_about_us: "Martche House is a digital solutions studio that helps businesses build, improve and maintain their online presence and digital systems."
   more_about_us_2: "We design, build and support websites, e-commerce platforms, custom software, AI solutions and the digital infrastructure businesses need to operate and grow online."
+  contact_us: Let’s turn your idea into a digital solution
 buttons:
   more_information: "More Info"
 portfolio:
@@ -108,7 +109,10 @@ contact:
   name: "Your name"
   email: "Email address"
   message: "Message"
+  subject: Subject
   send: "Send"
+  subtitle: We work on projects of various sizes
+  info: We can collaborate on a full project, develop just a specific feature, or support a team already working on a solution.
 
 about:
   title: "Our Team"
@@ -124,27 +128,31 @@ about:
 team:
   title: Our Team
   contact_me: Talk with me
+  description:
+    - Martche House brings together expertise in software development, infrastructure, product, and security. 
+    - We work in a close, flexible manner, combining different areas of specialization to meet the specific needs of each project. 
+    - When necessary, we also collaborate with other professionals and specialists to complement the team and ensure the most suitable solution.
 
 members:
   - name: Abner Rosa da Trindade 
-    position: Infrastructure Analyst
-    text: COO
+    position: Operations & Infrastructure
+    text: Infrastructure, hosting, systems and technical operations
     img: team01.jpg
     social:
       - title: envelope
         icon: envelope
         url: mailto:abner@artnux.com
   - name: Gabriel Murilo Lanzi
-    position: Security Engineer
-    text: CSO
+    position: Security
+    text: Application security, infrastructure hardening and security consulting
     img: team02.jpg
     social:
       - title: envelope
         icon: envelope
         url: mailto:gabriel@artnux.com
   - name: Marcelo Martche
-    position: Software Developer
-    text: CTO
+    position: Technology & Product
+    text: Software development, product strategy, architecture and delivery
     img: team03.jpg
     social:
       - title: email

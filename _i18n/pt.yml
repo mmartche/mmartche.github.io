@@ -76,6 +76,7 @@ home:
   about_us: "Sobre nós"
   more_about_us: "A Martche House é um estúdio de soluções digitais focado em ajudar empresas a criar, melhorar e manter os seus produtos digitais e a sua presença online"
   more_about_us_2: "Combinamos desenvolvimento de software, visão de produto e experiência técnica para criar soluções adaptadas às necessidades reais de cada negócio"
+  contact_us: Vamos transformar a sua ideia numa solução digital
 buttons:
   more_information: "Saiba mais sobre a Martche House"
 portfolio:
@@ -108,11 +109,14 @@ services:
 
 contact:
   title: Contate-nos!
-  description: No momento a nossa equipe está alocada remotamente. Usamos algumas startups para locação de salas de reunião em todo o país caso necessário, assim tornando mais flexível para a equipe técnica e o cliente.
-  name: Seu nome
+  description: Se não souber exatamente de que serviço precisa, descreva-nos o problema. Nós ajudamos a identificar o caminho mais adequado
+  name: Nome
   email: Endereço de email
+  subject: Assunto
   message: Mensagem
   send: Enviar
+  subtitle: Trabalhamos com projetos de diferentes dimensões
+  info: Podemos colaborar num projeto completo, desenvolver apenas uma funcionalidade específica ou apoiar uma equipa que já esteja a trabalhar numa solução
 
 about:
   title: Nosso Time
@@ -128,27 +132,31 @@ about:
 team:
   title: Nosso Time
   contact_me: Fale comigo
+  description:
+    - A Martche House reúne experiência em desenvolvimento de software, infraestrutura, produto e segurança.
+    - Trabalhamos de forma próxima e flexível, combinando diferentes áreas de especialização de acordo com as necessidades de cada projeto.
+    - Quando necessário, também colaboramos com outros profissionais e especialistas para complementar a equipa e garantir a solução mais adequada
 
 members:
   - name: Abner Rosa da Trindade 
-    position: Analista de Infraestrutura
-    text: COO
+    position: Operações e Infraestruturas
+    text: Infraestrutura, alojamento, sistemas e operações técnicas
     img: team01.jpg
     social:
       - title: envelope
         icon: envelope
         url: mailto:abner@artnux.com
   - name: Gabriel Murilo Lanzi
-    position: Engenheiro em Segurança
-    text: CSO
+    position: Segurança
+    text: Segurança de aplicações, reforço de infraestruturas e consultoria em segurança
     img: team02.jpg
     social:
       - title: envelope
         icon: envelope
         url: mailto:gabriel@artnux.com
   - name: Marcelo Martche
-    position: Desenvolvedor Web
-    text: CTO
+    position: Tecnologia e Produto
+    text: Desenvolvimento de software, estratégia de produto, arquitetura e entrega
     img: team03.jpg
     social:
       - title: email

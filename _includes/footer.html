@@ -1,23 +1,18 @@
 <div id="footerwrap">
     <div class="container">
         <div class="row">
-            <div class="col-lg-4">
+            <div class="col-lg-11">
                 <h4>{% t footer.intro.title %}</h4>
                 <div class="hline-w"></div>
                 <p>{% t footer.intro.description %}</p>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-1">
                 <h4>Links</h4>
                 <div class="hline-w"></div>
                 {% assign footers = site.translations[site.lang].footer.links %}
                 {% for footer in footers %}
                 <p><a href="{{ footer.url }}">{{ footer.title }}</a></p>
                 {% endfor %}
-            </div>
-            <div class="col-lg-4">
-                <h4>{% t footer.contact.title %}</h4>
-                <div class="hline-w"></div>
-                <p>{% t footer.contact.description %}</p>
             </div>
         </div>
     </div>

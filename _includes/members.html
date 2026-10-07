@@ -1,6 +1,12 @@
 <div class="container mtb">
     <div class="row centered">
-        <h2 class="mb">{% t team.title %}</h2>
+        <div class="mb">
+            <h2>{% t team.title %}</h2>
+            {% assign infos = site.translations[site.lang].team.description %}
+            {% for info in infos %}
+                <p>{{ info }}</p>
+            {% endfor %}
+        </div>
         
         {% assign members = site.translations[site.lang].members %}
         {% for member in members %}

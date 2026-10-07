@@ -16,10 +16,10 @@ translations:
 </div>
 <div class="container mtb">
     <div class="row">
-        <div class="col-lg-8">
+        <div class="col-lg-9">
             <h4>{% t contact.title %}</h4>
             <div class="hline"></div>
-                <p>{% t site.about_us %}</p>
+                <p>{% t contact.description %}</p>
                 <form role="form">
                   <div class="form-group">
                     <label for="InputName1">{% t contact.name %}</label>
@@ -30,8 +30,8 @@ translations:
                     <input type="email" class="form-control" id="exampleInputEmail1">
                   </div>
                   <div class="form-group">
-                    <label for="InputSubject1"></label>
-                    <input type="email" class="form-control" id="exampleInputEmail1">
+                    <label for="InputSubject1">{% t contact.subject %}</label>
+                    <input type="text" class="form-control" id="exampleInputSubject1">
                   </div>
                   <div class="form-group">
                     <label for="message1">{% t contact.message %}</label>
@@ -40,11 +40,10 @@ translations:
                   <button type="submit" class="btn btn-theme">{% t contact.send %}</button>
                 </form>
         </div>
-        <div class="col-lg-4">
-            <h4>{% t general.our_address %}</h4>
+        <div class="col-lg-3">
+            <h4>{% t contact.subtitle %}</h4>
             <div class="hline"></div>
-                <p>{% t site.about_remote %}</p>
-                <p>{% t site.about_room %}</p>
+                <p>{% t contact.info %}</p>
                 <p>email: <a href="mailto:mmartche@hotmail.com">mmartche@hotmail.com</a></p>
         </div>
     </div>

@@ -26,7 +26,7 @@ website: http://martche.ca
 draft: oloco meu
 language: pt
 priority: 0.6
-description: These days most businesses, big and small are time poor. Some customers prefer to maintain their own web sites, whilst others prefer not to. Either way our DSO maintenance and website support services can provide your business with ongoing, reliable and affordable website solutions, delivered in a timely and professional manner.
+description: Hoje em dia, a maioria das empresas, grandes e pequenas, têm pouco tempo disponível. Alguns clientes preferem manter os seus próprios sites, enquanto outros preferem não o fazer. De qualquer forma, os nossos serviços de manutenção e suporte de websites da DSO podem fornecer à sua empresa soluções contínuas, fiáveis ​​e acessíveis para o seu website, entregues de forma profissional e dentro do prazo.
 featured: true
 service_order: 8
 ---
