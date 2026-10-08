@@ -117,6 +117,10 @@ contact:
   send: Enviar
   subtitle: Trabalhamos com projetos de diferentes dimensões
   info: Podemos colaborar num projeto completo, desenvolver apenas uma funcionalidade específica ou apoiar uma equipa que já esteja a trabalhar numa solução
+  sending: "A enviar..."
+  success: "Mensagem enviada com sucesso. Obrigado!"
+  error: "Não foi possível enviar a mensagem. Tente novamente."
+  network_error: "Ocorreu um erro ao enviar a mensagem. Tente novamente."
 
 about:
   title: Nosso Time

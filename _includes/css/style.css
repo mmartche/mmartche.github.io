@@ -595,3 +595,22 @@ a.anchor{
   border-radius: 50%;
   flex-shrink: 0;
 }
+
+#contact-status {
+  display: none;
+  max-width: 500px;
+  margin: 20px auto 0;
+  padding: 14px 20px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  text-align: center;
+  font-weight: 500;
+}
+
+#contact-status.success {
+  border-color: #2e7d32;
+}
+
+#contact-status.error {
+  border-color: #c62828;
+}

@@ -17,7 +17,7 @@ tags:
 thumb: portfolio_02.jpg
 img: portfolio_02.jpg
 carousel:
-- thumb04.jpg
+- /carousel/thumb04.jpg
 client: Corp.
 website: http://artnux.com
 draft: on

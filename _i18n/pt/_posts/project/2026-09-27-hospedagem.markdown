@@ -19,7 +19,7 @@ tags:
 img: host01.jpg
 thumb: project_host.jpg
 carousel:
-- host01.jpg
+- /carousel/host01.jpg
 client: Corp.
 website: http://www.org
 include: prices-host

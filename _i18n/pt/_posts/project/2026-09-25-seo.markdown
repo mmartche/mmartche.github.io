@@ -17,8 +17,8 @@ tags:
 img: seo01.jpg
 thumb: project_seo.jpg
 carousel:
-- seo01.jpg
-- seo02.jpg
+- /carousel/seo01.jpg
+- /carousel/seo02.jpg
 client: Corp.
 website: http://www.org
 language: pt

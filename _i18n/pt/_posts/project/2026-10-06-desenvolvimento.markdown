@@ -18,9 +18,9 @@ tags:
 img: desenvolvimento.jpg
 thumb: project_desenvolvimento.png
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- /carousel/single01.jpg
+- /carousel/single02.jpg
+- /carousel/single03.jpg
 client: Corp.
 website: http://martche.ca
 language: pt

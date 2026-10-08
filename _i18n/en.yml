@@ -113,6 +113,10 @@ contact:
   send: "Send"
   subtitle: We work on projects of various sizes
   info: We can collaborate on a full project, develop just a specific feature, or support a team already working on a solution.
+  sending: "Sending..."
+  success: "Message sent successfully. Thank you!"
+  error: "We couldn't send your message. Please try again."
+  network_error: "An error occurred while sending your message. Please try again."
 
 about:
   title: "Our Team"

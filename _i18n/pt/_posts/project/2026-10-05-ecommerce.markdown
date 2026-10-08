@@ -16,8 +16,8 @@ tags:
 - ecommerce
 - seo
 thumb: project_opencart.jpg
-img: opencart01.jpg
 carousel:
+- /project_opencart.jpg
 client: Corp.
 website:  
 - http://www.opencart.com

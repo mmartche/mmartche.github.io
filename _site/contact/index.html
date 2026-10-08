@@ -24,7 +24,7 @@
   
 
   
-  <link rel="alternate" hreflang="en" href="http://0.0.0.0:4000/contact/">
+  <link rel="alternate" hreflang="en" href="http://0.0.0.0:4000/en/contact/">
   
   
   <link rel="canonical" href="http://0.0.0.0:4000/contact/">
@@ -220,7 +220,7 @@
                 <span>PT</span>
               </a>
 
-              <a href="/en/contact/">
+              <a href="/en/en/contact/">
                 <img
                   src="/assets/flags/england.gif"
                   alt="English"
@@ -247,8 +247,7 @@
     <div id="contactwrap"></div>
 
 <div class="container mtb">
-  <div class="row">
-    <h2 id="vamos-falar-sobre-o-seu-projeto">Vamos falar sobre o seu projeto</h2>
+  <div class="row"><h2 id="vamos-falar-sobre-o-seu-projeto">Vamos falar sobre o seu projeto</h2>
 
 <p>Tem uma ideia, um problema para resolver ou um sistema que precisa de melhorar?</p>
 
@@ -281,43 +280,138 @@
 <p>Também podemos ajudar a transformar uma ideia inicial numa solução mais concreta, definir prioridades e perceber qual a abordagem técnica mais adequada.</p>
 
 <p><strong>Conte-nos o que tem em mente.</strong></p>
-            
-  </div>
+</div>
 </div>
 <div class="container mtb">
-    <div class="row">
-        <div class="col-lg-9">
-            <h4>Contate-nos!</h4>
-            <div class="hline"></div>
-                <p>Se não souber exatamente de que serviço precisa, descreva-nos o problema. Nós ajudamos a identificar o caminho mais adequado</p>
-                <form role="form">
-                  <div class="form-group">
-                    <label for="InputName1">Nome</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1">
-                  </div>
-                  <div class="form-group">
-                    <label for="InputEmail1">Endereço de email</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1">
-                  </div>
-                  <div class="form-group">
-                    <label for="InputSubject1">Assunto</label>
-                    <input type="text" class="form-control" id="exampleInputSubject1">
-                  </div>
-                  <div class="form-group">
-                    <label for="message1">Mensagem</label>
-                    <textarea class="form-control" id="message1" rows="3"></textarea>
-                  </div>
-                  <button type="submit" class="btn btn-theme">Enviar</button>
-                </form>
+  <div class="row">
+    <div class="col-lg-9">
+      <h4>Contate-nos!</h4>
+      <div class="hline"></div>
+      <p>Se não souber exatamente de que serviço precisa, descreva-nos o problema. Nós ajudamos a identificar o caminho mais adequado</p>
+      <form
+        action="https://formspree.io/f/xjygyeyn"
+        method="POST"
+        id="contact-form"
+      >
+        <div class="form-group">
+          <label for="name">Nome</label>
+          <input
+            type="text"
+            id="name"
+            name="name"
+            class="form-control"
+            required
+          />
         </div>
-        <div class="col-lg-3">
-            <h4>Trabalhamos com projetos de diferentes dimensões</h4>
-            <div class="hline"></div>
-                <p>Podemos colaborar num projeto completo, desenvolver apenas uma funcionalidade específica ou apoiar uma equipa que já esteja a trabalhar numa solução</p>
-                <p>email: <a href="mailto:mmartche@hotmail.com">mmartche@hotmail.com</a></p>
+
+        <div class="form-group">
+          <label for="email">Endereço de email</label>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            class="form-control"
+            required
+          />
         </div>
+
+        <div class="form-group">
+          <label for="subject">Assunto</label>
+          <input type="text" id="subject" name="subject" class="form-control" />
+        </div>
+
+        <div class="form-group">
+          <label for="message">Mensagem</label>
+          <textarea
+            id="message"
+            name="message"
+            class="form-control"
+            rows="7"
+            required
+          ></textarea>
+        </div>
+        <input
+          type="text"
+          name="_gotcha"
+          style="display: none"
+          tabindex="-1"
+          autocomplete="off"
+        />
+        <button type="submit" class="btn btn-theme" id="contact-submit">
+          Enviar
+        </button>
+      </form>
+      <div
+        id="contact-status"
+        role="status"
+        aria-live="polite"
+        data-sending="A enviar..."
+        data-success="Mensagem enviada com sucesso. Obrigado!"
+        data-error="Não foi possível enviar a mensagem. Tente novamente."
+        data-network-error="Ocorreu um erro ao enviar a mensagem. Tente novamente."
+        style="margin-top: 15px"
+      ></div>
     </div>
+    <div class="col-lg-3">
+      <h4>Trabalhamos com projetos de diferentes dimensões</h4>
+      <div class="hline"></div>
+      <p>Podemos colaborar num projeto completo, desenvolver apenas uma funcionalidade específica ou apoiar uma equipa que já esteja a trabalhar numa solução</p>
+      <p>
+        email: <a href="mailto:mmartche@hotmail.com">mmartche@hotmail.com</a>
+      </p>
+    </div>
+  </div>
 </div>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const form = document.getElementById("contact-form");
+    const status = document.getElementById("contact-status");
+    const submitButton = document.getElementById("contact-submit");
+
+    if (!form || !status || !submitButton) {
+      return;
+    }
+
+    form.addEventListener("submit", async function (event) {
+      event.preventDefault();
+
+      status.textContent = status.dataset.sending;
+      submitButton.disabled = true;
+
+      try {
+        const response = await fetch(form.action, {
+          method: form.method,
+          body: new FormData(form),
+          headers: {
+            Accept: "application/json",
+          },
+        });
+        if (response.ok) {
+          status.textContent = status.dataset.success;
+          status.className = "success";
+          status.style.display = "block";
+          form.reset();
+        } else {
+          const data = await response.json();
+          if (data.errors) {
+            status.textContent = data.errors
+              .map((error) => error.message)
+              .join(", ");
+          } else {
+            status.textContent = status.dataset.error;
+          }
+          status.textContent = status.dataset.error;
+          status.className = "error";
+          status.style.display = "block";
+        }
+      } catch (error) {
+        status.textContent = status.dataset.networkError;
+      } finally {
+        submitButton.disabled = false;
+      }
+    });
+  });
+</script>
 
 
         <div id="footerwrap">

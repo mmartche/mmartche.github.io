@@ -19,8 +19,8 @@ tags:
 img: support01.png
 thumb: project_support.png
 carousel:
-- support02.jpg
-- support01.png
+- /carousel/support02.jpg
+- /carousel/support01.png
 client: Corp.
 website: http://martche.ca
 draft: oloco meu
