@@ -1,0 +1,49 @@
+{% if jekyll.environment == "production" and site.ga_measurement_id %}
+<div id="cookie-consent" class="cookie-consent" hidden>
+    <p>
+        {% if site.lang == "en" %}
+        We use optional analytics cookies to improve our website.
+        {% else %}
+        Utilizamos cookies opcionais de análise para melhorar o nosso website.
+        {% endif %}
+    </p>
+    <button type="button" id="cookies-accept">
+        {% if site.lang == "en" %}Accept{% else %}Aceitar{% endif %}
+    </button>
+    <button type="button" id="cookies-reject">
+        {% if site.lang == "en" %}Reject{% else %}Rejeitar{% endif %}
+    </button>
+</div>
+
+<script>
+    (function () {
+        const banner = document.getElementById('cookie-consent');
+        let consent = null;
+        try {
+            consent = localStorage.getItem('martche_analytics_consent');
+        } catch (e) { }
+        if (consent !== 'accepted' && consent !== 'rejected') {
+            banner.hidden = false;
+        }
+
+        function saveConsent(value) {
+            try {
+                localStorage.setItem('martche_analytics_consent', value);
+            } catch (e) { }
+            banner.hidden = true;
+            if (value === 'accepted' && typeof enableAnalytics === 'function') {
+                enableAnalytics();
+            }
+            if (value === 'rejected') {
+                window.location.reload();
+            }
+        }
+
+        document.getElementById('cookies-accept')
+            .addEventListener('click', () => saveConsent('accepted'));
+
+        document.getElementById('cookies-reject')
+            .addEventListener('click', () => saveConsent('rejected'));
+    })();
+</script>
+{% endif %}

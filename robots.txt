@@ -1,2 +1,6 @@
 User-Agent: *
 Disallow: 
+
+Allow: /
+
+Sitemap: https://mmartche.github.io/sitemap.xml

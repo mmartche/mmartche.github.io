@@ -6,7 +6,7 @@ co_name: Martche House
 analytics:
 
 baseurl: ""
-url: "https://mmartche.ca"
+url: "https://mmartche.github.io"
 
 markdown: kramdown
 
@@ -23,6 +23,7 @@ languages:
 
 exclude_from_localizations:
   - assets
+  - robots.txt
 
 default_locale_in_subfolder: false
 
@@ -58,6 +59,8 @@ about: "Somos uma empresa focada em consultoria e serviços voltados a Open Sour
 about2: "Somos mais do que profissionais porque fazemos o que gostamos, de coração. Agindo no ponto certo onde é vital."
 
 google-site-verification: ""
+
+ga_measurement_id: G-YJEM156N3K
 
 sitemap:
   file: "/sitemap2.xml"

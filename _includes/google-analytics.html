@@ -1,0 +1,28 @@
+{% if jekyll.environment == "production" and site.ga_measurement_id %}
+<script>
+  function enableAnalytics() {
+    if (window.martcheAnalyticsLoaded) return;
+    window.martcheAnalyticsLoaded = true;
+    const measurementId = "{{ site.ga_measurement_id }}";
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function() {
+      dataLayer.push(arguments);
+    };
+    gtag('js', new Date());
+    gtag('config', measurementId);
+    const script = document.createElement('script');
+    script.async = true;
+    script.src =
+      'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(measurementId);
+    document.head.appendChild(script);
+  }
+
+  try {
+    if (localStorage.getItem('martche_analytics_consent') === 'accepted') {
+      enableAnalytics();
+    }
+  } catch (e) {
+    // Consent storage may be unavailable.
+  }
+</script>
+{% endif %}
