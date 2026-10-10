@@ -15,10 +15,9 @@ tags:
 - back-end
 - servidor
 - seguranca
-thumb: project_openbsd.jpg
-img: openbsd01.jpg
+thumb: services/openbsd-400x300.jpg
+img: 
 carousel:
-- openbsd01.jpg
 client: Corp.
 website: http://www.openbsd.org
 language: pt

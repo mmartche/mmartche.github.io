@@ -15,16 +15,17 @@ categories:
 tags:
 - back-end
 - segurança
-thumb: portfolio_02.jpg
+thumb: services/automation-400x300.png
 img: portfolio_02.jpg
 carousel:
-- thumb04.jpg
+- services/automation-banner-1-1280x600.png
+- services/automation-banner-2-1280x600.png
 client: Corp.
 website: http://artnux.com
 draft: on
 language: en
 priority: 0.6
-description: Segurança é o nosso foco e você deseja o mesmo?
+description: Intelligent chatbots, AI-powered tools, and automated workflows that reduce repetitive tasks and improve customer experiences
 featured: true
 service_order: 4
 ---

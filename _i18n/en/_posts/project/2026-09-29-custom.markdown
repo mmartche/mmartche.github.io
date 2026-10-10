@@ -15,16 +15,18 @@ categories:
 tags:
 - back-end
 - segurança
-thumb: portfolio_02.jpg
+thumb: services/custom-service-400x300.png
 img: portfolio_02.jpg
 carousel:
-- /project/thumb04.jpg
+- /services/custom-service-banner-1-1280x600.png
+- /services/custom-service-banner-2-1280x600.png
+- /services/custom-service-banner-3-1280x600.png
 client: Corp.
 website: http://artnux.com
 draft: on
 language: en
 priority: 0.6
-description: Segurança é o nosso foco e você deseja o mesmo?
+description: Tailor-made applications and business systems that simplify operations, solve unique challenges, and improve productivity
 featured: true
 service_order: 3
 ---

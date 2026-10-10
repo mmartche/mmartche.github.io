@@ -14,17 +14,16 @@ categories:
 tags:
 - back-end
 - servidor
-thumb: project_netbsd.jpg
+thumb: services/netbsd-400x300.jpg
 img: netbsd01.png
 carousel:
-- netbsd01.png
 language: en
 client: Corp.
 website: http://www.netbsd.org
 priority: 0.6
 description: The NetBSD Project is an international collaborative effort of a large group of people, to produce a freely available and redistributable UNIX-like operating system, NetBSD. 
 ---
-##NetBSD
+## NetBSD
 The NetBSD Project is an international collaborative effort of a large group of people, to produce a freely available and redistributable UNIX-like operating system, NetBSD. In addition to our own work, NetBSD contains a variety of other free software, including 4.4BSD Lite from the University of California, Berkeley.
 
 One of the primary focuses of the NetBSD project has been to make the base OS highly portable. This has resulted in NetBSD being ported to a large number of hardware platforms. NetBSD is also interoperable, implementing many standard APIs and network protocols, and emulating many other systems' ABIs.
@@ -36,6 +35,7 @@ NetBSD is largely supported by users, via Usenet newsgroups, mailing lists, and 
 The NetBSD(tm) Foundation is a tax exempt, not-for-profit 501(c)(3) corporation, that devotes itself to the traditional goals and Spirit of the NetBSD Project and owns the trademark of the word “NetBSD”.
 
 
-####Nosso Propósito
+### Nosso Propósito
 Quer desenvolver sua plataforma embedded. 
-####Consulte-nos!
+
+### Consulte-nos!

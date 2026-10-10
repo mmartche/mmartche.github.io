@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "E-COMMERCE"
+title:  "E-Commerce"
 ref: ecommerce
 namespace: ecommerce
 permalink: /projetos/ecommerce/
@@ -15,9 +15,10 @@ tags:
 - front-end
 - ecommerce
 - seo
-thumb: project_opencart.jpg
+thumb: services/ecommerce-400x300.png
 carousel:
-- /project_opencart.jpg
+- services/ecommerce-banner-1-1280x600.png
+- services/ecommerce-banner-2-1280x600.png
 client: Corp.
 website:  
 - http://www.opencart.com
@@ -28,7 +29,7 @@ include: prices-ecom
 features: ecommerce
 language: pt
 priority: 0.6
-description: Estes dias mais e mais varejistas estão percebendo que, a fim de sobreviver no futuro, é imperativo ter uma loja online. 
+description: Lojas online completas, com pagamentos seguros, gestão de produtos e uma experiência de compra simples para fazer crescer o seu negócio
 featured: true
 service_order: 2
 ---

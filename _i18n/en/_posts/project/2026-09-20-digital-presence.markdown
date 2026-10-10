@@ -17,15 +17,14 @@ tags:
 - marketing
 - front-end
 img: email_marketing03.jpg
-thumb: project_email_marketing.jpg
+thumb: services/digital-presence-400x300.png
 carousel:
-- email_marketing01.jpg
-- email_marketing02.jpg
-- email_marketing03.jpg
+- services/digital-presence-banner-1-1280x600.png
+- services/digital-presence-banner-2-1280x600.png
 client: Corp.
 website: http://www.org
 priority: 0.6
-description: In the right hands, email marketing is an incredibly powerful tool. After all, what else gets your message straight to a targeted audience that has opted to receive it?
+description: Build a strong online identity through websites, business profiles, and digital channels that connect your brand with customers
 ---
 ### Build a consistent and professional digital presence
 

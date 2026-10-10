@@ -10,15 +10,15 @@ translations:
 date:   2015-05-02 00:00:00
 developer: Abner e Gabriel
 categories:
-- services
+- projects
 tags:
 - back-end
+- seguranca
 - servidor
-thumb: project_linux.jpg
-img: linux01.jpg
+thumb: services/linux-400x300.png
+img: 
 carousel:
-- linux01.jpg
-- linux02.jpg
+- services/linux-banner-1-1280x600.png
 client: Corp.
 language: pt
 website: 
@@ -26,9 +26,9 @@ website:
 - http://www.ubuntu.org
 - http://www.redhat.com
 priority: 0.6
-description: Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.
+description: Configuração, administração, otimização e automação de servidores Linux para garantir uma infraestrutura tecnológica estável, eficiente e fiável
 ---
-##Linux
+## Linux
 - Firewall Iptables, NFtables, 
 - Kernel Hardening Pax/Grsec
 - Administração LVM
@@ -39,8 +39,8 @@ description: Open collaboration and Linux-based tools help developers and compan
 - Monitoramento Nagios, Zabbix, Nessus 
 - HaProxy, Blud , Ldirectord, Heartbeat
 
-####Helps us solve harder problems...
+#### Helps us solve harder problems...
 Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.
 
-####Nosso Propósito
+#### Nosso Propósito
 Consultoria Linux em sua infra estrutura e aplicações Web.

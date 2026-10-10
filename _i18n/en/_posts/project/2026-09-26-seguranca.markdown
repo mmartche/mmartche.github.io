@@ -15,16 +15,17 @@ categories:
 tags:
 - back-end
 - segurança
-thumb: portfolio_02.jpg
+thumb: services/security-400x300.png
 img: portfolio_02.jpg
 carousel:
-- /carousel/thumb04.jpg
+- services/security-banner-1-1280x600.png
+- services/security-banner-2-1280x600.png
 client: Corp.
 website: http://artnux.com
 draft: on
 language: en
 priority: 0.6
-description: Segurança é o nosso foco e você deseja o mesmo?
+description: Protect your digital business with security assessments, access controls, monitoring, and solutions that reduce cyber risks
 featured: true
 service_order: 6
 ---

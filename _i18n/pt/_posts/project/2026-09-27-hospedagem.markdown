@@ -17,15 +17,16 @@ tags:
 - performance
 - front-end
 img: host01.jpg
-thumb: project_host.jpg
+thumb: services/host-400x300.png
 carousel:
-- /carousel/host01.jpg
+- services/host-banner-1-1280x600.png
+- services/host-banner-2-1280x600.png
 client: Corp.
 website: http://www.org
 include: prices-host
 language: pt
 priority: 0.6
-description: Deseja hospedar seus sites por um preço incrível, mas não pode abrir mão da qualidade?  Com certeza alguns de nossos planos de hospedagem de sites, se encaixam perfeitamente no que você está procurando! Hospede seu site em nossos servidores, e use o que há de melhor  em performance, qualidade e segurança garantida.
+description: Soluções de alojamento fiáveis e escaláveis para manter os seus websites e aplicações rápidos, seguros e sempre acessíveis
 featured: true
 service_order: 5
 ---

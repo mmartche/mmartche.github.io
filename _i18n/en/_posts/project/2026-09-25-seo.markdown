@@ -16,15 +16,18 @@ tags:
 - performance
 - front-end
 img: seo01.jpg
-thumb: project_seo.jpg
+thumb: services/seo-400x300.png
 carousel:
-- /carousel/seo01.jpg
-- /carousel/seo02.jpg
+- services/seo-banner-1-1280x600.png
+- services/seo-banner-5-1280x600.png
+- services/seo-banner-2-1280x600.png
+- services/seo-banner-3-1280x600.png
+- services/seo-banner-4-1280x600.png
 client: Corp.
 website: http://www.org
 language: en
 priority: 0.6
-description: Se você não estiver ciente, a maioria dos usuários dos sites de busca, a maioria esmagadoramente clicam nos resultados orgânicos (resultados livres) no Google e Bing, antes que eles cliquem em um patrocinador pago anúncio, por uma margem de 94 por cento a 6 por cento.
+description: Improve your visibility in search engines, attract qualified visitors, and help potential customers discover your business
 featured: true
 service_order: 7
 ---

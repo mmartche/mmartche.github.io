@@ -17,16 +17,15 @@ tags:
 - desenvolvimento
 - performance
 img: desenvolvimento.jpg
-thumb: project_desenvolvimento.png
+thumb: services/web-development-400x300.png
 carousel:
-- /carousel/single01.jpg
-- /carousel/single02.jpg
-- /carousel/single03.jpg
+- /services/web-development-banner-1-1280x600.png
+- /services/web-development-banner-2-1280x600.png
 client: Corp.
 website: http://martche.ca
 language: en
 priority: 0.7
-description: Desenvolvimento de Websites. Possuímos todas as soluções para o seu Negócio, não ha nada que não sabemos, e nada que não consigamos controlar! 
+description: Modern, responsive, and high-performance websites designed to strengthen your brand and turn visitors into customers
 featured: true
 service_order: 1
 ---

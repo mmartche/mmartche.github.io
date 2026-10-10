@@ -18,16 +18,16 @@ tags:
 - manutenção
 - servidor
 img: support01.png
-thumb: project_support.png
+thumb: services/support-400x300.png
 carousel:
-- /carousel/support02.jpg
-- /carousel/support01.png
+- services/support-banner-1-1280x600.png
+- services/support-banner-2-1280x600.png
 client: Corp.
 website: http://martche.ca
 draft: oloco meu
 language: en
 priority: 0.6
-description: These days most businesses, big and small are time poor. Some customers prefer to maintain their own web sites, whilst others prefer not to. Either way our DSO maintenance and website support services can provide your business with ongoing, reliable and affordable website solutions, delivered in a timely and professional manner.
+description: Keep your websites, systems, and applications updated, optimized, and running smoothly with ongoing technical support
 featured: true
 service_order: 8
 ---

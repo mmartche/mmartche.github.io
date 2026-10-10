@@ -1,12 +1,12 @@
 ---
 layout: project
 title:  " Manutenção e Suporte mensal"
-ref: suport
-namespace: suport
+ref: support
+namespace: support
 permalink: /projetos/suporte/
 translations:
   pt: /projetos/suporte/
-  en: /projects/suport/
+  en: /projects/support/
 date:   2026-09-24 00:00:00
 developer: Marcelo Andrade
 categories:
@@ -17,16 +17,16 @@ tags:
 - manutenção
 - servidor
 img: support01.png
-thumb: project_support.png
+thumb: services/support-400x300.png
 carousel:
-- /carousel/support02.jpg
-- /carousel/support01.png
+- services/support-banner-1-1280x600.png
+- services/support-banner-2-1280x600.png
 client: Corp.
 website: http://martche.ca
 draft: oloco meu
 language: pt
 priority: 0.6
-description: Hoje em dia, a maioria das empresas, grandes e pequenas, têm pouco tempo disponível. Alguns clientes preferem manter os seus próprios sites, enquanto outros preferem não o fazer. De qualquer forma, os nossos serviços de manutenção e suporte de websites da DSO podem fornecer à sua empresa soluções contínuas, fiáveis ​​e acessíveis para o seu website, entregues de forma profissional e dentro do prazo.
+description: Mantenha os seus websites, sistemas e aplicações atualizados, otimizados e a funcionar corretamente com acompanhamento técnico contínuo
 featured: true
 service_order: 8
 ---

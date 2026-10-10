@@ -14,10 +14,9 @@ categories:
 tags:
 - back-end
 - servidor
-thumb: project_netbsd.jpg
-img: netbsd01.png
+thumb: services/netbsd-400x300.jpg
+img: 
 carousel:
-- netbsd01.png
 language: pt
 client: Corp.
 website: http://www.netbsd.org

@@ -16,16 +16,15 @@ tags:
 - marketing
 - front-end
 img: email_marketing03.jpg
-thumb: project_email_marketing.jpg
+thumb: dogs/services/email-marketing-400x300.png
 carousel:
-- email_marketing01.jpg
-- email_marketing02.jpg
-- email_marketing03.jpg
+- dogs/services/email-marketing-banner-1-1280x600.png
+- dogs/services/email-marketing-banner-2-1280x600.png
 client: Corp.
 language: en
 website: http://www.org
 priority: 0.6
-description: In the right hands, email marketing is an incredibly powerful tool. After all, what else gets your message straight to a targeted audience that has opted to receive it?
+description: Reach your audience with targeted email campaigns, newsletters, and automated communications that encourage engagement and loyalty
 ---
 ### Turn email into a consistent communication channel
 

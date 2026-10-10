@@ -14,11 +14,10 @@ categories:
 tags:
 - back-end
 - servidor
-thumb: project_linux.jpg
+thumb: services/linux-400x300.png
 img: linux01.jpg
 carousel:
-- linux01.jpg
-- linux02.jpg
+- services/linux-banner-1-1280x600.png
 client: Corp.
 website: 
 - http://www.debian.org
@@ -26,9 +25,9 @@ website:
 - http://www.redhat.com
 language: en
 priority: 0.6
-description: Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.
+description: Linux server setup, administration, optimization, and automation to support reliable and efficient digital infrastructure
 ---
-##Linux
+## Linux
 - Firewall Iptables, NFtables, 
 - Kernel Hardening Pax/Grsec
 - Administração LVM
@@ -39,8 +38,8 @@ description: Open collaboration and Linux-based tools help developers and compan
 - Monitoramento Nagios, Zabbix, Nessus 
 - HaProxy, Blud , Ldirectord, Heartbeat
 
-####Helps us solve harder problems...
+### Helps us solve harder problems...
 Open collaboration and Linux-based tools help developers and companies worldwide tackle the most challenging problems of our time.
 
-####Nosso Propósito
+### Nosso Propósito
 Consultoria Linux em sua infra estrutura e aplicações Web.

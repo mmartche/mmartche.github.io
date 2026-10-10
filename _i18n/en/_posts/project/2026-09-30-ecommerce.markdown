@@ -16,10 +16,11 @@ tags:
 - front-end
 - ecommerce
 - seo
-thumb: project_opencart.jpg
+thumb: services/ecommerce-400x300.png
 img: project_opencart.jpg
 carousel:
-- /project_opencart.jpg
+- services/ecommerce-banner-1-1280x600.png
+- services/ecommerce-banner-2-1280x600.png
 client: Corp.
 website:  
 - http://www.opencart.com
@@ -30,7 +31,7 @@ include: prices-ecom
 features: ecommerce
 language: en
 priority: 0.6
-description: Estes dias mais e mais varejistas estão percebendo que, a fim de sobreviver no futuro, é imperativo ter uma loja online. 
+description: Complete online stores with secure payments, product management, and a seamless shopping experience to help your business grow 
 featured: true
 service_order: 2
 ---
