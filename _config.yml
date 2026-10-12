@@ -16,6 +16,7 @@ excerpt_separator: "<!--more-->"
 
 plugins:
   - jekyll-multiple-languages-plugin
+  - jekyll-sitemap
 
 languages:
   - pt
