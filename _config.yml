@@ -29,8 +29,8 @@ exclude_from_localizations:
 default_locale_in_subfolder: false
 
 colors:
-  primary: "darkslategray"
-  primary_rgb: "0,100,0"
+  primary: "#2F4F4F"
+  primary_rgb: "47,79,79"
   secondary: "#020210"
   link: "#428bca"
   link_hover: "#01b2fe"
