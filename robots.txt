@@ -1,6 +1,8 @@
-User-Agent: *
-Disallow: 
-
+---
+layout: null
+permalink: /robots.txt
+---
+User-agent: *
 Allow: /
 
-Sitemap: https://mmartche.github.io/sitemap.xml
+Sitemap: {{ site.url }}/sitemap.xml
