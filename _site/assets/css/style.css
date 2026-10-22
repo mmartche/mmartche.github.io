@@ -127,6 +127,10 @@ a:focus {
 	border-color: transparent;
 }
 
+.navbar-right {
+	padding-top: 1em;
+}
+
 .dropdown-menu {
 	background: #020210;
 }
