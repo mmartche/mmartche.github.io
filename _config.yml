@@ -1,6 +1,6 @@
 ### GENERAL SETTINGS ###
 
-title: FazAgil Solucoes
+title: FazÁgil Soluções Digitais
 co_name: FazAgil
 
 analytics:
@@ -39,6 +39,9 @@ colors:
 
 
 ### CONTACT SETTINGS ###
+
+share:
+  img: FazAgil.png
 
 social:
   - title: twitter

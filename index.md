@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Home
+description: FazÁgil — Tecnologia e Soluções Digitais
+img: FazAgil.png
 ref: home
 permalink: /
 translations:
